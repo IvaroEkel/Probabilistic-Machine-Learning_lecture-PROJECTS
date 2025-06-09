@@ -1,0 +1,61 @@
+{"features": ["EF1","EF20","EF731","EF734","EF735","EF736","EF737","EF739","EF740","EF741","EF742","EF743","EF745","EF746","EF747"],
+
+"feature_names":{
+    "EF1": "federal_state",
+    "EF20": "household_size",
+    "EF731": "gender",
+    "EF734": "citizenship",
+    "EF735": "marital_status",
+    "EF736": "employment_status",
+    "EF737": "employment_sector",
+    "EF739": "job",
+    "EF740": "employment_position",
+    "EF741": "livelihood",
+    "EF742": "income",
+    "EF743": "educational_qualification",
+    "EF745": "highest_qualification ",
+    "EF746": "primary_residence",
+    "EF747": "Household relationship"
+
+},
+
+"gender":{
+    "1": "male",
+    "2": "female"
+},
+
+"citizenship":{
+    "1": "german",
+    "2": "immigrant"
+},
+
+"marital_status":{
+    "1": "single",
+    "2": "married",
+    "3": "married separated",
+    "4": "divorced",
+    "5": "widowed",
+    "6": "civil partnership",
+    "7": "civil partnership separated",
+    "8": "civil partnership dissolved / deceased"
+},
+
+"employment_status":{
+    "1": "employed",
+    "2": "unemployed",
+    "3": "employment seeking",
+    "4": "econ. inactive"
+},
+"livelihood":{
+    "1" : "income",
+    "2" : "unemployment ben. (ALG1)",
+    "3" : "pension",
+    "4" : "income of relatives",
+    "5" : "assets",
+    "6" : "basic income support",
+    "7" : "unemployment ben. (Hartz IV)",
+    "8" : "other (BAFÖG, scholarship,...)",
+    "9" : "parental ben."
+}
+
+}
