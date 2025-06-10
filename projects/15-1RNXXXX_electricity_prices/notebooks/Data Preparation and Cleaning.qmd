@@ -8,24 +8,69 @@ editor: visual
 # Data Exploration and Cleaning
 
 ```{r}
+#| code-fold: true
+#| code-summary: "Load necessary libraries and files"
+#| echo: false
 library(tidyverse)
 source("preparation.R")
 setwd("/home/niclas/uni_leipzig/07_Veranstaltungen_SoSe25/ProbML/15-1RNXXXX_electricity_prices/")
 ```
 
 ```{r}
+#| code-fold: true
+#| code-summary: "Load data and prepare it"
+#| echo: false
 # TODO fix warnings
+# load the electricity prices from the file
 ep <- load_electricity_prices()
+
+# this step deduplicates the data, renames the columns and perform type casting,
+# such that numerical variables are doubles and columns with a date and time, it
+# formats as date time.
 ep <- prepare_data(ep)
 ```
-**TODO**
-Insert description of the Data (what is the meaning of the columns, where, when,
-source of the data, coverage, period, possible negative values)
-```{r}
-# describe data
-str(ep)
+## Non-technical description
+This dataset describes the day-ahead price for electricity traded at electricity
+exchange, usually the  European Energy Exchange EEX in Leipzig and the European
+Power Exchange EPEX SPOT in Paris. The data is from the Bundesnetzagentur
+(Federal Agency for Electricity, Gas, Telecommunication, Post and Railroad),
+which can be downloaded (here)[https://www.smard.de/home/downloadcenter/download-marktdaten/].
 
-summary(ep)
+The data describes the day-ahead price for the produced cost and does not cover
+the costs for delivering electricity, therefore the prices are not comparable 
+with end user's costs. It is assumed that there is no storage methods for the 
+electricity utilities companies, thus they have to deliver the electricity immediately 
+to their customers. During the day, the electricity demand changes, so some 
+experts even say that electricity at different times are different commodies. (TODO: insert citation)
+A lack of demand can also lead to negative prices, so they are not unrealistic.
+
+The data contains the electricity prices for different market areas in the
+European Union in € / MWh. Since October 1, 2018 Germany is in the
+market area Germany-Luxembourg, which is our focus. 
+Our data's time coverage is from October 1, 2018 until April 30, 2025.
+
+The columns `Date_from` and `Date_to` give the time period in which the price
+is given. The numerical columns contain the ISO country code and a possible
+number, if the country is divided into more market areas. The column
+`avg_ngb` is the average electricity price for the neighbouring market areas.
+We are mostly interested in the values of the column `DELU`.
+
+```{r}
+#| code-fold: true
+#| code-summary: "Get a frist glimpse of the data"
+head(ep)
+```
+
+## Technical description
+
+```{r}
+#| code-fold: true
+#| code-summary: "Technical description of the data"
+# get the structure of our data frame
+str(ep)
+# get summary statistics for each column
+library(summarytools)
+dfSummary(ep)
 ```
 
 The dataset is complete, since we have `{r} nrow(ep)` rows. This equals to 
@@ -34,16 +79,23 @@ $2404~\mathrm{days} * 24 \frac{\mathrm{hours}}{\mathrm {day}} - 7~\mathrm{hours}
 We need to subtract 7 hours, due to the switch from summer time to winter time
 in march. 
 
-There are no missing data for our time series. 
+There are no missing data for the variable `DELU` which holds the electricity
+price for Germany / Luxembourg, which we will focus. The neighboring countries
+contain `NA`-values however. 
 
-We focus now in Germany / Luxembourg
+From a statistical side, we see that the mean of the variable `DELU` and its
+median differ greatly and the standard deviation of the mean statistic is also
+high.
 
 
 ```{r}
+#| code-fold: true
 library(feasts) # needed later
 ```
 
 ```{r}
+#| code-fold: true
+#| code-summary: "Plot the whole time series"
 ep %>%
   ggplot(aes(Date_from, DELU)) + 
   geom_line(color="blue") +
@@ -55,7 +107,7 @@ ep %>%
 ```
 **Take aways**
 - Variance is not constant
-- Jumps can occur in our data
+- Jumps can occur in our data, we need to model it too
 ```{r}
 start_date <- as_datetime(ymd("2019-01-01"))
 end_date <- as_datetime(ymd("2019-02-01"))
@@ -71,6 +123,8 @@ ep %>%
 ```
 
 ```{r}
+#| code-fold: true
+#| code-summary: "Plot for 14 days of our time series"
 start_date <- as_datetime(ymd("2019-03-01"))
 end_date <- as_datetime(ymd("2019-03-14"))
 ep %>%
@@ -83,7 +137,14 @@ ep %>%
   labs(title="Electricity prices in Germany and Luxembourg for 1st - 14th March 2019") +
   theme_bw()
 ```
+**Take aways**
+- For this short window of time, it seems that there is an intraday seasonality 
+and intraweek seasonality. 
+- The prices plunge on the weekend and sink during the night
+
 ```{r}
+#| code-fold: true
+#| code-summary: "Electricity prices by hour"
 start_date <- as_datetime(ymd("2019-03-01"))
 end_date <- as_datetime(ymd("2019-03-14"))
 ep %>%
@@ -98,10 +159,17 @@ ep %>%
   xlab("Date") +
   labs(title="Electricity prices in DE / LUX for 1st - 14th March 2019 by hour of the day")
 ```
+Plotting the same values by the hour of the day bolsters the belief that there is
+an intraday seasonality with peaks at 7am and 19 an. 
 ```{r}
+#| code-fold: true
+#| code-summary: "Plot the weekly moving average"
+#| warning: false
 # load library for moving average
 library(slider)
 
+# plot the moving average for a single week. This averages out daily and hourly 
+# effects
 ep %>%
   mutate(ma_week = slide_dbl(DELU, mean, .before = 83, .after = 83, .complete = TRUE)) %>%
    ggplot(aes(Date_from, DELU)) + 
@@ -113,5 +181,70 @@ ep %>%
   labs(title="Electricity prices in Germany and Luxembourg with weekly Moving Average") +
   theme_bw()
 ```
+The moving average for a week roughly removes the subweek seasonality and indicates
+the trend in the data. Here we see that during 2022 there is a rise in the prices
+and the variance. Therefore we should consider a GARCH-model rather than an
+AR(I)MA model, which assumes a constant variance.
+```{r}
+source("fft_util.R")
+source("auto_correlation_util.R")
+```
+```{r}
+ep_fft <- compute_fft(ep, Date_from, DELU)
+ep_fft %>% ggplot(aes(freq, amplitude)) +
+  geom_line(color = "steelblue") +
+    labs(x= "Frequency",y = "Amplitude", title = "One‐Sided FFT (Amplitude Spectrum)") +
+    theme_minimal()
+```
 
+```{r}
+ep_acf <- compute_autocorrelation(ep, DELU, lag.max=18000)
+ggplot(ep_acf, aes(x = lag, y = acf)) +
+  geom_bar(stat = "identity", width = 0.2) +
+  labs(title = "Autocorrelation of the electricity prices", x = "Lag", y = "ACF") +
+  theme_minimal()
+```
+We plot the auto correlation function, and we see that it is highly correlated
+with the previous electricity prices. This will make it hard to select 
+variables in our regression model.
+
+The Fourier spectrum of our time series shows that low frequencies are dominating,
+however some frequencies protude, which can be possible used for a variable
+selection.
+
+```{r}
+#| code-fold: true
+#| code-line-numbers: true
+#| code-summary: "Seasonal decomposition"
+library(feasts)
+
+
+ep_ts <-  ep %>%
+  select(Date_from, DELU) %>%
+  as_tsibble()%>%
+  fill_gaps() %>%
+  tidyr::fill(DELU, .direction = "down")
+
+ep_stl <- ep_ts %>%
+  model(STL(DELU))
+
+
+
+ep_stl %>%
+  components() %>%
+  select(-c(".model", "season_adjust")) %>%
+  tidyr::pivot_longer(-Date_from, names_to = "component") %>%
+  ggplot(aes(Date_from, value, color = component)) +
+    geom_line(show.legend = FALSE, ) +
+    theme_bw() +
+    theme(aspect.ratio = 0.1) +
+    facet_wrap("component", scales="free", ncol = 1, strip.position = "left") +
+    xlab("Date") +
+    scale_x_datetime(breaks="3 month", date_labels = "%m/%y") +
+    ylab("€ / MWh") +
+    labs(title="STL decomposition of electricitpy prices in Germany and Luxembourg",
+         subtitle = "DELU = trend + season_year + season_week + season_day + remainder")
+
+  
+```
 

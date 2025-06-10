@@ -47,12 +47,6 @@ prepare_data <- function(ep) {
   # from winter and summer time
   ep_prepared <- ep_prepared %>%
     distinct(Date_from, .keep_all = TRUE)
-  # summertime_duplicates <- ep_prepared %>%
-  #   arrange(Date_to) %>% 
-  #   pull(Date_to) %>% 
-  #   duplicated()
-  # 
-  # ep_prepared <- ep_prepared[!summertime_duplicates,]
   
   return(ep_prepared)
 }
