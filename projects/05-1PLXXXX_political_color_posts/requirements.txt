@@ -1,0 +1,8 @@
+pandas==2.3.0
+scikit-learn==1.7.0
+numpy==2.3.0
+matplotlib==3.10.3
+xgboost==3.0.2
+opencv-python==4.11.0
+Pillow==11.2.1
+instaloader==4.14.1
