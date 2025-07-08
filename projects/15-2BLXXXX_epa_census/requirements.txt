@@ -4,3 +4,4 @@ matplotlib==3.8.0
 seaborn==0.12.2
 Scikit-learn==1.2.2
 statsmodels==0.14.0
+tqdm==4.65.0
