@@ -1,2 +1,6 @@
+.Rhistory
+.Rproj.user/
+.RData
+.Rcache/
+*.Rproj
 .DS_Store
-**/.DS_Store

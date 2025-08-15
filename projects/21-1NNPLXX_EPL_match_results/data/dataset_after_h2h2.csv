@@ -1,0 +1,761 @@
+date,time,home_team,away_team,home_goals,away_goals,home_xg,away_xg,home_poss,comp,round,day,referee,season,result,home_team_form,away_team_form,home_avg_goals_10,home_avg_xg_10,away_avg_goals_10,away_avg_xg_10,home_avg_conceded_10,away_avg_conceded_10,h2h_stat
+2022-08-05,20:00 (21:00),Crystal Palace,Arsenal,0,2,1.2,1.0,56,Premier League,Matchweek 1,Fri,Anthony Taylor,2023,-1,0.0,3.0,0.0,1.2,2.0,1.0,2.0,0.0,0.0
+2022-08-06,12:30 (13:30),Fulham,Liverpool,2,2,1.2,1.2,33,Premier League,Matchweek 1,Sat,Andy Madley,2023,0,1.0,1.0,2.0,1.2,2.0,1.2,2.0,2.0,0.0
+2022-08-06,15:00 (16:00),Newcastle United,Nott'ham Forest,2,0,1.7,0.3,61,Premier League,Matchweek 1,Sat,Simon Hooper,2023,1,3.0,1.5,2.0,1.7,1.5328947368421053,1.4846052631578948,0.0,1.5328947368421053,0.0
+2022-08-06,15:00 (16:00),Tottenham Hotspur,Southampton,4,1,1.5,0.5,58,Premier League,Matchweek 1,Sat,Andre Marriner,2023,1,3.0,0.0,4.0,1.5,1.0,0.5,1.0,4.0,0.0
+2022-08-06,15:00 (16:00),Bournemouth,Aston Villa,2,0,0.6,0.7,35,Premier League,Matchweek 1,Sat,Peter Bankes,2023,1,3.0,0.0,2.0,0.6,0.0,0.7,0.0,2.0,0.0
+2022-08-06,15:00 (16:00),Leeds United,Wolves,2,1,0.8,1.3,40,Premier League,Matchweek 1,Sat,Robert Jones,2023,1,3.0,1.5,2.0,0.8,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-06,17:30 (18:30),Everton,Chelsea,0,1,0.7,1.5,38,Premier League,Matchweek 1,Sat,Craig Pawson,2023,-1,0.0,3.0,0.0,0.7,1.0,1.5,1.0,0.0,0.0
+2022-08-07,14:00 (15:00),Manchester United,Brighton,1,2,1.4,1.5,62,Premier League,Matchweek 1,Sun,Paul Tierney,2023,-1,0.0,1.5,1.0,1.4,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2022-08-07,14:00 (15:00),Leicester City,Brentford,2,2,0.6,0.8,56,Premier League,Matchweek 1,Sun,Jarred Gillett,2023,0,1.0,1.0,2.0,0.6,2.0,0.8,2.0,2.0,0.0
+2022-08-07,16:30 (17:30),West Ham United,Manchester City,0,2,0.5,2.2,25,Premier League,Matchweek 1,Sun,Michael Oliver,2023,-1,0.0,3.0,0.0,0.5,2.0,2.2,2.0,0.0,0.0
+2022-08-13,12:30 (13:30),Aston Villa,Everton,2,1,2.3,1.6,57,Premier League,Matchweek 2,Sat,Michael Oliver,2023,1,1.5,0.0,1.0,1.5,0.5,1.15,1.5,1.5,0.0
+2022-08-13,15:00 (16:00),Manchester City,Bournemouth,4,0,1.7,0.1,67,Premier League,Matchweek 2,Sat,David Coote,2023,1,3.0,1.5,3.0,1.9500000000000002,1.0,0.35,0.0,2.0,0.0
+2022-08-13,15:00 (16:00),Arsenal,Leicester City,4,2,2.7,0.5,50,Premier League,Matchweek 2,Sat,Darren England,2023,1,3.0,0.5,3.0,1.85,2.0,0.55,1.0,3.0,0.0
+2022-08-13,15:00 (16:00),Brighton and Hove Albion,Newcastle Utd,0,0,1.5,0.2,54,Premier League,Matchweek 2,Sat,Graham Scott,2023,0,2.0,1.5,1.0,1.5,1.5328947368421053,1.4846052631578948,0.5,1.5328947368421053,0.0
+2022-08-13,15:00 (16:00),Wolverhampton Wanderers,Fulham,0,0,0.9,1.5,59,Premier League,Matchweek 2,Sat,John Brooks,2023,0,0.5,1.0,0.5,1.1,1.0,1.35,1.0,1.0,0.0
+2022-08-13,15:00 (16:00),Southampton,Leeds United,2,2,1.2,1.8,43,Premier League,Matchweek 2,Sat,Tony Harrington,2023,0,0.5,2.0,1.5,0.85,2.0,1.3,3.0,1.5,0.0
+2022-08-13,17:30 (18:30),Brentford,Manchester Utd,4,0,1.6,0.9,34,Premier League,Matchweek 2,Sat,Stuart Attwell,2023,1,2.0,1.5,3.0,1.2000000000000002,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-14,14:00 (15:00),Nottingham Forest,West Ham,1,0,1.3,2.1,43,Premier League,Matchweek 2,Sun,Robert Jones,2023,1,1.5,1.5,0.5,0.8,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-14,16:30 (17:30),Chelsea,Tottenham,2,2,1.6,1.0,63,Premier League,Matchweek 2,Sun,Anthony Taylor,2023,0,2.0,1.5,1.5,1.55,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-15,20:00 (21:00),Liverpool,Crystal Palace,1,1,2.0,1.0,72,Premier League,Matchweek 2,Mon,Paul Tierney,2023,0,1.0,0.5,1.5,1.6,0.5,1.1,1.5,1.5,0.0
+2022-08-20,12:30 (13:30),Tottenham Hotspur,Wolves,1,0,1.7,0.7,50,Premier League,Matchweek 3,Sat,Simon Hooper,2023,1,2.3333333333333335,1.5,2.3333333333333335,1.4000000000000001,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-20,15:00 (16:00),Fulham,Brentford,3,2,2.4,1.8,43,Premier League,Matchweek 3,Sat,Peter Bankes,2023,1,1.6666666666666667,1.3333333333333333,1.6666666666666667,1.7,2.6666666666666665,1.4000000000000001,1.3333333333333333,1.6666666666666667,0.0
+2022-08-20,15:00 (16:00),Crystal Palace,Aston Villa,3,1,2.6,0.9,51,Premier League,Matchweek 3,Sat,Andy Madley,2023,1,1.3333333333333333,1.0,1.3333333333333333,1.5999999999999999,1.0,1.3,1.3333333333333333,2.0,0.0
+2022-08-20,15:00 (16:00),Everton,Nott'ham Forest,1,1,1.5,1.0,49,Premier League,Matchweek 3,Sat,Andre Marriner,2023,0,0.3333333333333333,1.5,0.6666666666666666,1.2666666666666666,1.5328947368421053,1.4846052631578948,1.3333333333333333,1.5328947368421053,0.0
+2022-08-20,15:00 (16:00),Leicester City,Southampton,1,2,0.3,0.9,62,Premier League,Matchweek 3,Sat,Michael Salisbury,2023,-1,0.3333333333333333,1.3333333333333333,1.6666666666666667,0.4666666666666666,1.6666666666666667,0.8666666666666667,2.6666666666666665,2.3333333333333335,0.0
+2022-08-20,17:30 (18:30),Bournemouth,Arsenal,0,3,0.3,1.3,43,Premier League,Matchweek 3,Sat,Craig Pawson,2023,-1,1.0,3.0,0.6666666666666666,0.3333333333333333,3.0,1.6666666666666667,2.3333333333333335,0.6666666666666666,0.0
+2022-08-21,14:00 (15:00),West Ham United,Brighton,0,2,0.8,1.7,50,Premier League,Matchweek 3,Sun,Anthony Taylor,2023,-1,0.0,1.5,0.0,1.1333333333333335,1.5328947368421053,1.4846052631578948,1.6666666666666667,1.5328947368421053,0.0
+2022-08-21,14:00 (15:00),Leeds United,Chelsea,3,0,2.1,0.9,39,Premier League,Matchweek 3,Sun,Stuart Attwell,2023,1,2.3333333333333335,1.3333333333333333,2.3333333333333335,1.5666666666666667,1.0,1.3333333333333333,1.0,1.6666666666666667,0.0
+2022-08-21,16:30 (17:30),Newcastle United,Manchester City,3,3,1.8,2.1,31,Premier League,Matchweek 3,Sun,Jarred Gillett,2023,0,1.6666666666666667,2.3333333333333335,1.6666666666666667,1.2333333333333334,3.0,2.0,1.0,1.0,0.0
+2022-08-22,20:00 (21:00),Manchester United,Liverpool,2,1,1.8,1.3,30,Premier League,Matchweek 3,Mon,Michael Oliver,2023,1,1.0,0.6666666666666666,1.0,1.3666666666666665,1.3333333333333333,1.5,2.3333333333333335,1.6666666666666667,0.0
+2022-08-27,12:30 (13:30),Southampton,Manchester Utd,0,1,1.4,1.1,49,Premier League,Matchweek 4,Sat,Andy Madley,2023,-1,1.0,1.5,1.25,1.0,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2022-08-27,15:00 (16:00),Manchester City,Crystal Palace,4,2,2.2,0.1,74,Premier League,Matchweek 4,Sat,Darren England,2023,1,2.5,1.0,3.25,2.05,1.5,1.2249999999999999,1.25,2.0,0.0
+2022-08-27,15:00 (16:00),Liverpool,Bournemouth,9,0,3.3,0.3,69,Premier League,Matchweek 4,Sat,Stuart Attwell,2023,1,1.25,0.75,3.25,1.95,0.5,0.325,1.25,4.0,0.0
+2022-08-27,15:00 (16:00),Brighton and Hove Albion,Leeds United,1,0,2.0,1.8,44,Premier League,Matchweek 4,Sat,Michael Salisbury,2023,1,2.5,1.75,1.25,1.675,1.75,1.625,0.25,1.0,0.0
+2022-08-27,15:00 (16:00),Brentford,Everton,1,1,2.1,1.1,58,Premier League,Matchweek 4,Sat,John Brooks,2023,0,1.25,0.5,2.25,1.5750000000000002,0.75,1.225,1.5,1.25,0.0
+2022-08-27,15:00 (16:00),Chelsea,Leicester City,2,1,1.8,2.5,45,Premier League,Matchweek 4,Sat,Paul Tierney,2023,1,1.75,0.25,1.25,1.4500000000000002,1.5,0.975,1.5,2.5,0.0
+2022-08-27,17:30 (18:30),Arsenal,Fulham,2,1,2.6,0.8,71,Premier League,Matchweek 4,Sat,Jarred Gillett,2023,1,3.0,1.25,2.75,1.9000000000000001,1.5,1.4749999999999999,0.75,1.5,0.0
+2022-08-28,14:00 (15:00),Aston Villa,West Ham,0,1,0.5,0.6,58,Premier League,Matchweek 4,Sun,David Coote,2023,-1,0.75,1.5,0.75,1.1,1.5328947368421053,1.4846052631578948,1.75,1.5328947368421053,0.0
+2022-08-28,14:00 (15:00),Wolverhampton Wanderers,Newcastle Utd,1,1,0.7,1.7,37,Premier League,Matchweek 4,Sun,Peter Bankes,2023,0,0.5,1.5,0.5,0.9,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-28,16:30 (17:30),Nottingham Forest,Tottenham,0,2,0.9,2.4,55,Premier League,Matchweek 4,Sun,Craig Pawson,2023,-1,1.0,1.5,0.5,0.875,1.5328947368421053,1.4846052631578948,1.25,1.5328947368421053,0.0
+2022-08-30,19:30 (20:30),Fulham,Brighton,2,1,0.7,1.4,39,Premier League,Matchweek 5,Tue,Thomas Bramall,2023,1,1.6,1.5,1.6,1.3199999999999998,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2022-08-30,19:30 (20:30),Crystal Palace,Brentford,1,1,1.0,1.4,49,Premier League,Matchweek 5,Tue,Simon Hooper,2023,0,1.0,1.2,1.4,1.1800000000000002,2.0,1.54,1.8,1.4,0.0
+2022-08-30,19:45 (20:45),Southampton,Chelsea,2,1,1.1,1.1,33,Premier League,Matchweek 5,Tue,Michael Oliver,2023,1,1.4,1.4,1.4,1.02,1.2,1.3800000000000001,1.8,1.6,0.0
+2022-08-30,20:00 (21:00),Leeds United,Everton,1,1,1.0,1.0,69,Premier League,Matchweek 5,Tue,Darren England,2023,0,1.6,0.6,1.6,1.5,0.8,1.1800000000000002,1.0,1.2,0.0
+2022-08-31,19:30 (20:30),Manchester City,Nott'ham Forest,6,0,3.3,0.7,74,Premier League,Matchweek 5,Wed,Paul Tierney,2023,1,2.6,1.5,3.8,2.3,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-08-31,19:30 (20:30),Arsenal,Aston Villa,2,1,2.4,0.4,59,Premier League,Matchweek 5,Wed,Robert Jones,2023,1,3.0,0.6,2.6,2.0,0.8,0.96,0.8,1.8,0.0
+2022-08-31,19:30 (20:30),Bournemouth,Wolves,0,0,0.4,1.5,35,Premier League,Matchweek 5,Wed,Anthony Taylor,2023,0,0.8,1.5,0.4,0.33999999999999997,1.5328947368421053,1.4846052631578948,3.2,1.5328947368421053,0.0
+2022-08-31,19:45 (20:45),West Ham United,Tottenham,1,1,1.2,0.6,39,Premier League,Matchweek 5,Wed,Peter Bankes,2023,0,0.8,1.5,0.4,1.04,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2022-08-31,20:00 (21:00),Liverpool,Newcastle Utd,2,1,1.5,0.7,72,Premier League,Matchweek 5,Wed,Andre Marriner,2023,1,1.6,1.5,3.0,1.86,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2022-09-01,20:00 (21:00),Leicester City,Manchester Utd,0,1,0.7,1.5,53,Premier League,Matchweek 5,Thu,Craig Pawson,2023,-1,0.2,1.5,1.2,0.9199999999999999,1.5328947368421053,1.4846052631578948,2.2,1.5328947368421053,0.0
+2022-09-03,12:30 (13:30),Everton,Liverpool,0,0,1.7,2.1,39,Premier League,Matchweek 6,Sat,Anthony Taylor,2023,0,0.8,1.6,0.6666666666666666,1.2666666666666666,2.5,1.9000000000000001,1.0,1.0,0.0
+2022-09-03,15:00 (16:00),Newcastle United,Crystal Palace,0,0,2.8,1.0,52,Premier League,Matchweek 6,Sat,Michael Salisbury,2023,0,0.8,1.2,1.1666666666666667,1.4833333333333332,1.1666666666666667,1.1500000000000001,1.0,1.5,0.0
+2022-09-03,15:00 (16:00),Tottenham Hotspur,Fulham,2,1,2.9,0.7,52,Premier League,Matchweek 6,Sat,Stuart Attwell,2023,1,2.2,1.4,2.0,1.6833333333333333,1.5,1.2166666666666666,0.8333333333333334,1.5,0.0
+2022-09-03,15:00 (16:00),Brentford,Leeds United,5,2,2.3,1.7,32,Premier League,Matchweek 6,Sat,Robert Jones,2023,1,1.6,1.0,2.5,1.6666666666666667,1.6666666666666667,1.5333333333333332,1.5,1.6666666666666667,0.0
+2022-09-03,15:00 (16:00),Chelsea,West Ham,2,1,0.9,1.1,67,Premier League,Matchweek 6,Sat,Andy Madley,2023,1,1.4,1.5,1.3333333333333333,1.3,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2022-09-03,15:00 (16:00),Wolverhampton Wanderers,Southampton,1,0,0.8,1.2,51,Premier League,Matchweek 6,Sat,John Brooks,2023,1,1.2,1.4,0.5,0.9833333333333334,1.1666666666666667,1.05,0.6666666666666666,1.6666666666666667,0.0
+2022-09-03,15:00 (16:00),Nottingham Forest,Bournemouth,2,3,1.9,0.8,52,Premier League,Matchweek 6,Sat,Michael Oliver,2023,-1,0.8,0.8,0.6666666666666666,1.0166666666666666,0.8333333333333334,0.4166666666666667,2.3333333333333335,3.0,0.0
+2022-09-03,17:30 (18:30),Aston Villa,Manchester City,1,1,0.3,2.1,29,Premier League,Matchweek 6,Sat,Simon Hooper,2023,0,0.8,2.2,0.8333333333333334,0.85,3.3333333333333335,2.2666666666666666,1.6666666666666667,1.0,0.0
+2022-09-04,14:00 (15:00),Brighton and Hove Albion,Leicester City,5,2,2.6,1.4,53,Premier League,Matchweek 6,Sun,Tony Harrington,2023,1,2.0,0.0,1.8333333333333333,1.7833333333333332,1.3333333333333333,1.0,0.8333333333333334,2.6666666666666665,0.0
+2022-09-04,16:30 (17:30),Manchester United,Arsenal,3,1,1.5,1.3,40,Premier League,Matchweek 6,Sun,Paul Tierney,2023,1,2.4,2.4,1.3333333333333333,1.3666666666666665,2.3333333333333335,1.8833333333333335,1.3333333333333333,1.1666666666666667,0.0
+2022-09-16,20:00 (21:00),Aston Villa,Southampton,1,0,1.5,0.3,53,Premier League,Matchweek 8,Fri,Tony Harrington,2023,1,0.8,1.2,0.8571428571428571,0.9428571428571428,1.0,0.9428571428571428,1.4285714285714286,1.5714285714285714,0.0
+2022-09-16,20:00 (21:00),Nottingham Forest,Fulham,2,3,1.4,0.9,41,Premier League,Matchweek 8,Fri,Jarred Gillett,2023,-1,0.2,1.8,0.8571428571428571,1.0714285714285714,1.7142857142857142,1.1714285714285713,2.4285714285714284,1.5714285714285714,0.0
+2022-09-17,12:30 (13:30),Wolverhampton Wanderers,Manchester City,0,3,0.4,1.1,41,Premier League,Matchweek 8,Sat,Anthony Taylor,2023,-1,1.0,2.2,0.42857142857142855,0.9,3.2857142857142856,2.1,1.0,0.8571428571428571,0.0
+2022-09-17,15:00 (16:00),Newcastle United,Bournemouth,1,1,1.9,0.7,72,Premier League,Matchweek 8,Sat,Craig Pawson,2023,0,0.8,1.0,1.1428571428571428,1.5428571428571427,0.8571428571428571,0.4571428571428572,1.0,2.7142857142857144,0.0
+2022-09-17,17:30 (18:30),Tottenham Hotspur,Leicester City,6,2,2.2,1.8,44,Premier League,Matchweek 8,Sat,Simon Hooper,2023,1,2.6,0.0,2.5714285714285716,1.7571428571428573,1.4285714285714286,1.1142857142857143,1.0,3.142857142857143,0.0
+2022-09-18,12:00 (13:00),Brentford,Arsenal,0,3,0.5,1.5,37,Premier League,Matchweek 8,Sun,David Coote,2023,-1,1.0,2.4,2.142857142857143,1.5,2.4285714285714284,1.8285714285714287,1.7142857142857142,1.0,0.0
+2022-09-18,14:15 (15:15),Everton,West Ham,1,0,0.4,1.0,53,Premier League,Matchweek 8,Sun,Michael Oliver,2023,1,1.4,1.5,0.7142857142857143,1.1428571428571428,1.5328947368421053,1.4846052631578948,0.8571428571428571,1.5328947368421053,0.0
+2022-10-01,12:30 (13:30),Arsenal,Tottenham,3,1,2.4,1.6,64,Premier League,Matchweek 9,Sat,Anthony Taylor,2023,1,2.4,1.5,2.5,1.9,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-10-01,15:00 (16:00),Liverpool,Brighton,3,3,1.5,1.4,54,Premier League,Matchweek 9,Sat,Andy Madley,2023,0,1.6,1.5,2.5714285714285716,1.842857142857143,1.5328947368421053,1.4846052631578948,1.2857142857142858,1.5328947368421053,0.0
+2022-10-01,15:00 (16:00),Fulham,Newcastle Utd,1,4,0.5,3.3,33,Premier League,Matchweek 9,Sat,Darren England,2023,-1,1.2,1.5,1.625,1.0875,1.5328947368421053,1.4846052631578948,1.875,1.5328947368421053,0.0
+2022-10-01,15:00 (16:00),Crystal Palace,Chelsea,1,2,0.4,1.1,36,Premier League,Matchweek 9,Sat,Chris Kavanagh,2023,-1,1.0,1.8,1.1428571428571428,1.042857142857143,1.4285714285714286,1.2714285714285716,1.5714285714285714,1.4285714285714286,0.0
+2022-10-01,15:00 (16:00),Bournemouth,Brentford,0,0,0.4,0.9,42,Premier League,Matchweek 9,Sat,Thomas Bramall,2023,0,1.2,1.2,0.75,0.45,1.875,1.425,2.375,1.5,0.0
+2022-10-01,15:00 (16:00),Southampton,Everton,1,2,1.7,2.0,55,Premier League,Matchweek 9,Sat,Andre Marriner,2023,-1,0.6,1.8,1.0,1.0375,0.875,1.25,1.625,0.875,0.0
+2022-10-01,17:30 (18:30),West Ham United,Wolves,2,0,0.9,0.7,39,Premier League,Matchweek 9,Sat,Paul Tierney,2023,1,1.4,1.5,0.625,1.0250000000000001,1.5328947368421053,1.4846052631578948,1.125,1.5328947368421053,0.0
+2022-10-02,14:00 (15:00),Manchester City,Manchester Utd,6,3,3.2,1.7,53,Premier League,Matchweek 9,Sun,Michael Oliver,2023,1,2.6,1.5,3.625,2.2375,1.5328947368421053,1.4846052631578948,1.125,1.5328947368421053,0.0
+2022-10-02,16:30 (17:30),Leeds United,Aston Villa,0,0,0.4,2.2,44,Premier League,Matchweek 9,Sun,Stuart Attwell,2023,0,1.0,1.0,1.4285714285714286,1.3714285714285714,0.75,1.1,1.4285714285714286,1.25,0.0
+2022-10-03,20:00 (21:00),Leicester City,Nott'ham Forest,4,0,1.3,1.1,51,Premier League,Matchweek 9,Mon,Robert Jones,2023,1,0.6,1.5,1.75,1.1375,1.5328947368421053,1.4846052631578948,2.75,1.5328947368421053,0.0
+2022-10-08,15:00 (16:00),Manchester City,Southampton,4,0,2.4,0.2,65,Premier League,Matchweek 10,Sat,Andy Madley,2023,1,2.6,0.6,3.6666666666666665,2.2555555555555555,0.8888888888888888,0.9444444444444444,1.0,1.8888888888888888,0.0
+2022-10-08,15:00 (16:00),Newcastle United,Brentford,5,1,1.5,1.2,54,Premier League,Matchweek 10,Sat,John Brooks,2023,1,1.6,1.0,1.8888888888888888,1.7333333333333334,1.7777777777777777,1.4,1.0,1.8888888888888888,0.0
+2022-10-08,15:00 (16:00),Chelsea,Wolves,3,0,1.9,1.1,57,Premier League,Matchweek 10,Sat,Simon Hooper,2023,1,2.4,1.5,1.625,1.35,1.5328947368421053,1.4846052631578948,1.25,1.5328947368421053,0.0
+2022-10-08,15:00 (16:00),Bournemouth,Leicester City,2,1,1.1,1.0,45,Premier League,Matchweek 10,Sat,Michael Salisbury,2023,1,1.8,0.6,0.8888888888888888,0.5222222222222223,1.6666666666666667,1.1222222222222222,2.2222222222222223,2.6666666666666665,0.0
+2022-10-08,17:30 (18:30),Brighton and Hove Albion,Tottenham,0,1,0.7,0.8,59,Premier League,Matchweek 10,Sat,Tony Harrington,2023,-1,1.4,1.5,1.75,1.6,1.5328947368421053,1.4846052631578948,1.125,1.5328947368421053,0.0
+2022-10-09,14:00 (15:00),Crystal Palace,Leeds United,2,1,1.1,1.0,54,Premier League,Matchweek 10,Sun,Paul Tierney,2023,1,1.0,0.4,1.25,1.05,1.375,1.325,1.5,1.5,0.0
+2022-10-09,14:00 (15:00),West Ham United,Fulham,3,1,2.4,0.7,50,Premier League,Matchweek 10,Sun,Chris Kavanagh,2023,1,1.4,1.2,0.8888888888888888,1.1777777777777778,1.5555555555555556,1.0444444444444445,1.1111111111111112,2.0,0.0
+2022-10-09,16:30 (17:30),Arsenal,Liverpool,3,2,2.7,1.1,43,Premier League,Matchweek 10,Sun,Michael Oliver,2023,1,2.4,1.6,2.5555555555555554,1.9888888888888887,2.5,1.75,1.1111111111111112,1.5,0.0
+2022-10-09,19:00 (20:00),Everton,Manchester Utd,1,2,0.6,1.4,40,Premier League,Matchweek 10,Sun,David Coote,2023,-1,1.6,1.5,0.8888888888888888,1.1777777777777778,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-10-10,20:00 (21:00),Nottingham Forest,Aston Villa,1,1,0.3,0.7,40,Premier League,Matchweek 10,Mon,Anthony Taylor,2023,0,0.2,1.2,0.7777777777777778,0.9888888888888889,0.7777777777777778,1.0555555555555556,2.4444444444444446,1.2222222222222223,0.0
+2022-10-14,20:00 (21:00),Brentford,Brighton,2,0,1.5,1.9,28,Premier League,Matchweek 11,Fri,Michael Salisbury,2023,1,1.4,1.5,1.8,1.41,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2022-10-15,12:30 (13:30),Leicester City,Crystal Palace,0,0,1.0,0.4,54,Premier League,Matchweek 11,Sat,Andy Madley,2023,0,0.8,1.2,1.5,1.1099999999999999,1.1111111111111112,0.9777777777777779,2.4,1.3333333333333333,0.0
+2022-10-15,15:00 (16:00),Fulham,Bournemouth,2,2,2.1,1.0,69,Premier League,Matchweek 11,Sat,Graham Scott,2023,0,0.8,1.8,1.6,1.15,1.0,0.5700000000000001,2.0,2.2,0.0
+2022-10-15,15:00 (16:00),Wolverhampton Wanderers,Nott'ham Forest,1,0,1.3,1.5,58,Premier League,Matchweek 11,Sat,Thomas Bramall,2023,1,1.2,1.5,0.4,0.9400000000000001,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2022-10-15,17:30 (18:30),Tottenham Hotspur,Everton,2,0,2.2,0.4,62,Premier League,Matchweek 11,Sat,Paul Tierney,2023,1,2.4,1.4,2.2,1.69,0.8,1.1,1.0,1.1,0.0
+2022-10-16,14:00 (15:00),Manchester United,Newcastle Utd,0,0,0.8,0.8,63,Premier League,Matchweek 11,Sun,Craig Pawson,2023,0,2.0,1.5,1.4444444444444444,1.3444444444444443,1.5328947368421053,1.4846052631578948,1.6666666666666667,1.5328947368421053,0.0
+2022-10-16,14:00 (15:00),Aston Villa,Chelsea,0,2,1.8,0.9,42,Premier League,Matchweek 11,Sun,Robert Jones,2023,-1,1.2,2.4,0.7,1.1300000000000001,1.6666666666666667,1.3,1.3,1.1111111111111112,0.0
+2022-10-16,14:00 (15:00),Leeds United,Arsenal,0,1,1.8,0.5,47,Premier League,Matchweek 11,Sun,Chris Kavanagh,2023,-1,0.4,2.4,1.2222222222222223,1.3777777777777778,2.4,1.8399999999999999,1.4444444444444444,1.0,0.0
+2022-10-16,14:00 (15:00),Southampton,West Ham,1,1,0.5,1.7,39,Premier League,Matchweek 11,Sun,Peter Bankes,2023,0,0.2,1.5,0.9,0.9,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2022-10-16,16:30 (17:30),Liverpool,Manchester City,1,0,2.1,1.0,37,Premier League,Matchweek 11,Sun,Anthony Taylor,2023,1,1.6,2.0,2.3333333333333335,1.788888888888889,3.3,2.13,1.3333333333333333,1.0,0.0
+2022-10-18,19:30 (20:30),Brighton and Hove Albion,Nott'ham Forest,0,0,1.7,0.1,70,Premier League,Matchweek 12,Tue,Darren England,2023,0,1.0,1.5,1.4,1.64,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2022-10-18,20:15 (21:15),Crystal Palace,Wolves,2,1,1.2,0.8,51,Premier League,Matchweek 12,Tue,David Coote,2023,1,1.6,1.5,1.2,1.0,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2022-10-19,19:30 (20:30),Newcastle United,Everton,1,0,1.5,0.2,49,Premier League,Matchweek 12,Wed,Tony Harrington,2023,1,2.2,1.2,1.6,1.6199999999999999,0.8,1.05,0.9,1.1,0.0
+2022-10-19,19:30 (20:30),Liverpool,West Ham,1,0,1.7,1.7,54,Premier League,Matchweek 12,Wed,Stuart Attwell,2023,1,1.6,1.5,2.2,1.78,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2022-10-19,19:30 (20:30),Brentford,Chelsea,0,0,1.3,0.9,34,Premier League,Matchweek 12,Wed,Jarred Gillett,2023,0,1.0,2.6,1.6,1.46,1.5,1.26,1.5,1.0,0.0
+2022-10-19,19:30 (20:30),Bournemouth,Southampton,0,1,1.0,1.0,54,Premier League,Matchweek 12,Wed,John Brooks,2023,-1,1.2,0.8,0.8,0.6100000000000001,0.9,0.95,2.3,1.4,0.0
+2022-10-19,20:15 (21:15),Manchester United,Tottenham,2,0,1.5,0.6,52,Premier League,Matchweek 12,Wed,Simon Hooper,2023,1,2.0,1.5,1.5,1.3599999999999999,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2022-10-20,19:30 (20:30),Fulham,Aston Villa,3,0,2.1,1.2,60,Premier League,Matchweek 12,Thu,Michael Oliver,2023,1,1.4,1.0,1.7,1.24,0.7,1.1800000000000002,1.8,1.4,0.0
+2022-10-20,20:15 (21:15),Leicester City,Leeds United,2,0,0.8,1.3,46,Premier League,Matchweek 12,Thu,Peter Bankes,2023,1,1.4,0.2,1.5,1.1300000000000001,1.1,1.3699999999999999,2.2,1.5,0.0
+2022-10-22,12:30 (13:30),Nottingham Forest,Liverpool,1,0,1.9,1.6,25,Premier League,Matchweek 13,Sat,Paul Tierney,2023,1,1.0,1.4,0.7,1.08,2.0,1.8199999999999998,2.1,1.1,0.0
+2022-10-22,15:00 (16:00),Manchester City,Brighton,3,1,1.6,0.5,48,Premier League,Matchweek 13,Sat,Craig Pawson,2023,1,2.4,1.5,3.4,2.0700000000000003,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2022-10-22,15:00 (16:00),Everton,Crystal Palace,3,0,1.4,0.9,46,Premier League,Matchweek 13,Sat,Simon Hooper,2023,1,1.2,1.4,1.0,1.0299999999999998,1.2,0.9700000000000001,0.9,1.4,0.0
+2022-10-22,17:30 (18:30),Chelsea,Manchester Utd,1,1,1.1,0.8,48,Premier League,Matchweek 13,Sat,Stuart Attwell,2023,0,2.2,1.5,1.5,1.2200000000000002,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2022-10-23,14:00 (15:00),Aston Villa,Brentford,4,0,2.8,0.9,45,Premier League,Matchweek 13,Sun,Darren England,2023,1,1.0,1.0,0.9,1.23,1.2,1.3900000000000001,1.3,1.9,0.0
+2022-10-23,14:00 (15:00),Wolverhampton Wanderers,Leicester City,0,4,2.1,0.9,60,Premier League,Matchweek 13,Sun,Michael Oliver,2023,-1,0.6,2.0,0.4,1.01,1.7,1.1700000000000002,1.6,1.8,0.0
+2022-10-23,14:00 (15:00),Leeds United,Fulham,2,3,1.6,1.8,57,Premier League,Matchweek 13,Sun,Anthony Taylor,2023,-1,0.2,1.4,1.1,1.45,2.0,1.27,1.7,2.0,0.0
+2022-10-23,14:00 (15:00),Southampton,Arsenal,1,1,0.7,1.0,41,Premier League,Matchweek 13,Sun,Robert Jones,2023,0,1.0,2.6,0.8,0.9,2.3,1.8399999999999999,1.3,1.1,0.0
+2022-10-23,16:30 (17:30),Tottenham Hotspur,Newcastle Utd,1,2,1.6,1.2,53,Premier League,Matchweek 13,Sun,Jarred Gillett,2023,-1,1.2,1.5,1.7,1.6600000000000001,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2022-10-24,20:00 (21:00),West Ham United,Bournemouth,2,0,1.9,0.4,55,Premier League,Matchweek 13,Mon,David Coote,2023,1,2.0,1.0,1.1,1.33,0.8,0.64,0.9,2.1,0.0
+2022-10-29,12:30 (13:30),Leicester City,Manchester City,0,1,0.7,1.0,36,Premier League,Matchweek 14,Sat,Robert Jones,2023,-1,1.4,2.4,1.6,1.21,3.1,2.0,1.7,1.1,0.0
+2022-10-29,15:00 (16:00),Newcastle United,Aston Villa,4,0,3.4,0.4,59,Premier League,Matchweek 14,Sat,Paul Tierney,2023,1,2.6,0.8,1.9,1.8800000000000001,0.8,1.18,0.7,1.4,0.0
+2022-10-29,15:00 (16:00),Brighton and Hove Albion,Chelsea,4,1,2.4,1.4,41,Premier League,Matchweek 14,Sat,Andy Madley,2023,1,0.8,1.6,1.7,1.6300000000000001,1.4,1.2,1.4,1.3,0.0
+2022-10-29,15:00 (16:00),Brentford,Wolves,1,1,1.4,0.6,58,Premier League,Matchweek 14,Sat,Robert Madley,2023,0,1.0,1.5,1.1,1.35,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2022-10-29,15:00 (16:00),Crystal Palace,Southampton,1,0,0.9,1.3,44,Premier League,Matchweek 14,Sat,Michael Salisbury,2023,1,2.0,1.0,1.2,0.9600000000000002,0.6,0.9400000000000001,1.3,1.3,0.0
+2022-10-29,15:00 (16:00),Bournemouth,Tottenham,2,3,0.5,2.0,31,Premier League,Matchweek 14,Sat,Anthony Taylor,2023,-1,0.8,1.5,1.0,0.66,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2022-10-29,17:30 (18:30),Fulham,Everton,0,0,1.9,0.9,56,Premier League,Matchweek 14,Sat,John Brooks,2023,0,1.6,0.8,1.7,1.22,0.9,0.97,1.8,0.8,0.0
+2022-10-29,19:45 (20:45),Liverpool,Leeds United,1,2,1.7,1.8,68,Premier League,Matchweek 14,Sat,Michael Oliver,2023,-1,1.2,0.6,2.0,1.7900000000000003,1.1,1.45,1.2,1.6,0.0
+2022-10-30,14:00 (16:00),Arsenal,Nott'ham Forest,5,0,2.3,0.4,69,Premier League,Matchweek 14,Sun,Simon Hooper,2023,1,2.6,1.5,2.4,1.8,1.5328947368421053,1.4846052631578948,0.9,1.5328947368421053,0.0
+2022-10-30,16:15 (18:15),Manchester United,West Ham,1,0,1.2,1.1,53,Premier League,Matchweek 14,Sun,Chris Kavanagh,2023,1,2.2,1.5,1.6,1.3299999999999998,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2022-11-05,15:00 (17:00),Manchester City,Fulham,2,1,2.1,1.0,70,Premier League,Matchweek 15,Sat,Darren England,2023,1,2.4,1.6,3.0,2.0,1.7,1.2399999999999998,0.9,1.8,0.0
+2022-11-05,15:00 (17:00),Wolverhampton Wanderers,Brighton,2,3,1.2,1.5,29,Premier League,Matchweek 15,Sat,Graham Scott,2023,-1,0.8,1.5,0.6,1.05,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2022-11-05,15:00 (17:00),Nottingham Forest,Brentford,2,2,1.5,1.5,48,Premier League,Matchweek 15,Sat,Andre Marriner,2023,0,1.0,1.2,0.8,1.08,1.2,1.2899999999999998,2.5,1.8,0.0
+2022-11-05,15:00 (17:00),Leeds United,Bournemouth,4,3,2.2,1.5,60,Premier League,Matchweek 15,Sat,Tony Harrington,2023,1,1.2,0.2,1.2,1.46,1.3,0.78,1.9,1.6,0.0
+2022-11-05,17:30 (19:30),Everton,Leicester City,0,2,1.2,2.3,49,Premier League,Matchweek 15,Sat,David Coote,2023,-1,0.8,2.0,0.8,0.9799999999999999,1.7,1.19,0.9,1.5,0.0
+2022-11-06,12:00 (14:00),Chelsea,Arsenal,0,1,0.3,2.1,45,Premier League,Matchweek 15,Sun,Michael Oliver,2023,-1,1.0,2.6,1.4,1.1400000000000001,2.2,1.8800000000000001,1.1,0.9,0.0
+2022-11-06,14:00 (16:00),Aston Villa,Manchester Utd,3,1,0.6,0.5,42,Premier League,Matchweek 15,Sun,Anthony Taylor,2023,1,1.2,1.5,1.1,1.19,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2022-11-06,14:00 (16:00),West Ham United,Crystal Palace,1,2,0.3,1.0,42,Premier League,Matchweek 15,Sun,Paul Tierney,2023,-1,0.8,2.0,1.1,1.33,1.1,0.8,1.0,1.3,0.0
+2022-11-06,14:00 (16:00),Southampton,Newcastle Utd,1,4,1.7,0.9,55,Premier League,Matchweek 15,Sun,Stuart Attwell,2023,-1,1.0,1.5,0.7,0.97,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2022-11-06,16:30 (18:30),Tottenham Hotspur,Liverpool,1,2,1.2,1.2,47,Premier League,Matchweek 15,Sun,Andy Madley,2023,-1,1.2,1.8,1.8,1.57,2.1,1.78,1.5,1.1,0.0
+2022-11-12,12:30 (14:30),Manchester City,Brentford,1,2,1.6,1.3,74,Premier League,Matchweek 16,Sat,Peter Bankes,2023,-1,1.8,1.2,2.7,1.9400000000000002,1.3,1.28,0.9,1.8,0.0
+2022-11-12,15:00 (17:00),Liverpool,Southampton,3,1,1.9,1.1,60,Premier League,Matchweek 16,Sat,Simon Hooper,2023,1,1.8,0.8,1.5,1.64,0.6,0.9700000000000001,1.2,1.8,0.0
+2022-11-12,15:00 (17:00),Tottenham Hotspur,Leeds United,4,3,1.8,1.1,55,Premier League,Matchweek 16,Sat,Michael Salisbury,2023,1,1.2,1.2,2.1,1.6900000000000002,1.5,1.3900000000000001,1.7,2.2,0.0
+2022-11-12,15:00 (17:00),West Ham United,Leicester City,0,2,1.4,1.8,54,Premier League,Matchweek 16,Sat,Jarred Gillett,2023,-1,0.6,2.4,1.0,1.35,1.9,1.3,1.1,1.4,0.0
+2022-11-12,15:00 (17:00),Bournemouth,Everton,3,0,2.4,0.8,36,Premier League,Matchweek 16,Sat,Craig Pawson,2023,1,0.6,0.8,1.6,0.9800000000000001,0.7,0.96,1.6,1.1,0.0
+2022-11-12,15:00 (17:00),Nottingham Forest,Crystal Palace,1,0,1.1,1.2,32,Premier League,Matchweek 16,Sat,John Brooks,2023,1,1.6,1.8,0.9,1.12,0.9,0.9100000000000001,1.9,1.0,0.0
+2022-11-12,17:30 (19:30),Newcastle United,Chelsea,1,0,1.0,0.3,49,Premier League,Matchweek 16,Sat,Robert Jones,2023,1,3.0,0.4,2.2,1.8299999999999996,1.2,0.99,0.5,1.1,0.0
+2022-11-12,19:45 (21:45),Wolverhampton Wanderers,Arsenal,0,2,0.7,2.1,38,Premier League,Matchweek 16,Sat,Stuart Attwell,2023,-1,0.2,2.6,0.6,0.97,2.2,1.8299999999999996,2.0,0.8,0.0
+2022-11-13,14:00 (16:00),Brighton and Hove Albion,Aston Villa,1,2,0.6,1.5,65,Premier League,Matchweek 16,Sun,Chris Kavanagh,2023,-1,1.4,1.8,1.8,1.4700000000000002,1.2,1.3,1.8,1.3,0.0
+2022-11-13,16:30 (18:30),Fulham,Manchester Utd,1,2,1.4,2.5,53,Premier League,Matchweek 16,Sun,Paul Tierney,2023,-1,1.4,1.5,1.6,1.31,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2022-12-26,12:30 (14:30),Brentford,Tottenham,2,2,2.0,1.1,39,Premier League,Matchweek 17,Mon,David Coote,2023,0,1.2,1.5,1.0,1.25,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2022-12-26,15:00 (17:00),Crystal Palace,Fulham,0,3,0.4,2.5,36,Premier League,Matchweek 17,Mon,Andy Madley,2023,-1,1.2,1.4,0.8,0.85,1.8,1.49,1.2,1.7,0.0
+2022-12-26,15:00 (17:00),Everton,Wolves,1,2,1.7,0.8,58,Premier League,Matchweek 17,Mon,Craig Pawson,2023,-1,0.8,1.5,0.8,0.96,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2022-12-26,15:00 (17:00),Leicester City,Newcastle Utd,0,3,0.5,1.9,60,Premier League,Matchweek 17,Mon,Jarred Gillett,2023,-1,1.8,1.5,1.7,1.21,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2022-12-26,15:00 (17:00),Southampton,Brighton,1,3,1.9,0.6,34,Premier League,Matchweek 17,Mon,Robert Jones,2023,-1,0.2,1.5,0.7,1.0399999999999998,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2022-12-26,17:30 (19:30),Aston Villa,Liverpool,1,3,1.4,2.7,48,Premier League,Matchweek 17,Mon,Paul Tierney,2023,-1,1.8,1.8,1.2,1.41,1.6,1.7600000000000002,1.5,1.2,0.0
+2022-12-26,20:00 (22:00),Arsenal,West Ham,3,1,2.1,1.0,66,Premier League,Matchweek 17,Mon,Michael Oliver,2023,1,2.6,1.5,2.3,1.8,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,0.0
+2022-12-27,17:30 (19:30),Chelsea,Bournemouth,2,0,1.8,0.5,60,Premier League,Matchweek 17,Tue,Simon Hooper,2023,1,0.8,0.6,1.3,1.06,1.3,0.95,0.9,1.6,0.0
+2022-12-27,20:00 (22:00),Manchester United,Nott'ham Forest,3,0,2.4,0.7,65,Premier League,Matchweek 17,Tue,Anthony Taylor,2023,1,2.0,1.5,1.8,1.43,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2022-12-28,20:00 (22:00),Leeds United,Manchester City,1,3,0.6,4.3,31,Premier League,Matchweek 17,Wed,Stuart Attwell,2023,-1,1.2,2.4,1.5,1.35,2.4,2.04,2.4,1.0,0.0
+2022-12-30,19:45 (21:45),West Ham United,Brentford,0,2,1.3,1.6,63,Premier League,Matchweek 18,Fri,Darren England,2023,-1,0.0,1.8,1.0,1.3699999999999999,1.2,1.3599999999999999,1.3,1.5,0.0
+2022-12-30,20:00 (22:00),Liverpool,Leicester City,2,1,2.2,1.0,57,Premier League,Matchweek 18,Fri,Craig Pawson,2023,1,2.4,1.2,1.8,1.77,1.6,1.1300000000000001,1.3,0.8,0.0
+2022-12-31,12:30 (14:30),Wolverhampton Wanderers,Manchester Utd,0,1,0.7,2.0,46,Premier League,Matchweek 18,Sat,Robert Jones,2023,-1,0.8,1.5,0.7,1.0,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2022-12-31,15:00 (17:00),Manchester City,Everton,1,1,1.7,0.1,74,Premier League,Matchweek 18,Sat,Andy Madley,2023,0,2.0,0.4,2.4,2.0,0.8,0.9299999999999999,1.0,1.4,0.0
+2022-12-31,15:00 (17:00),Newcastle United,Leeds United,0,0,2.2,0.4,60,Premier League,Matchweek 18,Sat,Simon Hooper,2023,0,2.6,1.4,2.4,1.77,1.3,1.2200000000000002,0.4,1.9,0.0
+2022-12-31,15:00 (17:00),Fulham,Southampton,2,1,1.5,0.8,62,Premier League,Matchweek 18,Sat,Graham Scott,2023,1,1.4,0.0,1.7,1.55,0.8,1.09,1.6,2.1,0.0
+2022-12-31,15:00 (17:00),Bournemouth,Crystal Palace,0,2,0.6,1.6,59,Premier League,Matchweek 18,Sat,Andre Marriner,2023,-1,0.6,1.8,1.2,0.9400000000000001,1.0,0.9100000000000001,1.7,1.2,0.0
+2022-12-31,17:30 (19:30),Brighton and Hove Albion,Arsenal,2,4,1.2,2.9,68,Premier League,Matchweek 18,Sat,Anthony Taylor,2023,-1,1.8,3.0,1.7,1.25,2.6,1.9600000000000002,1.9,0.7,0.0
+2023-01-01,14:00 (16:00),Tottenham Hotspur,Aston Villa,0,2,0.7,1.0,59,Premier League,Matchweek 18,Sun,John Brooks,2023,-1,1.4,1.8,1.5,1.36,1.3,1.3599999999999999,1.8,1.5,0.0
+2023-01-01,16:30 (18:30),Nottingham Forest,Chelsea,1,1,1.4,0.9,29,Premier League,Matchweek 18,Sun,Peter Bankes,2023,0,1.0,0.8,0.6,1.0,1.2,1.06,1.7,0.9,0.0
+2023-01-02,17:30 (19:30),Brentford,Liverpool,3,1,1.6,0.9,28,Premier League,Matchweek 19,Mon,Stuart Attwell,2023,1,2.2,2.4,1.5,1.4300000000000002,1.6,1.7100000000000002,1.6,1.3,0.0
+2023-01-03,19:45 (21:45),Arsenal,Newcastle Utd,0,0,1.1,1.0,66,Premier League,Matchweek 19,Tue,Andy Madley,2023,0,2.6,1.5,2.3,1.92,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,0.0
+2023-01-03,19:45 (21:45),Everton,Brighton,1,4,1.3,2.2,49,Premier League,Matchweek 19,Tue,Andre Marriner,2023,-1,0.2,1.5,0.7,0.86,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-01-03,19:45 (21:45),Leicester City,Fulham,0,1,1.7,1.7,61,Premier League,Matchweek 19,Tue,Darren Bond,2023,-1,1.2,1.8,1.2,1.17,1.7,1.67,0.9,1.2,0.0
+2023-01-03,20:00 (22:00),Manchester United,Bournemouth,3,0,2.2,0.6,58,Premier League,Matchweek 19,Tue,Michael Salisbury,2023,1,2.4,0.6,1.6,1.53,1.2,0.96,0.6,2.0,0.0
+2023-01-04,19:30 (21:30),Southampton,Nott'ham Forest,0,1,0.5,1.4,63,Premier League,Matchweek 19,Wed,Thomas Bramall,2023,-1,0.0,1.5,0.7,0.97,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2023-01-04,19:45 (21:45),Leeds United,West Ham,2,2,1.6,1.4,62,Premier League,Matchweek 19,Wed,David Coote,2023,0,1.0,1.5,1.5,1.3400000000000003,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2023-01-04,20:00 (22:00),Aston Villa,Wolves,1,1,1.8,0.9,56,Premier League,Matchweek 19,Wed,Jarred Gillett,2023,0,2.0,1.5,1.4,1.3199999999999998,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-01-04,20:00 (22:00),Crystal Palace,Tottenham,0,4,0.8,1.4,47,Premier League,Matchweek 19,Wed,Michael Oliver,2023,-1,1.2,1.5,0.9,0.95,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-01-05,20:00 (22:00),Chelsea,Manchester City,0,1,0.4,2.0,48,Premier League,Matchweek 19,Thu,Paul Tierney,2023,-1,0.8,2.0,1.0,0.99,2.2,2.0900000000000003,0.9,1.0,0.0
+2023-01-12,20:00 (22:00),Fulham,Chelsea,2,1,1.0,2.1,48,Premier League,Matchweek 7,Thu,David Coote,2023,1,2.4,0.8,1.8,1.7,0.8,1.01,1.0,1.1,0.0
+2023-01-13,20:00 (22:00),Aston Villa,Leeds United,2,1,1.2,2.4,52,Premier League,Matchweek 20,Fri,Michael Oliver,2023,1,2.0,0.4,1.5,1.3699999999999999,1.5,1.48,1.6,2.1,0.0
+2023-01-14,12:30 (14:30),Manchester United,Manchester City,2,1,1.7,0.6,30,Premier League,Matchweek 20,Sat,Stuart Attwell,2023,1,3.0,1.4,1.6,1.56,1.7,1.83,0.6,0.9,0.0
+2023-01-14,15:00 (17:00),Brighton and Hove Albion,Liverpool,3,0,1.9,1.0,61,Premier League,Matchweek 20,Sat,Darren England,2023,1,1.8,1.8,2.1,1.45,1.4,1.7,1.6,1.3,0.0
+2023-01-14,15:00 (17:00),Wolverhampton Wanderers,West Ham,1,0,0.9,1.1,58,Premier League,Matchweek 20,Sat,Simon Hooper,2023,1,1.4,1.5,0.9,1.0,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-01-14,15:00 (17:00),Nottingham Forest,Leicester City,2,0,2.4,1.0,39,Premier League,Matchweek 20,Sat,Paul Tierney,2023,1,2.0,0.6,0.8,1.2399999999999998,1.1,1.17,1.2,0.9,0.0
+2023-01-14,15:00 (17:00),Everton,Southampton,1,2,1.4,1.2,52,Premier League,Matchweek 20,Sat,John Brooks,2023,-1,0.2,0.6,0.7,0.9400000000000001,0.9,1.0699999999999998,1.7,1.7,1.0
+2023-01-14,17:30 (19:30),Brentford,Bournemouth,2,0,1.4,0.6,50,Premier League,Matchweek 20,Sat,Jarred Gillett,2023,1,2.6,0.6,1.6,1.45,1.0,0.9099999999999999,1.1,2.1,0.0
+2023-01-15,14:00 (16:00),Newcastle United,Fulham,1,0,2.2,1.1,62,Premier League,Matchweek 20,Sun,Robert Jones,2023,1,2.2,2.4,1.6,1.61,1.6,1.6,0.2,0.9,0.0
+2023-01-15,14:00 (16:00),Chelsea,Crystal Palace,1,0,1.5,0.7,61,Premier League,Matchweek 20,Sun,Peter Bankes,2023,1,1.4,0.6,0.7,1.0699999999999998,0.7,0.9100000000000001,1.1,1.4,1.0
+2023-01-15,16:30 (18:30),Tottenham Hotspur,Arsenal,0,2,1.6,1.8,51,Premier League,Matchweek 20,Sun,Craig Pawson,2023,-1,1.4,2.6,1.7,1.4200000000000002,2.2,1.86,1.7,0.6,0.0
+2023-01-18,20:00 (22:00),Crystal Palace,Manchester Utd,1,1,0.5,2.1,40,Premier League,Matchweek 7,Wed,Robert Jones,2023,0,0.8,1.5,0.8,0.9199999999999999,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-01-19,20:00 (22:00),Manchester City,Tottenham,4,2,2.3,0.8,58,Premier League,Matchweek 7,Thu,Simon Hooper,2023,1,2.0,1.5,1.7,1.8199999999999998,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2023-01-21,12:30 (14:30),Liverpool,Chelsea,0,0,1.4,1.6,48,Premier League,Matchweek 21,Sat,Michael Oliver,2023,0,1.4,1.0,1.3,1.6300000000000001,0.7,1.1400000000000001,1.3,1.1,0.0
+2023-01-21,15:00 (17:00),West Ham United,Everton,2,0,2.2,0.5,33,Premier League,Matchweek 21,Sat,Stuart Attwell,2023,1,0.8,0.2,0.8,1.3399999999999999,0.7,0.95,1.4,1.7,0.0
+2023-01-21,15:00 (17:00),Bournemouth,Nott'ham Forest,1,1,1.4,1.9,43,Premier League,Matchweek 21,Sat,Andy Madley,2023,0,0.2,1.5,0.9,0.95,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2023-01-21,15:00 (17:00),Leicester City,Brighton,2,2,0.9,1.7,37,Premier League,Matchweek 21,Sat,Thomas Bramall,2023,0,0.2,1.5,1.3,1.16,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2023-01-21,15:00 (17:00),Southampton,Aston Villa,0,1,0.6,1.4,37,Premier League,Matchweek 21,Sat,Michael Salisbury,2023,-1,0.6,2.0,0.8,1.08,1.6,1.3299999999999998,1.7,1.4,-1.0
+2023-01-21,17:30 (19:30),Crystal Palace,Newcastle Utd,0,0,0.3,1.2,40,Premier League,Matchweek 21,Sat,Craig Pawson,2023,0,1.0,1.5,0.6,0.8300000000000001,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-01-22,14:00 (16:00),Manchester City,Wolves,3,0,2.8,0.8,55,Premier League,Matchweek 21,Sun,David Coote,2023,1,2.0,1.5,2.0,2.0,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-01-22,14:00 (16:00),Leeds United,Brentford,0,0,0.5,0.4,58,Premier League,Matchweek 21,Sun,Peter Bankes,2023,0,0.6,2.2,1.5,1.35,1.4,1.34,2.0,1.1,-1.0
+2023-01-22,16:30 (18:30),Arsenal,Manchester Utd,3,2,3.1,0.4,57,Premier League,Matchweek 21,Sun,Anthony Taylor,2023,1,2.6,1.5,2.2,1.9,1.5328947368421053,1.4846052631578948,0.6,1.5328947368421053,0.0
+2023-01-23,20:00 (22:00),Fulham,Tottenham,0,1,1.0,0.9,54,Premier League,Matchweek 21,Mon,Paul Tierney,2023,-1,1.8,1.5,1.3,1.49,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-02-03,20:00 (22:00),Chelsea,Fulham,0,0,1.3,0.6,66,Premier League,Matchweek 22,Fri,Stuart Attwell,2023,0,1.0,1.4,0.6,1.16,1.0,1.3699999999999999,1.0,0.8,-1.0
+2023-02-04,12:30 (14:30),Everton,Arsenal,1,0,1.7,0.9,30,Premier League,Matchweek 22,Sat,David Coote,2023,1,0.8,2.0,0.8,1.1,2.1,1.94,1.6,0.7,0.0
+2023-02-04,15:00 (17:00),Manchester United,Crystal Palace,2,1,2.0,1.3,52,Premier League,Matchweek 22,Sat,Andre Marriner,2023,1,2.0,0.4,1.8,1.7,0.7,0.8699999999999999,1.0,1.3,0.0
+2023-02-04,15:00 (17:00),Brighton and Hove Albion,Bournemouth,1,0,2.2,1.1,71,Premier League,Matchweek 22,Sat,Craig Pawson,2023,1,2.0,0.2,2.4,1.48,0.9,0.96,1.6,2.0,0.0
+2023-02-04,15:00 (17:00),Aston Villa,Leicester City,2,4,1.7,2.6,62,Premier League,Matchweek 22,Sat,Darren England,2023,-1,2.0,0.8,1.8,1.38,1.5,1.3399999999999999,1.5,1.3,0.0
+2023-02-04,15:00 (17:00),Brentford,Southampton,3,0,2.0,0.7,49,Premier League,Matchweek 22,Sat,Darren Bond,2023,1,2.6,0.6,1.7,1.41,0.7,1.05,1.1,2.0,0.0
+2023-02-04,15:00 (17:00),Wolverhampton Wanderers,Liverpool,3,0,2.0,1.8,41,Premier League,Matchweek 22,Sat,Paul Tierney,2023,1,1.4,0.8,1.0,1.0699999999999998,1.2,1.64,1.6,1.6,0.0
+2023-02-04,17:30 (19:30),Newcastle United,West Ham,1,1,1.0,1.0,62,Premier League,Matchweek 22,Sat,Peter Bankes,2023,0,1.4,1.5,1.6,1.6,1.5328947368421053,1.4846052631578948,0.3,1.5328947368421053,0.0
+2023-02-05,14:00 (16:00),Nottingham Forest,Leeds United,1,0,0.4,0.9,30,Premier League,Matchweek 22,Sun,Robert Jones,2023,1,2.2,0.6,1.0,1.31,1.5,1.31,1.2,1.9,0.0
+2023-02-05,16:30 (18:30),Tottenham Hotspur,Manchester City,1,0,1.4,1.3,36,Premier League,Matchweek 22,Sun,Andy Madley,2023,1,1.8,1.8,1.8,1.2899999999999998,1.7,1.97,1.7,1.0,0.0
+2023-02-08,20:00 (22:00),Manchester United,Leeds United,2,2,2.0,0.6,66,Premier League,Matchweek 8,Wed,Simon Hooper,2023,0,1.6,0.6,1.9,1.78,1.5,1.21,1.2,1.8,0.0
+2023-02-11,12:30 (14:30),West Ham United,Chelsea,1,1,1.3,1.1,29,Premier League,Matchweek 23,Sat,Craig Pawson,2023,0,1.2,1.2,0.8,1.21,0.6,1.1300000000000001,1.5,0.7,0.0
+2023-02-11,15:00 (17:00),Arsenal,Brentford,1,1,1.6,2.0,69,Premier League,Matchweek 23,Sat,Peter Bankes,2023,0,1.6,2.2,2.1,2.0,1.8,1.52,0.7,0.8,1.0
+2023-02-11,15:00 (17:00),Fulham,Nott'ham Forest,2,0,1.5,0.7,50,Premier League,Matchweek 23,Sat,Andy Madley,2023,1,1.4,1.5,1.2,1.33,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,0.0
+2023-02-11,15:00 (17:00),Crystal Palace,Brighton,1,1,1.1,2.5,27,Premier League,Matchweek 23,Sat,Michael Oliver,2023,0,0.6,1.5,0.7,0.89,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-02-11,15:00 (17:00),Leicester City,Tottenham,4,1,1.7,1.3,49,Premier League,Matchweek 23,Sat,Michael Salisbury,2023,1,1.4,1.5,1.5,1.42,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-02-11,15:00 (17:00),Southampton,Wolves,1,2,1.1,0.8,41,Premier League,Matchweek 23,Sat,Jarred Gillett,2023,-1,0.6,1.5,0.7,1.09,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2023-02-11,17:30 (19:30),Bournemouth,Newcastle Utd,1,1,1.5,1.3,34,Premier League,Matchweek 23,Sat,Stuart Attwell,2023,0,0.4,1.5,1.0,1.0699999999999998,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-02-12,14:00 (16:00),Leeds United,Manchester Utd,0,2,1.8,1.1,34,Premier League,Matchweek 23,Sun,Paul Tierney,2023,-1,0.4,1.5,1.3,1.2100000000000002,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-02-12,16:30 (18:30),Manchester City,Aston Villa,3,1,3.3,0.3,67,Premier League,Matchweek 23,Sun,Robert Jones,2023,1,1.8,1.4,1.9,2.2,1.5,1.1300000000000001,1.1,1.8,0.0
+2023-02-13,20:00 (22:00),Liverpool,Everton,2,0,2.3,0.4,59,Premier League,Matchweek 23,Mon,Simon Hooper,2023,1,0.8,0.6,1.4,1.7100000000000002,0.5,1.0,1.5,1.8,0.0
+2023-02-15,19:30 (21:30),Arsenal,Manchester City,1,3,1.6,1.8,63,Premier League,Matchweek 12,Wed,Anthony Taylor,2023,-1,1.4,2.4,1.7,1.9300000000000002,2.0,2.17,1.0,1.1,0.0
+2023-02-18,12:30 (14:30),Aston Villa,Arsenal,2,4,0.5,3.2,33,Premier League,Matchweek 24,Sat,Simon Hooper,2023,-1,1.2,1.4,1.7,1.1400000000000001,2.0,2.04,1.8,1.2,-1.0
+2023-02-18,15:00 (17:00),Brighton and Hove Albion,Fulham,0,1,2.2,0.3,65,Premier League,Matchweek 24,Sat,Darren England,2023,-1,1.6,1.4,2.0,1.6600000000000001,1.2,1.26,1.4,0.6,0.0
+2023-02-18,15:00 (17:00),Brentford,Crystal Palace,1,1,0.9,1.1,59,Premier League,Matchweek 24,Sat,Paul Tierney,2023,0,1.8,0.8,1.8,1.4700000000000002,0.6,0.9,0.8,1.4,0.0
+2023-02-18,15:00 (17:00),Chelsea,Southampton,0,1,1.6,0.6,62,Premier League,Matchweek 24,Sat,David Coote,2023,-1,1.2,1.2,0.6,1.26,0.8,1.02,0.7,2.0,-1.0
+2023-02-18,15:00 (17:00),Wolverhampton Wanderers,Bournemouth,0,1,1.3,1.1,68,Premier League,Matchweek 24,Sat,Michael Salisbury,2023,-1,1.8,1.0,1.1,1.0100000000000002,0.9,1.13,1.3,1.6,0.0
+2023-02-18,15:00 (17:00),Nottingham Forest,Manchester City,1,1,0.9,2.4,27,Premier League,Matchweek 24,Sat,Graham Scott,2023,0,1.6,2.0,1.0,1.2399999999999998,2.0,2.25,1.0,1.0,0.0
+2023-02-18,15:00 (17:00),Everton,Leeds United,1,0,1.4,0.5,51,Premier League,Matchweek 24,Sat,Andy Madley,2023,1,1.2,0.4,0.6,1.05,0.9,1.04,1.8,1.7,0.0
+2023-02-18,17:30 (19:30),Newcastle United,Liverpool,0,2,2.0,1.9,38,Premier League,Matchweek 24,Sat,Anthony Taylor,2023,-1,1.2,1.4,1.1,1.4700000000000002,1.5,1.73,0.5,1.3,0.0
+2023-02-19,14:00 (16:00),Manchester United,Leicester City,3,0,4.4,1.6,57,Premier League,Matchweek 24,Sun,Stuart Attwell,2023,1,2.0,1.4,2.1,2.0300000000000002,1.5,1.51,0.8,1.6,0.0
+2023-02-19,16:30 (18:30),Tottenham Hotspur,West Ham,2,0,1.5,0.5,57,Premier League,Matchweek 24,Sun,Michael Oliver,2023,1,1.8,1.5,1.7,1.25,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-02-24,20:00 (22:00),Fulham,Wolves,1,1,0.5,0.8,51,Premier League,Matchweek 25,Fri,Michael Oliver,2023,0,1.6,1.5,1.2,1.17,1.5328947368421053,1.4846052631578948,0.5,1.5328947368421053,0.0
+2023-02-25,15:00 (17:00),West Ham United,Nott'ham Forest,4,0,2.7,0.4,49,Premier League,Matchweek 25,Sat,Jarred Gillett,2023,1,1.6,1.5,1.1,1.39,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-02-25,15:00 (17:00),Everton,Aston Villa,0,2,1.6,1.9,47,Premier League,Matchweek 25,Sat,Anthony Taylor,2023,-1,1.2,1.2,0.6,1.09,1.6,1.27,1.8,1.7,-1.0
+2023-02-25,15:00 (17:00),Leicester City,Arsenal,0,1,0.0,0.7,35,Premier League,Matchweek 25,Sat,Craig Pawson,2023,-1,1.4,1.4,1.3,1.28,1.9,1.9,1.7,1.2,-1.0
+2023-02-25,15:00 (17:00),Leeds United,Southampton,1,0,0.9,0.4,61,Premier League,Matchweek 25,Sat,Peter Bankes,2023,1,0.8,0.6,0.7,1.02,0.7,0.89,1.3,1.7,0.0
+2023-02-25,17:30 (19:30),Bournemouth,Manchester City,1,4,1.0,2.4,35,Premier League,Matchweek 25,Sat,Paul Tierney,2023,-1,1.0,2.0,0.7,1.0799999999999998,2.1,2.06,1.6,1.0,-1.0
+2023-02-25,19:45 (21:45),Crystal Palace,Liverpool,0,0,0.7,0.9,37,Premier League,Matchweek 25,Sat,Darren England,2023,0,0.8,1.6,0.6,0.85,1.3,1.7,1.3,1.2,0.0
+2023-02-26,13:30 (15:30),Tottenham Hotspur,Chelsea,2,0,0.8,0.4,41,Premier League,Matchweek 25,Sun,Stuart Attwell,2023,1,2.4,0.6,1.5,1.15,0.6,1.27,1.4,0.8,0.0
+2023-03-01,19:45 (21:45),Arsenal,Everton,4,0,2.4,1.2,73,Premier League,Matchweek 7,Wed,Michael Oliver,2023,1,2.0,1.2,2.0,1.9299999999999997,0.6,1.13,1.1,1.9,-1.0
+2023-03-01,20:00 (22:00),Liverpool,Wolves,2,0,2.6,0.8,57,Premier League,Matchweek 7,Wed,Paul Tierney,2023,1,2.0,1.5,1.2,1.77,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2023-03-04,12:30 (14:30),Manchester City,Newcastle Utd,2,0,1.3,0.4,56,Premier League,Matchweek 26,Sat,Simon Hooper,2023,1,2.6,1.5,2.2,2.02,1.5328947368421053,1.4846052631578948,0.9,1.5328947368421053,0.0
+2023-03-04,15:00 (17:00),Arsenal,Bournemouth,3,2,2.1,1.3,79,Premier League,Matchweek 26,Sat,Chris Kavanagh,2023,1,2.4,0.8,1.9,1.85,0.6,0.97,1.1,1.9,1.0
+2023-03-04,15:00 (17:00),Brighton and Hove Albion,West Ham,4,0,3.5,0.3,65,Premier League,Matchweek 26,Sat,Stuart Attwell,2023,1,1.6,1.5,2.1,1.86,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-03-04,15:00 (17:00),Aston Villa,Crystal Palace,1,0,1.2,0.2,58,Premier League,Matchweek 26,Sat,Craig Pawson,2023,1,1.2,0.6,1.5,1.2399999999999998,0.6,0.8300000000000001,1.6,1.1,-1.0
+2023-03-04,15:00 (17:00),Chelsea,Leeds United,1,0,1.5,1.0,57,Premier League,Matchweek 26,Sat,Michael Oliver,2023,1,1.0,0.8,0.5,1.24,0.6,1.06,0.8,1.1,-1.0
+2023-03-04,15:00 (17:00),Wolverhampton Wanderers,Tottenham,1,0,0.5,1.2,46,Premier League,Matchweek 26,Sat,Tim Robinson,2023,1,1.4,1.5,0.9,0.95,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-03-04,17:30 (19:30),Southampton,Leicester City,1,0,1.4,1.9,35,Premier League,Matchweek 26,Sat,Robert Jones,2023,1,1.2,1.2,0.7,0.9199999999999999,1.1,1.29,1.4,1.8,1.0
+2023-03-05,14:00 (16:00),Nottingham Forest,Everton,2,2,0.8,1.7,57,Premier League,Matchweek 26,Sun,John Brooks,2023,0,1.0,0.8,0.9,1.1,0.7,1.1300000000000001,1.4,1.9,0.0
+2023-03-05,16:30 (18:30),Liverpool,Manchester Utd,7,0,2.8,0.8,59,Premier League,Matchweek 26,Sun,Andy Madley,2023,1,2.6,1.5,1.6,1.78,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-03-06,20:00 (22:00),Brentford,Fulham,3,2,2.1,1.4,37,Premier League,Matchweek 26,Mon,Anthony Taylor,2023,1,1.8,1.6,1.9,1.5299999999999998,1.1,1.06,0.8,0.8,-1.0
+2023-03-11,12:30 (14:30),Bournemouth,Liverpool,1,0,0.9,1.7,31,Premier League,Matchweek 27,Sat,John Brooks,2023,1,1.4,2.0,0.7,1.01,1.4,1.73,1.7,1.0,-1.0
+2023-03-11,15:00 (17:00),Tottenham Hotspur,Nott'ham Forest,3,1,2.0,1.5,55,Premier League,Matchweek 27,Sat,Craig Pawson,2023,1,1.8,1.5,1.6,1.29,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-03-11,15:00 (17:00),Everton,Brentford,1,0,1.0,2.0,33,Premier League,Matchweek 27,Sat,Simon Hooper,2023,1,1.4,1.6,0.7,1.2200000000000002,1.7,1.6,1.8,0.8,0.0
+2023-03-11,15:00 (17:00),Leicester City,Chelsea,1,3,2.4,1.6,48,Premier League,Matchweek 27,Sat,Andre Marriner,2023,-1,0.6,1.4,1.2,1.48,0.7,1.31,1.8,0.8,-1.0
+2023-03-11,15:00 (17:00),Leeds United,Brighton,2,2,0.9,2.7,38,Premier League,Matchweek 27,Sat,Paul Tierney,2023,0,0.8,1.5,0.8,1.11,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2023-03-11,17:30 (19:30),Crystal Palace,Manchester City,0,1,0.2,2.1,33,Premier League,Matchweek 27,Sat,Robert Jones,2023,-1,0.6,2.6,0.4,0.6900000000000001,2.2,2.03,1.2,0.9,-1.0
+2023-03-12,14:00 (16:00),Manchester United,Southampton,0,0,0.8,1.0,47,Premier League,Matchweek 27,Sun,Anthony Taylor,2023,0,1.6,1.4,1.7,1.7500000000000004,0.6,0.8300000000000001,1.5,1.1,0.0
+2023-03-12,14:00 (16:00),Fulham,Arsenal,0,3,0.8,2.3,45,Premier League,Matchweek 27,Sun,David Coote,2023,-1,1.4,3.0,0.9,0.99,2.2,1.97,1.0,1.1,-1.0
+2023-03-12,14:00 (16:00),West Ham United,Aston Villa,1,1,2.1,1.5,41,Premier League,Matchweek 27,Sun,Chris Kavanagh,2023,0,1.0,1.4,1.1,1.3900000000000001,1.5,1.25,1.4,1.4,0.0
+2023-03-12,16:30 (18:30),Newcastle United,Wolves,2,1,1.8,1.1,43,Premier League,Matchweek 27,Sun,Andy Madley,2023,1,1.0,1.5,0.8,1.5,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,0.0
+2023-03-15,19:30 (21:30),Brighton and Hove Albion,Crystal Palace,1,0,0.6,1.1,57,Premier League,Matchweek 8,Wed,Peter Bankes,2023,1,1.6,0.4,2.0,2.0700000000000003,0.4,0.7200000000000001,1.1,0.9,0.0
+2023-03-15,19:30 (21:30),Southampton,Brentford,0,2,0.5,1.9,66,Premier League,Matchweek 7,Wed,Michael Salisbury,2023,-1,1.4,1.6,0.5,0.8,1.7,1.59,1.1,0.6,-1.0
+2023-03-17,20:00 (22:00),Nottingham Forest,Newcastle Utd,1,2,0.4,2.4,39,Premier League,Matchweek 28,Fri,Paul Tierney,2023,-1,0.4,1.5,1.0,1.08,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-03-18,15:00 (17:00),Aston Villa,Bournemouth,3,0,3.5,1.3,56,Premier League,Matchweek 28,Sat,Robert Jones,2023,1,2.0,1.2,1.6,1.5,0.7,1.0799999999999998,1.4,1.8,-1.0
+2023-03-18,15:00 (17:00),Brentford,Leicester City,1,1,0.6,1.3,53,Premier League,Matchweek 28,Sat,Darren Bond,2023,0,1.6,0.2,1.6,1.49,1.2,1.51,0.7,1.7,0.0
+2023-03-18,15:00 (17:00),Wolverhampton Wanderers,Leeds United,2,4,2.7,1.6,65,Premier League,Matchweek 28,Sat,Michael Salisbury,2023,-1,0.8,1.4,1.1,1.1700000000000002,1.0,1.1099999999999999,1.4,1.3,0.0
+2023-03-18,15:00 (17:00),Southampton,Tottenham,3,3,2.4,2.3,51,Premier League,Matchweek 28,Sat,Simon Hooper,2023,0,1.0,1.5,0.8,0.99,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2023-03-18,17:30 (19:30),Chelsea,Everton,2,2,2.3,1.2,68,Premier League,Matchweek 28,Sat,Darren England,2023,0,1.4,1.0,0.9,1.5,0.8,1.21,0.9,1.6,1.0
+2023-03-19,14:00 (16:00),Arsenal,Crystal Palace,4,1,1.6,0.8,62,Premier League,Matchweek 28,Sun,Stuart Attwell,2023,1,3.0,0.2,2.4,1.95,0.5,0.7300000000000001,1.2,1.2,1.0
+2023-04-01,12:30 (13:30),Manchester City,Liverpool,4,1,2.9,0.3,68,Premier League,Matchweek 29,Sat,Simon Hooper,2023,1,2.6,1.4,2.5,2.2600000000000002,1.4,1.67,0.8,1.1,-1.0
+2023-04-01,15:00 (16:00),Arsenal,Leeds United,4,1,3.8,0.7,66,Premier League,Matchweek 29,Sat,Darren England,2023,1,3.0,1.4,2.5,2.02,1.0,0.9400000000000001,1.1,1.5,1.0
+2023-04-01,15:00 (16:00),Brighton and Hove Albion,Brentford,3,3,4.2,1.6,72,Premier League,Matchweek 29,Sat,Michael Oliver,2023,0,1.6,1.6,2.1,2.37,1.6,1.49,1.0,0.9,0.0
+2023-04-01,15:00 (16:00),Crystal Palace,Leicester City,2,1,2.3,0.2,52,Premier League,Matchweek 29,Sat,Tim Robinson,2023,1,0.6,0.2,0.6,0.9100000000000001,1.3,1.3599999999999999,1.2,1.8,0.0
+2023-04-01,15:00 (16:00),Bournemouth,Fulham,2,1,2.6,0.8,43,Premier League,Matchweek 29,Sat,Peter Bankes,2023,1,1.2,0.8,0.9,1.28,0.9,0.9,1.6,1.2,0.0
+2023-04-01,15:00 (16:00),Nottingham Forest,Wolves,1,1,1.3,0.5,29,Premier League,Matchweek 29,Sat,Chris Kavanagh,2023,0,0.4,1.5,1.0,1.0699999999999998,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-04-01,17:30 (18:30),Chelsea,Aston Villa,0,2,2.1,0.9,69,Premier League,Matchweek 29,Sat,Andy Madley,2023,-1,1.4,2.6,0.8,1.5,1.7,1.41,0.9,1.3,1.0
+2023-04-02,14:00 (15:00),West Ham United,Southampton,1,0,1.4,0.3,43,Premier League,Matchweek 29,Sun,Paul Tierney,2023,1,1.4,1.0,1.2,1.4,0.6,0.9,1.2,1.3,0.0
+2023-04-02,16:30 (17:30),Newcastle United,Manchester Utd,2,0,3.7,0.4,46,Premier League,Matchweek 29,Sun,Stuart Attwell,2023,1,1.8,1.5,0.9,1.7,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,0.0
+2023-04-03,20:00 (21:00),Everton,Tottenham,1,1,0.9,1.4,39,Premier League,Matchweek 29,Mon,David Coote,2023,0,1.2,1.5,0.8,1.16,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-04-04,19:45 (20:45),Bournemouth,Brighton,0,2,1.7,2.7,37,Premier League,Matchweek 7,Tue,Darren Bond,2023,-1,1.2,1.5,0.9,1.3900000000000001,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-04-04,19:45 (20:45),Leicester City,Aston Villa,1,2,0.5,1.0,36,Premier League,Matchweek 7,Tue,Graham Scott,2023,-1,0.2,2.6,1.4,1.31,1.7,1.3900000000000001,1.8,1.3,1.0
+2023-04-04,19:45 (20:45),Leeds United,Nott'ham Forest,2,1,1.8,0.8,61,Premier League,Matchweek 7,Tue,Robert Jones,2023,1,1.4,1.5,1.2,1.07,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-04-04,20:00 (21:00),Chelsea,Liverpool,0,0,2.2,0.3,49,Premier League,Matchweek 8,Tue,Anthony Taylor,2023,0,1.6,1.4,0.7,1.57,1.4,1.6,0.9,0.8,0.0
+2023-04-05,20:00 (21:00),Manchester United,Brentford,1,0,1.2,0.7,64,Premier League,Matchweek 25,Wed,John Brooks,2023,1,1.4,1.0,1.3,1.52,1.4,1.4200000000000002,1.6,1.0,0.0
+2023-04-05,20:00 (21:00),West Ham United,Newcastle Utd,1,5,1.0,3.3,42,Premier League,Matchweek 7,Wed,Craig Pawson,2023,-1,1.4,1.5,1.1,1.3599999999999999,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-04-08,12:30 (13:30),Manchester United,Everton,2,0,3.4,1.0,63,Premier League,Matchweek 30,Sat,Michael Oliver,2023,1,1.4,1.2,1.4,1.65,0.8,1.21,1.5,1.5,0.0
+2023-04-08,15:00 (16:00),Aston Villa,Nott'ham Forest,2,0,1.3,0.2,63,Premier League,Matchweek 30,Sat,Anthony Taylor,2023,1,2.6,1.5,1.8,1.3800000000000001,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2023-04-08,15:00 (16:00),Tottenham Hotspur,Brighton,2,1,0.8,1.4,35,Premier League,Matchweek 30,Sat,Stuart Attwell,2023,1,1.6,1.5,1.6,1.3599999999999999,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2023-04-08,15:00 (16:00),Brentford,Newcastle Utd,1,2,2.6,1.3,42,Premier League,Matchweek 30,Sat,Chris Kavanagh,2023,-1,1.0,1.5,1.5,1.64,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-04-08,15:00 (16:00),Fulham,West Ham,0,1,0.7,1.1,76,Premier League,Matchweek 30,Sat,Jarred Gillett,2023,-1,0.2,1.5,0.7,0.8699999999999999,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-04-08,15:00 (16:00),Wolverhampton Wanderers,Chelsea,1,0,0.6,1.1,38,Premier League,Matchweek 30,Sat,Peter Bankes,2023,1,1.4,1.0,1.2,1.11,0.7,1.52,1.2,1.0,0.0
+2023-04-08,15:00 (16:00),Leicester City,Bournemouth,0,1,0.6,1.9,51,Premier League,Matchweek 30,Sat,David Coote,2023,-1,0.2,1.8,1.2,1.28,0.9,1.44,1.7,1.5,-1.0
+2023-04-08,17:30 (18:30),Southampton,Manchester City,1,4,0.4,2.9,27,Premier League,Matchweek 30,Sat,Robert Jones,2023,-1,0.4,3.0,0.7,0.8799999999999999,2.5,2.32,1.6,0.7,-1.0
+2023-04-09,14:00 (15:00),Leeds United,Crystal Palace,1,5,0.9,3.0,48,Premier League,Matchweek 30,Sun,Simon Hooper,2023,-1,1.4,1.2,1.3,1.07,1.1,1.1800000000000002,2.0,1.3,-1.0
+2023-04-09,16:30 (17:30),Liverpool,Arsenal,2,2,3.9,1.4,59,Premier League,Matchweek 30,Sun,Paul Tierney,2023,0,1.0,2.6,1.6,1.85,2.7,2.0700000000000003,1.0,1.2,-1.0
+2023-04-15,12:30 (13:30),Aston Villa,Newcastle Utd,3,0,1.9,0.5,52,Premier League,Matchweek 31,Sat,John Brooks,2023,1,3.0,1.5,1.9,1.4,1.5328947368421053,1.4846052631578948,0.9,1.5328947368421053,0.0
+2023-04-15,15:00 (16:00),Tottenham Hotspur,Bournemouth,2,3,2.2,1.3,58,Premier League,Matchweek 31,Sat,Andy Madley,2023,-1,1.6,1.8,1.7,1.4899999999999998,1.2,1.46,1.4,1.6,0.0
+2023-04-15,15:00 (16:00),Chelsea,Brighton,1,2,0.5,2.9,43,Premier League,Matchweek 31,Sat,Robert Jones,2023,-1,0.4,1.5,0.8,1.44,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-04-15,15:00 (16:00),Wolverhampton Wanderers,Brentford,2,0,0.8,1.1,50,Premier League,Matchweek 31,Sat,Paul Tierney,2023,1,1.4,0.4,1.1,0.9900000000000002,1.2,1.55,1.2,1.4,0.0
+2023-04-15,15:00 (16:00),Everton,Fulham,1,3,1.4,1.8,46,Premier League,Matchweek 31,Sat,Anthony Taylor,2023,-1,1.0,0.6,0.8,1.1800000000000002,1.0,0.9400000000000001,1.8,1.2,0.0
+2023-04-15,15:00 (16:00),Southampton,Crystal Palace,0,2,0.8,0.9,58,Premier League,Matchweek 31,Sat,Michael Oliver,2023,-1,0.2,1.8,0.7,0.89,1.2,1.1400000000000001,1.5,1.1,-1.0
+2023-04-15,17:30 (18:30),Manchester City,Leicester City,3,1,1.6,2.3,70,Premier League,Matchweek 31,Sat,Darren England,2023,1,3.0,0.2,2.5,2.2,0.9,1.2499999999999998,0.8,1.8,1.0
+2023-04-16,14:00 (15:00),West Ham United,Arsenal,2,2,1.8,2.7,30,Premier League,Matchweek 31,Sun,David Coote,2023,0,1.6,2.2,1.2,1.3199999999999998,2.8,2.18,1.6,1.3,0.0
+2023-04-16,16:30 (17:30),Nottingham Forest,Manchester Utd,0,2,0.7,3.5,32,Premier League,Matchweek 31,Sun,Simon Hooper,2023,-1,0.2,1.5,0.7,0.77,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2023-04-17,20:00 (21:00),Leeds United,Liverpool,1,6,1.4,2.7,27,Premier League,Matchweek 31,Mon,Craig Pawson,2023,-1,1.2,1.0,1.2,1.15,2.2,1.94,2.4,0.8,1.0
+2023-04-21,20:00 (21:00),Arsenal,Southampton,3,3,2.5,1.3,74,Premier League,Matchweek 32,Fri,Simon Hooper,2023,0,1.8,0.4,3.0,2.27,0.9,0.9099999999999999,1.3,1.6,0.0
+2023-04-22,12:30 (13:30),Fulham,Leeds United,2,1,1.7,0.8,50,Premier League,Matchweek 32,Sat,Peter Bankes,2023,1,1.2,0.6,1.2,1.01,1.3,1.05,1.2,2.4,1.0
+2023-04-22,15:00 (16:00),Liverpool,Nott'ham Forest,3,2,2.8,0.9,80,Premier League,Matchweek 32,Sat,Michael Oliver,2023,1,1.6,1.5,2.3,1.9900000000000002,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-04-22,15:00 (16:00),Brentford,Aston Villa,1,1,2.7,1.5,44,Premier League,Matchweek 32,Sat,Michael Salisbury,2023,0,0.4,2.6,1.2,1.6199999999999999,1.9,1.52,1.4,0.7,-1.0
+2023-04-22,15:00 (16:00),Crystal Palace,Everton,0,0,0.5,0.4,56,Premier League,Matchweek 32,Sat,John Brooks,2023,0,2.0,0.6,1.1,1.08,0.8,1.1800000000000002,1.0,1.6,-1.0
+2023-04-22,15:00 (16:00),Leicester City,Wolves,2,1,2.4,0.9,42,Premier League,Matchweek 32,Sat,Andy Madley,2023,1,0.6,1.5,0.7,1.3199999999999998,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2023-04-23,14:00 (15:00),Newcastle United,Tottenham,6,1,3.7,1.0,56,Premier League,Matchweek 32,Sun,David Coote,2023,1,2.4,1.5,2.0,2.04,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2023-04-23,14:00 (15:00),Bournemouth,West Ham,0,4,1.5,2.4,64,Premier League,Matchweek 32,Sun,Anthony Taylor,2023,-1,1.8,1.5,1.1,1.46,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-04-25,19:30 (20:30),Wolverhampton Wanderers,Crystal Palace,2,0,1.4,0.8,41,Premier League,Matchweek 33,Tue,Robert Jones,2023,1,2.0,2.0,1.2,1.01,1.0,1.05,1.2,1.1,0.0
+2023-04-25,19:45 (20:45),Aston Villa,Fulham,1,0,1.0,0.1,51,Premier League,Matchweek 33,Tue,Thomas Bramall,2023,1,2.6,1.2,1.8,1.5699999999999998,1.2,0.96,0.3,1.3,-1.0
+2023-04-25,20:00 (21:00),Leeds United,Leicester City,1,1,1.5,2.1,41,Premier League,Matchweek 33,Tue,Paul Tierney,2023,0,0.8,0.8,1.4,1.15,0.8,1.3699999999999999,2.4,1.6,-1.0
+2023-04-26,19:30 (20:30),Nottingham Forest,Brighton,3,1,2.4,2.3,26,Premier League,Matchweek 33,Wed,Jarred Gillett,2023,1,0.6,1.5,1.1,0.9400000000000001,1.5328947368421053,1.4846052631578948,2.2,1.5328947368421053,0.0
+2023-04-26,19:45 (20:45),Chelsea,Brentford,0,2,1.3,1.1,71,Premier League,Matchweek 33,Wed,Andy Madley,2023,-1,0.2,0.8,0.7,1.4600000000000002,1.3,1.64,1.3,1.3,0.0
+2023-04-26,19:45 (20:45),West Ham United,Liverpool,1,2,0.8,1.9,28,Premier League,Matchweek 33,Wed,Chris Kavanagh,2023,-1,1.4,2.2,1.5,1.41,2.3,1.9899999999999998,1.6,1.1,0.0
+2023-04-26,20:00 (21:00),Manchester City,Arsenal,4,1,2.5,0.5,52,Premier League,Matchweek 33,Wed,Michael Oliver,2023,1,3.0,1.2,2.9,2.32,2.7,2.0,0.8,1.5,1.0
+2023-04-27,19:45 (20:45),Everton,Newcastle Utd,1,4,0.9,2.4,40,Premier League,Matchweek 33,Thu,Andre Marriner,2023,-1,0.4,1.5,0.8,1.13,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2023-04-27,19:45 (20:45),Southampton,Bournemouth,0,1,0.5,0.9,57,Premier League,Matchweek 33,Thu,Darren England,2023,-1,0.2,1.8,0.8,0.9,1.1,1.44,1.7,1.9,1.0
+2023-04-27,20:15 (21:15),Tottenham Hotspur,Manchester Utd,2,2,2.5,2.0,40,Premier League,Matchweek 33,Thu,Anthony Taylor,2023,0,1.0,1.5,1.8,1.5699999999999998,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2023-04-29,12:30 (14:30),Crystal Palace,West Ham,4,3,2.1,1.7,59,Premier League,Matchweek 34,Sat,Craig Pawson,2023,1,2.0,1.5,1.4,1.19,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-04-29,15:00 (17:00),Brighton and Hove Albion,Wolves,6,0,3.3,0.8,57,Premier League,Matchweek 34,Sat,David Coote,2023,1,1.8,1.5,2.2,2.5799999999999996,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-04-29,15:00 (17:00),Brentford,Nott'ham Forest,2,1,1.6,0.7,68,Premier League,Matchweek 34,Sat,Peter Bankes,2023,1,1.4,1.5,1.2,1.59,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-04-30,14:00 (16:00),Manchester United,Aston Villa,1,0,1.2,0.6,57,Premier League,Matchweek 34,Sun,Jarred Gillett,2023,1,2.6,2.0,1.3,1.8800000000000001,1.6,1.44,1.1,0.4,0.0
+2023-04-30,14:00 (16:00),Newcastle United,Southampton,3,1,4.3,0.8,63,Premier League,Matchweek 34,Sun,Anthony Taylor,2023,1,2.4,0.2,2.6,2.38,0.9,0.9400000000000001,1.2,1.9,0.0
+2023-04-30,14:00 (16:00),Fulham,Manchester City,1,2,0.2,2.5,38,Premier League,Matchweek 34,Sun,Simon Hooper,2023,-1,1.2,3.0,1.1,0.8300000000000001,2.8,2.24,1.5,0.8,-1.0
+2023-04-30,14:00 (16:00),Bournemouth,Leeds United,4,1,1.9,1.6,42,Premier League,Matchweek 34,Sun,Chris Kavanagh,2023,1,2.4,0.2,1.4,1.53,1.4,1.22,1.6,2.8,-1.0
+2023-04-30,16:30 (18:30),Liverpool,Tottenham,4,3,2.2,2.0,67,Premier League,Matchweek 34,Sun,Paul Tierney,2023,1,2.6,1.5,2.7,2.12,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-05-01,20:00 (22:00),Leicester City,Everton,2,2,3.4,3.1,54,Premier League,Matchweek 34,Mon,Michael Oliver,2023,0,1.0,0.4,1.0,1.7100000000000002,1.0,1.28,1.7,2.0,1.0
+2023-05-02,20:00 (22:00),Arsenal,Chelsea,3,1,1.7,0.8,55,Premier League,Matchweek 34,Tue,Robert Jones,2023,1,1.2,0.2,2.9,2.1,0.8,1.3800000000000001,1.6,1.5,1.0
+2023-05-03,20:00 (22:00),Manchester City,West Ham,3,0,2.3,0.4,69,Premier League,Matchweek 28,Wed,John Brooks,2023,1,3.0,1.5,2.8,2.29,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,0.0
+2023-05-03,20:00 (22:00),Liverpool,Fulham,1,0,1.8,0.9,57,Premier League,Matchweek 28,Wed,Stuart Attwell,2023,1,3.0,1.2,2.6,2.04,1.0,0.89,1.4,1.6,0.0
+2023-05-04,20:00 (22:00),Brighton and Hove Albion,Manchester Utd,1,0,2.3,1.4,59,Premier League,Matchweek 28,Thu,Andre Marriner,2023,1,1.8,1.5,2.3,2.59,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2023-05-06,15:00 (17:00),Manchester City,Leeds United,2,1,2.6,0.2,80,Premier League,Matchweek 35,Sat,Andy Madley,2023,1,3.0,0.2,2.9,2.31,1.5,1.1400000000000001,0.7,2.9,1.0
+2023-05-06,15:00 (17:00),Tottenham Hotspur,Crystal Palace,1,0,0.9,0.4,56,Premier League,Matchweek 35,Sat,Darren England,2023,1,0.8,1.4,1.8,1.6300000000000001,1.4,1.21,2.2,1.4,0.0
+2023-05-06,15:00 (17:00),Wolverhampton Wanderers,Aston Villa,1,0,0.8,1.5,38,Premier League,Matchweek 35,Sat,Stuart Attwell,2023,1,1.8,1.4,1.2,1.01,1.5,1.47,1.5,0.5,0.0
+2023-05-06,15:00 (17:00),Bournemouth,Chelsea,1,3,1.2,1.3,35,Premier League,Matchweek 35,Sat,John Brooks,2023,-1,1.8,0.6,1.3,1.52,1.1,1.4700000000000002,1.6,1.4,-1.0
+2023-05-06,17:30 (19:30),Liverpool,Brentford,1,0,2.2,0.2,54,Premier League,Matchweek 35,Sat,Anthony Taylor,2023,1,3.0,1.4,2.0,1.9799999999999998,1.2,1.4100000000000001,1.4,1.2,-1.0
+2023-05-07,16:30 (18:30),Newcastle United,Arsenal,0,2,1.3,1.3,55,Premier League,Matchweek 35,Sun,Chris Kavanagh,2023,-1,1.8,1.6,2.6,2.4699999999999998,2.7,1.9900000000000002,1.2,1.6,0.0
+2023-05-07,19:00 (21:00),West Ham United,Manchester Utd,1,0,1.3,1.2,35,Premier League,Matchweek 35,Sun,Peter Bankes,2023,1,1.2,1.5,1.5,1.4,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-05-08,15:00 (17:00),Fulham,Leicester City,5,3,1.6,2.8,57,Premier League,Matchweek 35,Mon,Robert Jones,2023,1,1.2,1.0,1.4,1.0,1.3,1.8,1.8,2.1,1.0
+2023-05-08,17:30 (19:30),Brighton and Hove Albion,Everton,1,5,3.2,2.3,78,Premier League,Matchweek 35,Mon,Simon Hooper,2023,-1,1.8,1.0,2.0,2.56,1.5,1.3900000000000001,1.6,1.7,0.0
+2023-05-08,20:00 (22:00),Nottingham Forest,Southampton,4,3,1.8,3.1,36,Premier League,Matchweek 35,Mon,Michael Oliver,2023,1,1.2,0.2,1.4,1.07,1.1,1.1099999999999999,2.1,2.3,0.0
+2023-05-13,12:30 (14:30),Leeds United,Newcastle Utd,2,2,2.0,2.3,36,Premier League,Matchweek 36,Sat,Simon Hooper,2023,0,0.4,1.5,1.5,1.25,1.5328947368421053,1.4846052631578948,2.9,1.5328947368421053,0.0
+2023-05-13,15:00 (17:00),Manchester United,Wolves,2,0,3.2,0.3,48,Premier League,Matchweek 36,Sat,John Brooks,2023,1,1.4,1.5,1.0,1.83,1.5328947368421053,1.4846052631578948,0.6,1.5328947368421053,0.0
+2023-05-13,15:00 (17:00),Aston Villa,Tottenham,2,1,1.2,1.4,48,Premier League,Matchweek 36,Sat,Peter Bankes,2023,1,1.4,1.5,1.6,1.44,1.5328947368421053,1.4846052631578948,0.5,1.5328947368421053,0.0
+2023-05-13,15:00 (17:00),Crystal Palace,Bournemouth,2,0,1.5,0.3,59,Premier League,Matchweek 36,Sat,Michael Salisbury,2023,1,1.4,1.2,1.6,1.34,1.2,1.46,1.3,1.8,1.0
+2023-05-13,15:00 (17:00),Chelsea,Nott'ham Forest,2,2,1.2,1.3,75,Premier League,Matchweek 36,Sat,Paul Tierney,2023,0,0.8,1.5,1.2,1.44,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-05-13,15:00 (17:00),Southampton,Fulham,0,2,0.4,1.4,36,Premier League,Matchweek 36,Sat,Thomas Bramall,2023,-1,0.2,1.2,1.1,1.05,1.4,1.0,2.5,1.5,-1.0
+2023-05-14,14:00 (16:00),Brentford,West Ham,2,0,3.4,0.2,53,Premier League,Matchweek 36,Sun,Michael Oliver,2023,1,2.0,1.5,1.2,1.56,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2023-05-14,14:00 (16:00),Everton,Manchester City,0,3,1.6,0.8,37,Premier League,Matchweek 36,Sun,Anthony Taylor,2023,-1,1.0,3.0,1.3,1.38,2.8,2.15,1.8,0.6,0.0
+2023-05-14,16:30 (18:30),Arsenal,Brighton,0,3,0.9,1.7,41,Premier League,Matchweek 36,Sun,Andy Madley,2023,-1,1.4,1.5,2.4,1.8699999999999999,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-05-15,20:00 (22:00),Leicester City,Liverpool,0,3,0.4,2.2,34,Premier League,Matchweek 36,Mon,Craig Pawson,2023,-1,1.0,3.0,1.2,1.6,2.3,2.0300000000000002,2.1,1.3,-1.0
+2023-05-18,19:30 (21:30),Newcastle United,Brighton,4,1,3.6,0.5,35,Premier League,Matchweek 25,Thu,Robert Jones,2023,1,2.0,1.5,2.8,2.64,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2023-05-20,12:30 (14:30),Tottenham Hotspur,Brentford,1,3,1.7,1.2,61,Premier League,Matchweek 37,Sat,Jarred Gillett,2023,-1,0.8,2.4,1.7,1.6199999999999999,1.4,1.6199999999999999,2.5,1.2,0.0
+2023-05-20,15:00 (17:00),Liverpool,Aston Villa,1,1,0.7,1.3,66,Premier League,Matchweek 37,Sat,John Brooks,2023,0,2.6,1.4,2.3,2.07,1.4,1.22,1.0,0.6,1.0
+2023-05-20,15:00 (17:00),Fulham,Crystal Palace,2,2,1.7,1.6,49,Premier League,Matchweek 37,Sat,Joshua Smith,2023,0,1.4,1.4,1.6,1.09,1.8,1.3900000000000001,1.4,1.4,1.0
+2023-05-20,15:00 (17:00),Wolverhampton Wanderers,Everton,1,1,1.6,2.0,52,Premier League,Matchweek 37,Sat,David Coote,2023,0,1.4,1.0,1.1,1.04,1.3,1.48,1.6,1.9,0.0
+2023-05-20,15:00 (17:00),Bournemouth,Manchester Utd,0,1,1.0,1.4,41,Premier League,Matchweek 37,Sat,Chris Kavanagh,2023,-1,1.2,1.5,1.2,1.4300000000000002,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-05-20,17:30 (19:30),Nottingham Forest,Arsenal,1,0,0.6,0.6,19,Premier League,Matchweek 37,Sat,Anthony Taylor,2023,1,2.0,1.2,1.5,1.07,2.1,1.7,1.8,1.8,0.0
+2023-05-21,13:30 (15:30),West Ham United,Leeds United,3,1,2.1,0.9,59,Premier League,Matchweek 37,Sun,Peter Bankes,2023,1,1.2,0.4,1.6,1.28,1.2,1.18,1.9,3.0,0.0
+2023-05-21,14:00 (16:00),Brighton and Hove Albion,Southampton,3,1,2.5,0.6,63,Premier League,Matchweek 37,Sun,Paul Tierney,2023,1,1.8,0.0,2.1,2.2800000000000002,1.2,1.06,1.6,2.6,0.0
+2023-05-21,16:00 (18:00),Manchester City,Chelsea,1,0,1.2,1.2,64,Premier League,Matchweek 37,Sun,Michael Oliver,2023,1,3.0,0.8,2.7,2.1399999999999997,0.9,1.4000000000000001,0.6,1.6,1.0
+2023-05-22,20:00 (22:00),Newcastle United,Leicester City,0,0,2.1,0.1,77,Premier League,Matchweek 37,Mon,Andre Marriner,2023,0,1.6,0.6,2.6,2.48,1.1,1.48,1.3,2.0,0.0
+2023-05-24,20:00 (22:00),Brighton and Hove Albion,Manchester City,1,1,2.2,1.8,40,Premier League,Matchweek 32,Wed,Simon Hooper,2023,0,1.4,2.6,2.0,2.23,2.7,2.1100000000000003,1.7,0.7,0.0
+2023-05-25,20:00 (22:00),Manchester United,Chelsea,4,1,5.2,1.9,42,Premier League,Matchweek 32,Thu,Stuart Attwell,2023,1,1.8,0.8,1.5,2.37,0.8,1.3599999999999999,0.5,1.8,0.0
+2023-05-28,16:30 (18:30),Arsenal,Wolves,5,0,2.8,0.5,51,Premier League,Matchweek 38,Sun,Andre Marriner,2023,1,1.8,1.5,2.2,1.8199999999999998,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-05-28,16:30 (18:30),Manchester United,Fulham,2,1,2.9,1.8,53,Premier League,Matchweek 38,Sun,Robert Jones,2023,1,2.4,1.4,1.6,2.54,1.6,1.19,0.6,1.4,0.0
+2023-05-28,16:30 (18:30),Aston Villa,Brighton,2,1,2.8,1.4,41,Premier League,Matchweek 38,Sun,David Coote,2023,1,1.4,1.5,1.4,1.41,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,0.0
+2023-05-28,16:30 (18:30),Brentford,Manchester City,1,0,1.3,1.6,35,Premier League,Matchweek 38,Sun,John Brooks,2023,1,2.4,2.0,1.2,1.5900000000000003,2.3,1.9799999999999998,0.9,0.7,1.0
+2023-05-28,16:30 (18:30),Crystal Palace,Nott'ham Forest,1,1,1.4,0.5,66,Premier League,Matchweek 38,Sun,Thomas Bramall,2023,0,1.6,1.5,1.8,1.45,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2023-05-28,16:30 (18:30),Chelsea,Newcastle Utd,1,1,2.2,1.7,64,Premier League,Matchweek 38,Sun,Jarred Gillett,2023,0,1.0,1.5,0.9,1.37,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-05-28,16:30 (18:30),Everton,Bournemouth,1,0,1.0,0.5,38,Premier League,Matchweek 38,Sun,Stuart Attwell,2023,1,1.6,0.6,1.2,1.46,1.0,1.22,1.7,1.6,-1.0
+2023-05-28,16:30 (18:30),Leicester City,West Ham,2,1,1.4,1.4,48,Premier League,Matchweek 38,Sun,Simon Hooper,2023,1,1.0,1.5,1.2,1.5999999999999999,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-05-28,16:30 (18:30),Leeds United,Tottenham,1,4,1.5,2.2,52,Premier League,Matchweek 38,Sun,Anthony Taylor,2023,-1,0.2,1.5,1.2,1.26,1.5328947368421053,1.4846052631578948,3.0,1.5328947368421053,0.0
+2023-05-28,16:30 (18:30),Southampton,Liverpool,4,4,1.8,4.0,31,Premier League,Matchweek 38,Sun,Darren England,2023,0,0.2,2.2,1.3,1.0,2.7,2.4400000000000004,2.7,1.4,-1.0
+2023-08-11,20:00 (22:00),Burnley,Manchester City,0,3,0.3,1.9,35,Premier League,Matchweek 1,Fri,Craig Pawson,2024,-1,0.0,2.0,0.0,0.3,2.2,1.8800000000000001,3.0,0.6,0.0
+2023-08-12,12:30 (14:30),Arsenal,Nott'ham Forest,2,1,0.8,1.2,78,Premier League,Matchweek 1,Sat,Michael Oliver,2024,1,1.8,1.5,2.0,1.52,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,1.0
+2023-08-12,15:00 (17:00),Brighton and Hove Albion,Luton Town,4,1,4.0,1.5,70,Premier League,Matchweek 1,Sat,David Coote,2024,1,1.4,0.0,2.2,2.34,1.0,1.5,1.7,4.0,0.0
+2023-08-12,15:00 (17:00),Bournemouth,West Ham,1,1,1.3,1.1,62,Premier League,Matchweek 1,Sat,Peter Bankes,2024,0,0.2,1.5,1.1,1.18,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,-1.0
+2023-08-12,15:00 (17:00),Everton,Fulham,0,1,2.7,1.5,42,Premier League,Matchweek 1,Sat,Stuart Attwell,2024,-1,1.4,2.0,1.1,1.64,1.7,1.27,1.7,1.3,-0.5
+2023-08-12,15:00 (17:00),Sheffield United,Crystal Palace,0,1,0.5,1.9,32,Premier League,Matchweek 1,Sat,John Brooks,2024,-1,0.0,1.6,0.0,0.5,1.7,1.41,1.0,1.0,0.0
+2023-08-12,17:30 (19:30),Newcastle United,Aston Villa,5,1,3.3,1.8,52,Premier League,Matchweek 1,Sat,Andy Madley,2024,1,1.8,1.4,2.5,2.52,1.3,1.49,1.3,1.1,1.0
+2023-08-13,14:00 (16:00),Brentford,Tottenham,2,2,2.2,1.3,31,Premier League,Matchweek 1,Sun,Robert Jones,2024,0,2.0,1.5,1.4,1.7399999999999998,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-08-13,16:30 (18:30),Chelsea,Liverpool,1,1,1.4,1.3,65,Premier League,Matchweek 1,Sun,Anthony Taylor,2024,0,0.6,1.8,1.0,1.29,2.6,2.18,1.8,1.3,0.0
+2023-08-14,20:00 (22:00),Manchester United,Wolves,1,0,2.2,2.2,51,Premier League,Matchweek 1,Mon,Simon Hooper,2024,1,3.0,1.5,1.5,2.42,1.5328947368421053,1.4846052631578948,0.6,1.5328947368421053,1.0
+2023-08-18,19:45 (21:45),Nottingham Forest,Sheffield Utd,2,1,1.4,0.5,50,Premier League,Matchweek 2,Fri,Peter Bankes,2024,1,1.6,1.5,1.7,1.15,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-08-19,15:00 (17:00),Liverpool,Bournemouth,3,1,3.0,1.3,64,Premier League,Matchweek 2,Sat,Thomas Bramall,2024,1,1.8,0.2,2.3,2.21,1.1,1.1199999999999999,1.3,1.8,0.0
+2023-08-19,15:00 (17:00),Fulham,Brentford,0,3,0.5,3.7,55,Premier League,Matchweek 2,Sat,Darren Bond,2024,-1,1.4,2.6,1.4,1.1400000000000001,1.6,1.85,1.5,0.8,0.0
+2023-08-19,15:00 (17:00),Wolverhampton Wanderers,Brighton,1,4,2.1,2.2,47,Premier League,Matchweek 2,Sat,Andy Madley,2024,-1,0.2,1.5,0.8,1.1400000000000001,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,-1.0
+2023-08-19,17:30 (19:30),Tottenham Hotspur,Manchester Utd,2,0,1.7,2.1,55,Premier League,Matchweek 2,Sat,Michael Oliver,2024,1,1.4,1.5,1.9,1.69,1.5328947368421053,1.4846052631578948,2.3,1.5328947368421053,0.0
+2023-08-19,20:00 (22:00),Manchester City,Newcastle Utd,1,0,1.0,0.3,59,Premier League,Matchweek 2,Sat,Robert Jones,2024,1,2.0,1.5,2.0,1.8199999999999998,1.5328947368421053,1.4846052631578948,0.5,1.5328947368421053,1.0
+2023-08-20,14:00 (16:00),Aston Villa,Everton,4,0,2.9,0.6,60,Premier League,Matchweek 2,Sun,Anthony Taylor,2024,1,2.0,0.8,1.5,1.65,1.1,1.6,1.1,1.9,1.0
+2023-08-20,16:30 (18:30),West Ham United,Chelsea,3,1,1.8,2.5,25,Premier League,Matchweek 2,Sun,John Brooks,2024,1,1.4,0.4,1.7,1.3199999999999998,1.1,1.4300000000000002,1.6,2.0,0.0
+2023-08-21,20:00 (22:00),Crystal Palace,Arsenal,0,1,1.0,2.0,47,Premier League,Matchweek 2,Mon,David Coote,2024,-1,1.6,1.8,1.2,1.2100000000000002,1.9,1.58,1.0,1.5,-1.0
+2023-08-25,20:00 (22:00),Chelsea,Luton Town,3,0,2.2,0.4,67,Premier League,Matchweek 3,Fri,Robert Jones,2024,1,1.0,0.0,1.3,1.6,0.5,0.95,1.8,3.5,0.0
+2023-08-26,12:30 (14:30),Bournemouth,Tottenham,0,2,0.7,2.1,44,Premier League,Matchweek 3,Sat,Tim Robinson,2024,-1,0.2,1.5,0.8,1.06,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,-1.0
+2023-08-26,15:00 (17:00),Arsenal,Fulham,2,2,3.2,0.6,71,Premier League,Matchweek 3,Sat,Paul Tierney,2024,0,2.0,1.0,1.9,1.6300000000000001,1.4,1.03,1.5,1.6,1.0
+2023-08-26,15:00 (17:00),Manchester United,Nott'ham Forest,3,2,2.8,1.2,66,Premier League,Matchweek 3,Sat,Stuart Attwell,2024,1,2.4,1.5,1.4,2.36,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,1.0
+2023-08-26,15:00 (17:00),Everton,Wolves,0,1,1.3,1.1,47,Premier League,Matchweek 3,Sat,Craig Pawson,2024,-1,0.8,1.5,1.0,1.5899999999999999,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,-1.0
+2023-08-26,15:00 (17:00),Brentford,Crystal Palace,1,1,1.0,0.8,60,Premier League,Matchweek 3,Sat,Peter Bankes,2024,0,2.2,1.2,1.7,1.8399999999999999,1.1,1.2,0.7,1.1,0.0
+2023-08-26,17:30 (19:30),Brighton and Hove Albion,West Ham,1,3,1.5,3.0,78,Premier League,Matchweek 3,Sat,Anthony Taylor,2024,-1,1.4,1.5,2.0,2.15,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,1.0
+2023-08-27,14:00 (16:00),Burnley,Aston Villa,1,3,0.7,2.5,57,Premier League,Matchweek 3,Sun,Michael Salisbury,2024,-1,0.0,2.0,0.5,0.5,1.5,1.7100000000000002,3.0,1.2,0.0
+2023-08-27,14:00 (16:00),Sheffield United,Manchester City,1,2,0.7,3.5,21,Premier League,Matchweek 3,Sun,Jarred Gillett,2024,-1,0.0,2.0,0.6666666666666666,0.5666666666666667,1.8,1.92,1.6666666666666667,0.5,0.0
+2023-08-27,16:30 (18:30),Newcastle United,Liverpool,1,2,2.0,0.9,59,Premier League,Matchweek 3,Sun,John Brooks,2024,-1,1.0,1.8,2.0,2.33,2.2,2.02,1.2,1.2,-1.0
+2023-09-01,20:00 (22:00),Luton Town,West Ham,1,2,1.4,1.0,39,Premier League,Matchweek 4,Fri,Paul Tierney,2024,-1,0.0,1.5,0.6666666666666666,1.0999999999999999,1.5328947368421053,1.4846052631578948,3.0,1.5328947368421053,0.0
+2023-09-02,12:30 (14:30),Sheffield United,Everton,2,2,1.2,2.5,46,Premier League,Matchweek 4,Sat,Andy Madley,2024,0,0.25,0.8,1.0,0.725,1.2,1.8,1.75,1.9,0.0
+2023-09-02,15:00 (17:00),Manchester City,Fulham,5,1,2.2,1.4,68,Premier League,Matchweek 4,Sat,Michael Oliver,2024,1,2.4,0.8,2.1,1.89,1.5,1.1600000000000001,0.5,2.0,1.0
+2023-09-02,15:00 (17:00),Chelsea,Nott'ham Forest,0,1,2.3,0.8,75,Premier League,Matchweek 4,Sat,Tim Robinson,2024,-1,1.0,1.5,1.3,1.7,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-09-02,15:00 (17:00),Brentford,Bournemouth,2,2,2.9,2.1,60,Premier League,Matchweek 4,Sat,Robert Madley,2024,0,1.8,0.4,1.8,1.86,1.0,1.1199999999999999,0.8,1.6,0.5
+2023-09-02,15:00 (17:00),Burnley,Tottenham,2,5,1.3,2.2,47,Premier League,Matchweek 4,Sat,Darren England,2024,-1,0.0,1.5,1.0,0.7666666666666666,1.5328947368421053,1.4846052631578948,3.6666666666666665,1.5328947368421053,0.0
+2023-09-02,17:30 (19:30),Brighton and Hove Albion,Newcastle Utd,3,1,1.3,1.2,56,Premier League,Matchweek 4,Sat,Stuart Attwell,2024,1,1.8,1.5,2.2,2.0500000000000003,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-09-03,14:00 (16:00),Liverpool,Aston Villa,3,0,2.5,0.7,63,Premier League,Matchweek 4,Sun,Simon Hooper,2024,1,2.2,1.8,2.3,2.08,1.4,1.6300000000000001,1.1,1.4,0.5
+2023-09-03,14:00 (16:00),Crystal Palace,Wolves,3,2,2.1,1.2,43,Premier League,Matchweek 4,Sun,Robert Jones,2024,1,1.6,1.5,1.4,1.36,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2023-09-03,16:30 (18:30),Arsenal,Manchester Utd,3,1,2.3,0.9,55,Premier League,Matchweek 4,Sun,Anthony Taylor,2024,1,2.6,1.5,1.9,1.61,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2023-09-16,12:30 (14:30),Wolverhampton Wanderers,Liverpool,1,3,0.6,2.5,35,Premier League,Matchweek 5,Sat,Michael Oliver,2024,-1,0.6,2.6,0.7,1.12,2.2,2.1100000000000003,2.5,0.9,1.0
+2023-09-16,15:00 (17:00),Aston Villa,Crystal Palace,3,1,3.0,1.2,66,Premier League,Matchweek 5,Sat,Darren England,2024,1,1.8,1.4,1.6,1.83,1.5,1.4,1.5,1.4,0.0
+2023-09-16,15:00 (17:00),Tottenham Hotspur,Sheffield Utd,2,1,2.1,0.7,70,Premier League,Matchweek 5,Sat,Peter Bankes,2024,1,2.6,1.5,2.3,1.7600000000000002,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-09-16,15:00 (17:00),Manchester United,Brighton,1,3,1.0,1.7,44,Premier League,Matchweek 5,Sat,Jarred Gillett,2024,-1,1.2,1.5,1.5,2.29,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,-1.0
+2023-09-16,15:00 (17:00),West Ham United,Manchester City,1,3,0.9,3.6,32,Premier League,Matchweek 5,Sat,Andy Madley,2024,-1,2.0,3.0,1.5,1.32,2.1,2.02,1.5,0.6,-1.0
+2023-09-16,15:00 (17:00),Fulham,Luton Town,1,0,1.0,1.1,77,Premier League,Matchweek 5,Sat,Michael Salisbury,2024,1,1.4,0.0,1.5,1.24,0.5,1.1,1.8,2.5,0.0
+2023-09-16,17:30 (19:30),Newcastle United,Brentford,1,0,1.4,0.5,56,Premier League,Matchweek 5,Sat,Craig Pawson,2024,1,1.2,1.2,1.5,1.92,1.6,1.8,1.3,0.9,1.0
+2023-09-17,14:00 (16:00),Bournemouth,Chelsea,0,0,1.0,1.8,36,Premier League,Matchweek 5,Sun,David Coote,2024,0,0.6,1.0,0.9,1.1300000000000001,1.2,1.8,1.6,1.4,-1.0
+2023-09-17,16:30 (18:30),Everton,Arsenal,0,1,0.3,1.0,26,Premier League,Matchweek 5,Sun,Simon Hooper,2024,-1,0.2,2.6,1.1,1.7400000000000002,1.9,1.6600000000000001,1.6,0.9,0.0
+2023-09-18,19:45 (21:45),Nottingham Forest,Burnley,1,1,0.7,0.5,46,Premier League,Matchweek 5,Mon,Robert Jones,2024,0,1.4,0.25,1.6,1.02,1.0,0.7,1.5,3.0,0.0
+2023-09-23,15:00 (17:00),Manchester City,Nott'ham Forest,2,0,1.3,1.0,57,Premier League,Matchweek 6,Sat,Anthony Taylor,2024,1,3.0,1.5,2.1,1.8900000000000001,1.5328947368421053,1.4846052631578948,0.5,1.5328947368421053,1.0
+2023-09-23,15:00 (17:00),Crystal Palace,Fulham,0,0,0.3,0.6,51,Premier League,Matchweek 6,Sat,Paul Tierney,2024,0,1.0,1.0,1.1,1.22,1.5,1.21,1.1,1.7,-0.5
+2023-09-23,15:00 (17:00),Luton Town,Wolves,1,1,2.1,0.6,57,Premier League,Matchweek 6,Sat,Joshua Smith,2024,0,0.2,1.5,0.6,1.3,1.5328947368421053,1.4846052631578948,2.2,1.5328947368421053,0.0
+2023-09-23,17:30 (19:30),Brentford,Everton,1,3,1.0,1.9,57,Premier League,Matchweek 6,Sat,Michael Oliver,2024,-1,1.0,0.8,1.5,1.7400000000000002,1.2,1.6199999999999999,1.1,1.5,-0.5
+2023-09-23,20:00 (22:00),Burnley,Manchester Utd,0,1,1.1,1.0,61,Premier League,Matchweek 6,Sat,Tony Harrington,2024,-1,0.2,1.5,0.8,0.78,1.5328947368421053,1.4846052631578948,2.6,1.5328947368421053,0.0
+2023-09-24,14:00 (16:00),Arsenal,Tottenham,2,2,1.8,1.4,47,Premier League,Matchweek 6,Sun,Robert Jones,2024,0,2.2,1.5,1.8,1.67,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,1.0
+2023-09-24,14:00 (16:00),Liverpool,West Ham,3,1,3.0,1.1,63,Premier League,Matchweek 6,Sun,Chris Kavanagh,2024,1,3.0,1.5,2.4,2.23,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,1.0
+2023-09-24,14:00 (16:00),Chelsea,Aston Villa,0,1,1.3,1.0,53,Premier League,Matchweek 6,Sun,Jarred Gillett,2024,-1,0.8,2.4,0.9,1.8,1.7,1.8699999999999999,1.4,1.4,0.0
+2023-09-24,14:00 (16:00),Brighton and Hove Albion,Bournemouth,3,1,1.9,1.1,61,Premier League,Matchweek 6,Sun,John Brooks,2024,1,2.4,0.4,2.4,1.92,0.6,1.05,1.6,1.8,1.0
+2023-09-24,16:30 (18:30),Sheffield United,Newcastle Utd,0,8,0.9,3.9,42,Premier League,Matchweek 6,Sun,Stuart Attwell,2024,-1,0.2,1.5,0.8333333333333334,0.75,1.5328947368421053,1.4846052631578948,2.8333333333333335,1.5328947368421053,0.0
+2023-09-30,12:30 (14:30),Aston Villa,Brighton,6,1,1.6,1.7,39,Premier League,Matchweek 7,Sat,Andy Madley,2024,1,2.4,1.5,2.3,1.8800000000000001,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,1.0
+2023-09-30,15:00 (17:00),Newcastle United,Burnley,2,0,3.1,0.6,53,Premier League,Matchweek 7,Sat,Thomas Bramall,2024,1,1.8,0.2,2.3,2.2600000000000002,0.6666666666666666,0.75,0.9,2.5,0.0
+2023-09-30,15:00 (17:00),Manchester United,Crystal Palace,0,1,1.3,0.9,77,Premier League,Matchweek 7,Sat,Chris Kavanagh,2024,-1,1.2,1.6,1.4,2.0799999999999996,1.2,1.27,1.3,1.0,1.0
+2023-09-30,15:00 (17:00),West Ham United,Sheffield Utd,2,0,2.1,1.1,52,Premier League,Matchweek 7,Sat,Graham Scott,2024,1,1.8,1.5,1.7,1.4700000000000002,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2023-09-30,15:00 (17:00),Bournemouth,Arsenal,0,4,0.6,3.4,43,Premier League,Matchweek 7,Sat,Michael Salisbury,2024,-1,0.4,2.2,0.5,0.99,2.0,1.8800000000000001,1.9,1.0,-1.0
+2023-09-30,15:00 (17:00),Wolverhampton Wanderers,Manchester City,2,1,0.4,0.9,32,Premier League,Matchweek 7,Sat,Craig Pawson,2024,1,1.4,2.4,0.9,1.06,1.9,1.9,2.1,0.7,-1.0
+2023-09-30,15:00 (17:00),Everton,Luton Town,1,2,2.9,0.9,67,Premier League,Matchweek 7,Sat,Anthony Taylor,2024,-1,0.8,0.8,0.8,1.6800000000000002,0.8333333333333334,1.2333333333333334,1.6,2.0,0.0
+2023-09-30,17:30 (19:30),Tottenham Hotspur,Liverpool,2,1,2.2,1.3,64,Premier League,Matchweek 7,Sat,Simon Hooper,2024,1,2.6,2.4,2.3,1.83,2.4,2.14,1.4,1.2,-1.0
+2023-10-01,14:00 (16:00),Nottingham Forest,Brentford,1,1,0.5,1.6,41,Premier League,Matchweek 7,Sun,Paul Tierney,2024,0,1.0,0.6,1.2,0.9199999999999999,1.6,1.8800000000000001,1.3,1.1,0.0
+2023-10-02,20:00 (22:00),Fulham,Chelsea,0,2,1.1,1.7,56,Premier League,Matchweek 7,Mon,Tim Robinson,2024,-1,1.0,1.4,1.0,1.16,0.9,1.85,1.6,1.2,0.5
+2023-10-03,19:30 (21:30),Luton Town,Burnley,1,2,1.3,1.1,49,Premier League,Matchweek 2,Tue,Peter Bankes,2024,-1,0.8,0.8,0.8571428571428571,1.2428571428571427,0.8571428571428571,0.7999999999999999,2.0,2.2857142857142856,0.0
+2023-10-07,12:30 (14:30),Luton Town,Tottenham,0,1,0.8,1.9,34,Premier League,Matchweek 8,Sat,John Brooks,2024,-1,0.8,1.5,0.75,1.1875,1.5328947368421053,1.4846052631578948,1.875,1.5328947368421053,0.0
+2023-10-07,15:00 (17:00),Manchester United,Brentford,2,1,1.4,0.9,64,Premier League,Matchweek 8,Sat,Andy Madley,2024,1,1.2,0.4,1.5,2.08,1.5,1.6300000000000001,1.4,1.3,1.0
+2023-10-07,15:00 (17:00),Fulham,Sheffield Utd,3,1,2.2,0.6,60,Premier League,Matchweek 8,Sat,Samuel Barrott,2024,1,1.4,1.5,1.1,1.24,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-10-07,15:00 (17:00),Everton,Bournemouth,3,0,2.4,0.7,48,Premier League,Matchweek 8,Sat,David Coote,2024,1,1.4,0.4,1.1,1.7600000000000002,0.5,1.0299999999999998,1.3,2.0,0.0
+2023-10-07,15:00 (17:00),Burnley,Chelsea,1,4,0.7,1.9,38,Premier League,Matchweek 8,Sat,Stuart Attwell,2024,-1,0.8,1.4,0.875,0.7875,1.3,1.92,2.5,1.2,0.0
+2023-10-07,17:30 (19:30),Crystal Palace,Nott'ham Forest,0,0,0.8,1.0,52,Premier League,Matchweek 8,Sat,Craig Pawson,2024,0,1.6,1.5,1.0,1.2,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-10-08,14:00 (16:00),West Ham United,Newcastle Utd,2,2,1.2,2.0,36,Premier League,Matchweek 8,Sun,Peter Bankes,2024,0,1.4,1.5,1.9,1.57,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,-1.0
+2023-10-08,14:00 (16:00),Brighton and Hove Albion,Liverpool,2,2,2.3,2.3,46,Premier League,Matchweek 8,Sun,Anthony Taylor,2024,0,2.0,2.0,2.3,2.02,2.3,2.15,1.9,1.4,1.0
+2023-10-08,14:00 (16:00),Wolverhampton Wanderers,Aston Villa,1,1,1.7,1.6,47,Premier League,Matchweek 8,Sun,Robert Jones,2024,0,1.0,2.0,1.0,1.2,2.2,1.92,2.0,1.4,1.0
+2023-10-08,16:30 (18:30),Arsenal,Manchester City,1,0,0.4,0.5,49,Premier League,Matchweek 8,Sun,Michael Oliver,2024,1,2.6,1.8,2.1,1.83,1.8,1.8299999999999996,0.7,0.8,-1.0
+2023-10-21,12:30 (14:30),Liverpool,Everton,2,0,2.2,0.1,77,Premier League,Matchweek 9,Sat,Craig Pawson,2024,1,2.0,1.2,2.4,2.3,1.0,1.5699999999999998,1.3,1.4,0.5
+2023-10-21,15:00 (17:00),Manchester City,Brighton,2,1,0.8,0.8,55,Premier League,Matchweek 9,Sat,Robert Jones,2024,1,1.8,1.5,1.9,1.73,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,1.0
+2023-10-21,15:00 (17:00),Newcastle United,Crystal Palace,4,0,2.4,1.2,59,Premier League,Matchweek 9,Sat,Tim Robinson,2024,1,2.6,1.0,2.5,2.13,0.8,1.16,1.0,1.2,0.0
+2023-10-21,15:00 (17:00),Bournemouth,Wolves,1,2,0.6,2.4,35,Premier League,Matchweek 9,Sat,Paul Tierney,2024,-1,0.2,1.5,0.6,0.9899999999999999,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2023-10-21,15:00 (17:00),Brentford,Burnley,3,0,3.1,1.1,50,Premier League,Matchweek 9,Sat,Joshua Smith,2024,1,0.8,0.6,1.5,1.8199999999999998,0.7777777777777778,0.8222222222222223,1.2,2.5555555555555554,0.0
+2023-10-21,15:00 (17:00),Nottingham Forest,Luton Town,2,2,2.9,1.7,57,Premier League,Matchweek 9,Sat,Samuel Barrott,2024,0,0.8,1.0,1.1,1.1199999999999999,0.8888888888888888,1.2444444444444445,1.3,1.8888888888888888,0.0
+2023-10-21,17:30 (19:30),Chelsea,Arsenal,2,2,1.3,1.0,44,Premier League,Matchweek 9,Sat,Chris Kavanagh,2024,0,1.6,2.2,1.4,1.86,2.3,1.8699999999999999,1.0,0.8,-1.0
+2023-10-21,20:00 (22:00),Sheffield United,Manchester Utd,1,2,1.4,1.1,38,Premier League,Matchweek 9,Sat,Michael Oliver,2024,-1,0.0,1.5,0.7777777777777778,0.8444444444444444,1.5328947368421053,1.4846052631578948,2.6666666666666665,1.5328947368421053,0.0
+2023-10-22,16:30 (18:30),Aston Villa,West Ham,4,1,1.9,1.1,58,Premier League,Matchweek 9,Sun,David Coote,2024,1,2.6,1.5,2.5,1.98,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,-1.0
+2023-10-23,20:00 (22:00),Tottenham Hotspur,Fulham,2,0,1.5,1.0,55,Premier League,Matchweek 9,Mon,Anthony Taylor,2024,1,2.6,1.4,2.4,1.86,0.9,1.1700000000000002,0.9,1.7,1.0
+2023-10-27,20:00 (21:00),Crystal Palace,Tottenham,1,2,0.6,1.1,25,Premier League,Matchweek 10,Fri,Andy Madley,2024,-1,1.0,1.5,0.8,1.0799999999999998,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,-1.0
+2023-10-28,12:30 (13:30),Chelsea,Brentford,0,2,1.9,2.2,68,Premier League,Matchweek 10,Sat,Simon Hooper,2024,-1,1.4,1.4,1.3,1.8299999999999996,1.6,1.9100000000000001,1.1,1.2,-0.5
+2023-10-28,15:00 (16:00),Arsenal,Sheffield Utd,5,0,2.8,0.0,67,Premier League,Matchweek 10,Sat,Tim Robinson,2024,1,2.2,1.5,2.3,1.8699999999999999,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,0.0
+2023-10-28,15:00 (16:00),Bournemouth,Burnley,2,1,1.1,0.8,45,Premier League,Matchweek 10,Sat,Samuel Barrott,2024,1,0.6,0.6,0.8,1.05,0.8,0.82,2.1,2.5,0.0
+2023-10-28,17:30 (18:30),Wolverhampton Wanderers,Newcastle Utd,2,2,0.9,2.2,43,Premier League,Matchweek 10,Sat,Anthony Taylor,2024,0,1.8,1.5,1.3,1.32,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-10-29,13:00 (15:00),West Ham United,Everton,0,1,0.7,0.8,64,Premier League,Matchweek 10,Sun,Stuart Attwell,2024,-1,0.8,1.8,1.6,1.4000000000000001,1.0,1.55,1.7,1.4,1.0
+2023-10-29,14:00 (16:00),Liverpool,Nott'ham Forest,3,0,3.2,0.4,72,Premier League,Matchweek 10,Sun,Chris Kavanagh,2024,1,2.0,1.5,2.3,2.2199999999999998,1.5328947368421053,1.4846052631578948,0.9,1.5328947368421053,1.0
+2023-10-29,14:00 (16:00),Aston Villa,Luton Town,3,1,2.3,0.5,70,Premier League,Matchweek 10,Sun,John Brooks,2024,1,2.6,0.8,2.6,1.9299999999999997,0.9,1.17,1.4,2.0,0.0
+2023-10-29,14:00 (16:00),Brighton and Hove Albion,Fulham,1,1,1.4,0.7,71,Premier League,Matchweek 10,Sun,Michael Salisbury,2024,0,1.0,1.0,2.3,1.8800000000000001,0.9,1.06,1.9,1.6,-1.0
+2023-10-29,15:30 (17:30),Manchester United,Manchester City,0,3,0.9,4.0,40,Premier League,Matchweek 10,Sun,Paul Tierney,2024,-1,1.8,1.8,1.1,1.4700000000000002,2.2,1.97,1.6,0.7,1.0
+2023-11-04,12:30 (14:30),Fulham,Manchester Utd,0,1,1.0,0.7,45,Premier League,Matchweek 11,Sat,John Brooks,2024,-1,0.8,1.5,0.8,1.01,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,-1.0
+2023-11-04,15:00 (17:00),Manchester City,Bournemouth,6,1,1.9,0.9,65,Premier League,Matchweek 11,Sat,Craig Pawson,2024,1,1.8,0.6,2.5,1.9700000000000002,0.8,1.0100000000000002,0.8,2.6,1.0
+2023-11-04,15:00 (17:00),Everton,Brighton,1,1,0.7,0.5,21,Premier League,Matchweek 11,Sat,Tim Robinson,2024,0,1.4,1.5,1.1,1.3499999999999999,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,-1.0
+2023-11-04,15:00 (17:00),Brentford,West Ham,3,2,1.5,1.8,58,Premier League,Matchweek 11,Sat,Thomas Bramall,2024,1,2.0,1.5,1.7,1.8399999999999999,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,1.0
+2023-11-04,15:00 (17:00),Burnley,Crystal Palace,0,2,1.1,1.3,67,Premier League,Matchweek 11,Sat,Peter Bankes,2024,-1,0.6,1.4,0.8,0.9,0.9,1.02,2.4,1.3,0.0
+2023-11-04,15:00 (17:00),Sheffield United,Wolves,2,1,1.0,1.2,39,Premier League,Matchweek 11,Sat,Robert Jones,2024,1,0.6,1.5,0.9,0.8099999999999999,1.5328947368421053,1.4846052631578948,2.9,1.5328947368421053,0.0
+2023-11-04,17:30 (19:30),Newcastle United,Arsenal,1,0,1.0,0.6,42,Premier League,Matchweek 11,Sat,Stuart Attwell,2024,1,2.2,2.0,2.2,1.95,2.1,1.85,1.0,0.8,-1.0
+2023-11-05,14:00 (16:00),Nottingham Forest,Aston Villa,2,0,0.4,1.2,27,Premier League,Matchweek 11,Sun,Jarred Gillett,2024,1,1.2,2.0,1.1,1.0299999999999998,2.5,1.8700000000000003,1.3,1.1,0.0
+2023-11-05,16:30 (18:30),Luton Town,Liverpool,1,1,0.8,2.6,27,Premier League,Matchweek 11,Sun,Andy Madley,2024,0,0.4,1.6,0.9,1.1,2.3,2.35,1.7,0.9,0.0
+2023-11-06,20:00 (22:00),Tottenham Hotspur,Chelsea,1,4,0.9,4.1,40,Premier League,Matchweek 11,Mon,Michael Oliver,2024,-1,2.4,2.0,2.1,1.7100000000000002,1.6,2.1,1.1,1.1,1.0
+2023-11-11,12:30 (14:30),Wolverhampton Wanderers,Tottenham,2,1,2.1,0.7,42,Premier League,Matchweek 12,Sat,Tim Robinson,2024,1,1.6,1.5,1.5,1.22,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,1.0
+2023-11-11,15:00 (17:00),Arsenal,Burnley,3,1,1.8,0.3,63,Premier League,Matchweek 12,Sat,Michael Oliver,2024,1,2.0,0.0,2.3,1.83,0.8,0.8600000000000001,0.9,2.4,0.0
+2023-11-11,15:00 (17:00),Manchester United,Luton Town,1,0,2.2,0.4,64,Premier League,Matchweek 12,Sat,Graham Scott,2024,1,2.4,0.4,1.2,1.33,0.9,1.1,1.4,1.5,0.0
+2023-11-11,15:00 (17:00),Crystal Palace,Everton,2,3,2.2,1.5,67,Premier League,Matchweek 12,Sat,Samuel Barrott,2024,-1,0.8,2.0,1.1,1.14,1.4,1.44,1.5,1.2,-0.5
+2023-11-11,17:30 (19:30),Bournemouth,Newcastle Utd,2,0,2.4,0.5,48,Premier League,Matchweek 12,Sat,Chris Kavanagh,2024,1,1.2,1.5,0.9,1.1199999999999999,1.5328947368421053,1.4846052631578948,2.3,1.5328947368421053,0.0
+2023-11-12,14:00 (16:00),Liverpool,Brentford,3,0,1.7,1.6,58,Premier League,Matchweek 12,Sun,Paul Tierney,2024,1,2.2,1.8,2.3,2.2199999999999998,1.4,1.6300000000000001,0.8,1.5,0.0
+2023-11-12,14:00 (16:00),Aston Villa,Fulham,3,1,3.0,0.9,51,Premier League,Matchweek 12,Sun,Simon Hooper,2024,1,2.0,0.8,2.4,1.8799999999999997,0.9,1.05,1.2,1.7,0.0
+2023-11-12,14:00 (16:00),West Ham United,Nott'ham Forest,3,2,1.8,1.7,54,Premier League,Matchweek 12,Sun,Michael Salisbury,2024,1,0.8,1.5,1.7,1.4700000000000002,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,1.0
+2023-11-12,14:00 (16:00),Brighton and Hove Albion,Sheffield Utd,1,1,1.5,1.1,61,Premier League,Matchweek 12,Sun,John Brooks,2024,0,0.8,1.5,1.7,1.4599999999999997,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-11-12,16:30 (18:30),Chelsea,Manchester City,4,4,2.9,2.9,45,Premier League,Matchweek 12,Sun,Anthony Taylor,2024,0,1.6,2.0,1.9,2.1399999999999997,2.8,2.16,1.2,1.2,-1.0
+2023-11-25,12:30 (14:30),Manchester City,Liverpool,1,1,1.3,0.6,59,Premier League,Matchweek 13,Sat,Chris Kavanagh,2024,0,2.2,2.2,2.7,1.9400000000000002,2.2,2.1900000000000004,1.2,0.8,0.0
+2023-11-25,15:00 (17:00),Newcastle United,Chelsea,4,1,2.4,0.5,54,Premier League,Matchweek 13,Sat,Simon Hooper,2024,1,2.0,1.0,2.5,2.0100000000000002,1.7,1.97,1.0,1.6,1.0
+2023-11-25,15:00 (17:00),Nottingham Forest,Brighton,2,3,1.9,1.3,47,Premier League,Matchweek 13,Sat,Anthony Taylor,2024,-1,0.8,1.5,1.1,1.13,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,1.0
+2023-11-25,15:00 (17:00),Luton Town,Crystal Palace,2,1,0.9,1.6,39,Premier League,Matchweek 13,Sat,Jarred Gillett,2024,1,1.0,0.6,1.0,1.0500000000000003,1.1,1.2200000000000002,1.4,1.6,0.0
+2023-11-25,15:00 (17:00),Burnley,West Ham,1,2,1.3,0.9,50,Premier League,Matchweek 13,Sat,Samuel Barrott,2024,-1,0.0,1.5,0.7,0.8600000000000001,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2023-11-25,15:00 (17:00),Sheffield United,Bournemouth,1,3,0.8,2.9,46,Premier League,Matchweek 13,Sat,Andy Madley,2024,-1,0.8,1.8,0.9,0.8800000000000001,1.2,1.34,2.9,2.2,0.0
+2023-11-25,17:30 (19:30),Brentford,Arsenal,0,1,1.1,1.6,37,Premier League,Matchweek 13,Sat,Tim Robinson,2024,-1,1.8,2.0,1.3,1.6400000000000001,2.2,1.67,1.5,0.7,-0.5
+2023-11-26,14:00 (16:00),Tottenham Hotspur,Aston Villa,1,2,2.3,1.7,62,Premier League,Matchweek 13,Sun,Robert Jones,2024,-1,1.2,2.4,1.9,1.6300000000000001,2.3,1.8,1.5,1.2,-1.0
+2023-11-26,16:30 (18:30),Everton,Manchester Utd,0,3,2.4,2.2,51,Premier League,Matchweek 13,Sun,John Brooks,2024,-1,1.4,1.5,1.4,1.5499999999999998,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,-1.0
+2023-11-27,20:00 (22:00),Fulham,Wolves,3,2,2.9,1.4,60,Premier League,Matchweek 13,Mon,Michael Salisbury,2024,1,0.8,1.5,1.0,1.28,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2023-12-02,15:00 (17:00),Arsenal,Wolves,2,1,2.8,0.7,57,Premier League,Matchweek 14,Sat,Peter Bankes,2024,1,2.4,1.5,2.1,1.72,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,1.0
+2023-12-02,15:00 (17:00),Brentford,Luton Town,3,1,3.1,0.2,68,Premier League,Matchweek 14,Sat,Anthony Taylor,2024,1,1.8,0.8,1.4,1.6600000000000001,1.1,0.96,1.4,1.6,0.0
+2023-12-02,15:00 (17:00),Burnley,Sheffield Utd,5,0,1.8,0.4,63,Premier League,Matchweek 14,Sat,Chris Kavanagh,2024,1,0.6,1.5,1.1,0.99,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2023-12-02,17:30 (19:30),Nottingham Forest,Everton,0,1,0.7,0.7,61,Premier League,Matchweek 14,Sat,Paul Tierney,2024,-1,0.6,2.0,1.0,1.12,1.3,1.37,1.6,1.2,0.0
+2023-12-02,20:00 (22:00),Newcastle United,Manchester Utd,1,0,2.4,0.5,58,Premier League,Matchweek 14,Sat,Robert Jones,2024,1,2.0,1.5,2.5,2.13,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,1.0
+2023-12-03,14:00 (16:00),Liverpool,Fulham,4,3,2.1,1.2,61,Premier League,Matchweek 14,Sun,Stuart Attwell,2024,1,2.2,0.8,2.3,2.15,1.2,1.26,1.1,1.6,0.5
+2023-12-03,14:00 (16:00),Chelsea,Brighton,3,2,2.1,1.1,32,Premier League,Matchweek 14,Sun,Craig Pawson,2024,1,1.4,1.5,2.0,1.95,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,-1.0
+2023-12-03,14:00 (16:00),West Ham United,Crystal Palace,1,1,1.1,0.9,55,Premier League,Matchweek 14,Sun,Michael Oliver,2024,0,1.4,0.8,1.5,1.27,0.9,1.1,2.0,1.5,-1.0
+2023-12-03,14:00 (16:00),Bournemouth,Aston Villa,2,2,2.0,0.7,38,Premier League,Matchweek 14,Sun,Thomas Bramall,2024,0,2.0,2.0,1.2,1.33,2.5,1.8,2.2,1.1,0.0
+2023-12-03,16:30 (18:30),Manchester City,Tottenham,3,3,2.6,0.5,55,Premier League,Matchweek 14,Sun,Simon Hooper,2024,0,1.8,1.5,2.5,1.9800000000000004,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,1.0
+2023-12-05,19:30 (21:30),Wolverhampton Wanderers,Burnley,1,0,0.8,0.9,51,Premier League,Matchweek 15,Tue,Jarred Gillett,2024,1,1.2,0.6,1.5,1.22,1.1,0.9700000000000001,1.4,2.0,0.0
+2023-12-05,20:15 (22:15),Luton Town,Arsenal,3,4,0.5,2.2,34,Premier League,Matchweek 15,Tue,Samuel Barrott,2024,-1,0.8,2.4,1.3,0.8,2.4,1.8399999999999999,1.9,1.0,0.0
+2023-12-06,19:30 (21:30),Crystal Palace,Bournemouth,0,2,1.0,1.8,59,Premier League,Matchweek 15,Wed,Craig Pawson,2024,-1,0.8,2.0,0.8,1.08,1.4,1.4100000000000001,1.4,2.2,1.0
+2023-12-06,19:30 (21:30),Brighton and Hove Albion,Brentford,2,1,1.5,1.5,61,Premier League,Matchweek 15,Wed,Peter Bankes,2024,1,1.6,1.2,1.7,1.4,1.5,1.7600000000000002,2.0,1.5,0.0
+2023-12-06,19:30 (21:30),Fulham,Nott'ham Forest,5,0,2.5,0.3,63,Premier League,Matchweek 15,Wed,Joshua Smith,2024,1,1.2,1.5,1.6,1.41,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,1.0
+2023-12-06,19:30 (21:30),Sheffield United,Liverpool,0,2,1.0,1.7,25,Premier League,Matchweek 15,Wed,Simon Hooper,2024,-1,0.8,2.2,0.6,0.8300000000000001,2.2,2.07,3.2,1.0,0.0
+2023-12-06,20:15 (22:15),Aston Villa,Manchester City,1,0,2.3,0.6,46,Premier League,Matchweek 15,Wed,John Brooks,2024,1,2.0,1.2,2.3,1.73,2.2,1.6800000000000002,1.0,1.4,-0.5
+2023-12-06,20:15 (22:15),Manchester United,Chelsea,2,1,4.1,1.5,45,Premier League,Matchweek 15,Wed,Chris Kavanagh,2024,1,2.4,1.4,1.2,1.54,2.1,1.92,0.8,1.9,1.0
+2023-12-07,19:30 (21:30),Everton,Newcastle Utd,3,0,3.3,1.5,38,Premier League,Matchweek 15,Thu,Tim Robinson,2024,1,2.0,1.5,1.6,1.67,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,-1.0
+2023-12-07,20:15 (22:15),Tottenham Hotspur,West Ham,1,2,1.8,2.2,74,Premier League,Matchweek 15,Thu,Michael Salisbury,2024,-1,0.2,1.5,1.6,1.4300000000000002,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,1.0
+2023-12-09,12:30 (14:30),Crystal Palace,Liverpool,1,2,1.7,1.2,24,Premier League,Matchweek 16,Sat,Andy Madley,2024,-1,0.2,2.6,0.9,1.2200000000000002,2.1,1.8900000000000001,1.6,1.0,0.0
+2023-12-09,15:00 (17:00),Manchester United,Bournemouth,0,3,1.1,1.5,68,Premier League,Matchweek 16,Sat,Peter Bankes,2024,-1,1.8,2.6,1.1,1.55,1.6,1.45,1.1,1.9,1.0
+2023-12-09,15:00 (17:00),Brighton and Hove Albion,Burnley,1,1,2.6,0.6,72,Premier League,Matchweek 16,Sat,Simon Hooper,2024,0,1.6,0.8,1.5,1.47,1.2,0.97,2.0,1.9,0.0
+2023-12-09,15:00 (17:00),Wolverhampton Wanderers,Nott'ham Forest,1,1,1.2,1.3,68,Premier League,Matchweek 16,Sat,Samuel Barrott,2024,0,1.4,1.5,1.5,1.28,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,1.0
+2023-12-09,15:00 (17:00),Sheffield United,Brentford,1,0,0.8,0.6,41,Premier League,Matchweek 16,Sat,Stuart Attwell,2024,1,0.8,0.6,0.7,0.8200000000000001,1.4,1.72,2.4,1.3,0.0
+2023-12-09,17:30 (19:30),Aston Villa,Arsenal,1,0,0.6,1.4,39,Premier League,Matchweek 16,Sat,Jarred Gillett,2024,1,2.6,2.4,2.3,1.69,2.2,1.8,1.0,0.9,-1.0
+2023-12-10,14:00 (16:00),Fulham,West Ham,5,0,2.3,1.3,63,Premier League,Matchweek 16,Sun,Paul Tierney,2024,1,1.8,1.5,2.1,1.58,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,-1.0
+2023-12-10,14:00 (16:00),Everton,Chelsea,2,0,1.2,0.9,29,Premier League,Matchweek 16,Sun,Michael Oliver,2024,1,2.4,0.8,1.5,1.5999999999999999,2.1,1.8799999999999997,1.0,2.0,-0.5
+2023-12-10,14:00 (16:00),Luton Town,Manchester City,1,2,0.3,1.6,35,Premier League,Matchweek 16,Sun,Tim Robinson,2024,-1,0.6,1.2,1.2,0.74,2.2,1.7100000000000002,2.0,1.5,0.0
+2023-12-10,16:30 (18:30),Tottenham Hotspur,Newcastle Utd,4,1,3.8,1.7,56,Premier League,Matchweek 16,Sun,Chris Kavanagh,2024,1,0.8,1.5,1.8,1.67,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,-1.0
+2023-12-15,20:00 (22:00),Nottingham Forest,Tottenham,0,2,1.3,1.5,34,Premier League,Matchweek 17,Fri,Jarred Gillett,2024,-1,0.2,1.5,0.9,1.19,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,-1.0
+2023-12-16,15:00 (17:00),Manchester City,Crystal Palace,2,2,1.6,1.8,74,Premier League,Matchweek 17,Sat,Paul Tierney,2024,0,1.2,0.4,2.3,1.78,1.0,1.31,1.5,1.8,1.0
+2023-12-16,15:00 (17:00),Chelsea,Sheffield Utd,2,0,3.1,0.4,78,Premier League,Matchweek 17,Sat,Andy Madley,2024,1,1.2,1.5,2.1,2.02,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2023-12-16,15:00 (17:00),Newcastle United,Fulham,3,0,3.5,0.3,70,Premier League,Matchweek 17,Sat,Samuel Barrott,2024,1,1.8,1.8,1.8,1.9599999999999997,2.1,1.5,1.4,1.7,1.0
+2023-12-16,17:30 (19:30),Burnley,Everton,0,2,0.7,1.4,61,Premier League,Matchweek 17,Sat,Anthony Taylor,2024,-1,0.8,2.4,1.0,0.93,1.6,1.4499999999999997,2.0,0.8,0.0
+2023-12-17,14:00 (16:00),Arsenal,Brighton,2,0,2.3,0.7,49,Premier League,Matchweek 17,Sun,Tim Robinson,2024,1,2.4,1.5,2.0,1.69,1.5328947368421053,1.4846052631578948,0.9,1.5328947368421053,-1.0
+2023-12-17,14:00 (16:00),West Ham United,Wolves,3,0,1.1,0.7,45,Premier League,Matchweek 17,Sun,Chris Kavanagh,2024,1,2.0,1.5,1.6,1.3199999999999998,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,1.0
+2023-12-17,14:00 (16:00),Brentford,Aston Villa,1,2,0.5,1.4,34,Premier League,Matchweek 17,Sun,David Coote,2024,-1,0.6,2.6,1.4,1.6099999999999999,1.9,1.67,1.4,1.0,-0.5
+2023-12-17,16:30 (18:30),Liverpool,Manchester Utd,0,0,2.3,0.8,68,Premier League,Matchweek 17,Sun,Michael Oliver,2024,0,2.2,1.5,2.0,1.9899999999999998,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,1.0
+2023-12-21,20:00 (22:00),Crystal Palace,Brighton,1,1,1.3,1.2,35,Premier League,Matchweek 18,Thu,John Brooks,2024,0,0.6,1.5,1.1,1.3599999999999999,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2023-12-22,20:00 (22:00),Aston Villa,Sheffield Utd,1,1,0.9,0.6,77,Premier League,Matchweek 18,Fri,Anthony Taylor,2024,0,2.2,1.5,1.9,1.5999999999999999,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2023-12-23,12:30 (14:30),West Ham United,Manchester Utd,2,0,1.2,1.0,35,Premier League,Matchweek 18,Sat,Simon Hooper,2024,1,2.0,1.5,1.6,1.32,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,1.0
+2023-12-23,15:00 (17:00),Tottenham Hotspur,Everton,2,1,1.5,1.8,61,Premier League,Matchweek 18,Sat,Stuart Attwell,2024,1,2.0,2.4,1.9,1.56,1.4,1.3900000000000001,1.6,1.0,1.0
+2023-12-23,15:00 (17:00),Fulham,Burnley,0,2,1.3,0.4,66,Premier League,Matchweek 18,Sat,Rebecca Welch,2024,-1,1.2,1.4,1.8,1.41,1.1,0.9,1.8,1.6,0.0
+2023-12-23,15:00 (17:00),Nottingham Forest,Bournemouth,2,3,1.0,1.6,34,Premier League,Matchweek 18,Sat,Robert Jones,2024,-1,0.2,2.6,1.1,1.19,1.9,1.55,2.3,1.7,-1.0
+2023-12-23,15:00 (17:00),Luton Town,Newcastle Utd,1,0,1.4,1.4,35,Premier League,Matchweek 18,Sat,Darren England,2024,1,1.2,1.5,1.2,0.75,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2023-12-23,17:30 (19:30),Liverpool,Arsenal,1,1,1.0,0.7,52,Premier League,Matchweek 18,Sat,Chris Kavanagh,2024,0,2.2,2.0,1.9,1.8599999999999999,2.0,1.72,0.7,1.0,-0.5
+2023-12-24,13:00 (15:00),Wolverhampton Wanderers,Chelsea,2,1,1.3,2.0,32,Premier League,Matchweek 18,Sun,David Coote,2024,1,1.4,1.2,1.4,1.27,1.8,2.0300000000000002,1.6,2.1,1.0
+2023-12-26,12:30 (14:30),Newcastle United,Nott'ham Forest,1,3,2.4,3.5,62,Premier League,Matchweek 19,Tue,Chris Kavanagh,2024,-1,0.6,1.5,1.3,1.9,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,1.0
+2023-12-26,15:00 (17:00),Bournemouth,Fulham,3,0,1.8,0.3,43,Premier League,Matchweek 19,Tue,Tim Robinson,2024,1,2.6,1.2,2.2,1.6600000000000001,1.8,1.3399999999999999,1.4,1.9,0.5
+2023-12-26,15:00 (17:00),Sheffield United,Luton Town,2,3,2.4,0.6,51,Premier League,Matchweek 19,Tue,Samuel Allison,2024,-1,0.8,1.2,0.8,0.85,1.5,0.73,2.3,1.9,0.0
+2023-12-26,17:30 (19:30),Burnley,Liverpool,0,2,0.8,1.8,32,Premier League,Matchweek 19,Tue,Paul Tierney,2024,-1,0.8,2.2,1.1,0.8699999999999999,1.9,1.8199999999999998,1.5,0.7,0.0
+2023-12-26,20:00 (22:00),Manchester United,Aston Villa,3,2,1.1,1.7,46,Premier League,Matchweek 19,Tue,Craig Pawson,2024,1,1.4,2.0,1.0,1.46,1.7,1.58,1.2,1.2,1.0
+2023-12-27,19:30 (21:30),Chelsea,Crystal Palace,2,1,2.6,1.1,63,Premier League,Matchweek 19,Wed,Michael Salisbury,2024,1,1.2,0.4,1.8,2.1599999999999997,1.2,1.35,2.0,1.7,1.0
+2023-12-27,19:30 (21:30),Brentford,Wolves,1,4,2.2,2.4,60,Premier League,Matchweek 19,Wed,Andy Madley,2024,-1,0.6,1.5,1.4,1.7400000000000002,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2023-12-27,20:15 (22:15),Everton,Manchester City,1,3,1.0,2.4,28,Premier League,Matchweek 19,Wed,John Brooks,2024,-1,1.8,1.6,1.5,1.48,2.6,1.9700000000000002,1.1,1.5,-0.5
+2023-12-28,19:30 (21:30),Brighton and Hove Albion,Tottenham,4,2,3.2,2.3,45,Premier League,Matchweek 19,Thu,Jarred Gillett,2024,1,1.6,1.5,1.6,1.5,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,-1.0
+2023-12-28,20:15 (22:15),Arsenal,West Ham,0,2,2.7,1.4,73,Premier League,Matchweek 19,Thu,Michael Oliver,2024,-1,1.4,1.5,1.8,1.89,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,1.0
+2023-12-30,12:30 (14:30),Luton Town,Chelsea,2,3,2.3,1.5,52,Premier League,Matchweek 20,Sat,Paul Tierney,2024,-1,1.2,1.8,1.5,0.79,2.1,2.12,2.0,2.0,-1.0
+2023-12-30,15:00 (17:00),Manchester City,Sheffield Utd,2,0,2.2,0.3,80,Premier League,Matchweek 20,Sat,David Coote,2024,1,2.0,1.5,2.6,2.1100000000000003,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2023-12-30,15:00 (17:00),Aston Villa,Burnley,3,2,3.2,1.2,64,Premier League,Matchweek 20,Sat,Stuart Attwell,2024,1,2.0,0.8,1.7,1.67,1.2,0.9099999999999999,1.3,1.6,1.0
+2023-12-30,15:00 (17:00),Crystal Palace,Brentford,3,1,1.0,1.4,46,Premier League,Matchweek 20,Sat,Robert Jones,2024,1,1.0,0.0,1.4,1.3900000000000001,1.2,1.5699999999999998,1.6,1.9,0.0
+2023-12-30,15:00 (17:00),Wolverhampton Wanderers,Everton,3,0,1.9,0.4,53,Premier League,Matchweek 20,Sat,Thomas Bramall,2024,1,2.0,1.2,1.7,1.3699999999999999,1.4,1.44,1.4,1.4,0.0
+2023-12-30,17:30 (19:30),Nottingham Forest,Manchester Utd,2,1,0.7,0.8,44,Premier League,Matchweek 20,Sat,Tim Robinson,2024,1,1.4,1.5,1.4,1.28,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,-1.0
+2023-12-31,14:00 (16:00),Tottenham Hotspur,Bournemouth,3,1,2.3,1.7,50,Premier League,Matchweek 20,Sun,Simon Hooper,2024,1,2.4,2.4,2.0,1.7600000000000002,2.2,1.77,2.0,1.5,-1.0
+2023-12-31,14:00 (16:00),Fulham,Arsenal,2,1,1.2,1.6,40,Premier League,Matchweek 20,Sun,Joshua Smith,2024,1,1.2,0.8,1.9,1.3900000000000001,1.4,1.7700000000000002,1.9,1.2,-0.6666666666666666
+2024-01-01,20:00 (22:00),Liverpool,Newcastle Utd,4,2,7.0,0.6,61,Premier League,Matchweek 20,Mon,Anthony Taylor,2024,1,2.2,1.5,2.0,2.2,1.5328947368421053,1.4846052631578948,0.9,1.5328947368421053,1.0
+2024-01-02,19:30 (21:30),West Ham United,Brighton,0,0,0.7,2.3,32,Premier League,Matchweek 20,Tue,Samuel Barrott,2024,0,2.0,1.5,1.7,1.35,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,-1.0
+2024-01-12,19:45 (21:45),Burnley,Luton Town,1,1,1.1,0.9,39,Premier League,Matchweek 21,Fri,Tony Harrington,2024,0,0.8,1.4,1.3,0.9100000000000001,1.5,0.8300000000000001,1.5,1.8,1.0
+2024-01-13,12:30 (14:30),Chelsea,Fulham,1,0,2.2,0.8,55,Premier League,Matchweek 21,Sat,Anthony Taylor,2024,1,2.4,0.6,1.8,1.9300000000000002,1.9,1.3699999999999999,1.9,1.9,0.0
+2024-01-13,17:30 (19:30),Newcastle United,Manchester City,2,3,1.3,3.0,28,Premier League,Matchweek 21,Sat,Chris Kavanagh,2024,-1,0.6,2.6,1.4,1.77,2.6,2.0100000000000002,2.1,1.6,0.0
+2024-01-14,14:00 (16:00),Everton,Aston Villa,0,0,1.1,1.2,32,Premier League,Matchweek 21,Sun,David Coote,2024,0,0.8,1.6,1.3,1.48,1.7,1.67,1.3,1.1,-1.0
+2024-01-14,16:30 (18:30),Manchester United,Tottenham,2,2,0.8,1.2,37,Premier League,Matchweek 21,Sun,John Brooks,2024,0,1.0,1.5,1.2,1.46,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2024-01-20,12:30 (14:30),Arsenal,Crystal Palace,5,0,3.3,0.3,60,Premier League,Matchweek 21,Sat,Paul Tierney,2024,1,1.4,1.0,1.9,2.04,1.2,1.29,1.1,2.1,1.0
+2024-01-20,17:30 (19:30),Brentford,Nott'ham Forest,3,2,1.2,1.2,48,Premier League,Matchweek 21,Sat,Darren England,2024,1,0.6,1.5,1.3,1.4700000000000002,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,1.0
+2024-01-21,14:00 (16:00),Sheffield United,West Ham,2,2,2.5,2.3,57,Premier League,Matchweek 21,Sun,Michael Salisbury,2024,0,0.4,1.5,0.8,1.03,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2024-01-21,16:30 (18:30),Bournemouth,Liverpool,0,4,1.4,1.5,40,Premier League,Matchweek 21,Sun,Andy Madley,2024,-1,1.8,2.2,2.0,1.8,2.3,2.09,1.8,0.8,-0.3333333333333333
+2024-01-22,19:45 (21:45),Brighton and Hove Albion,Wolves,0,0,1.0,1.1,72,Premier League,Matchweek 21,Mon,Craig Pawson,2024,0,1.2,1.5,1.4,1.6400000000000001,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2024-01-30,19:30 (21:30),Nottingham Forest,Arsenal,1,2,0.5,1.2,27,Premier League,Matchweek 22,Tue,Simon Hooper,2024,-1,1.2,1.4,1.3,1.2399999999999998,1.8,1.98,2.2,1.1,1.0
+2024-01-30,19:45 (21:45),Fulham,Everton,0,0,1.6,1.9,70,Premier League,Matchweek 22,Tue,Thomas Bramall,2024,0,0.8,0.4,1.8,1.44,1.0,1.52,1.6,1.1,0.6666666666666666
+2024-01-30,19:45 (21:45),Luton Town,Brighton,4,0,3.1,0.9,41,Premier League,Matchweek 22,Tue,Robert Jones,2024,1,2.0,1.5,1.8,1.06,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2024-01-30,20:00 (22:00),Crystal Palace,Sheffield Utd,3,2,1.1,0.8,53,Premier League,Matchweek 22,Tue,Tony Harrington,2024,1,1.4,1.5,1.3,1.18,1.5328947368421053,1.4846052631578948,2.0,1.5328947368421053,0.0
+2024-01-30,20:15 (22:15),Aston Villa,Newcastle Utd,1,3,1.4,2.6,61,Premier League,Matchweek 22,Tue,John Brooks,2024,-1,1.0,1.5,1.5,1.51,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2024-01-31,19:30 (21:30),Manchester City,Burnley,3,1,1.7,1.4,74,Premier League,Matchweek 22,Wed,Samuel Barrott,2024,1,2.6,0.8,2.3,1.9899999999999998,1.3,1.02,1.6,1.5,1.0
+2024-01-31,19:30 (21:30),Tottenham Hotspur,Brentford,3,2,2.9,1.6,67,Premier League,Matchweek 22,Wed,David Coote,2024,1,2.0,0.6,2.3,2.01,1.2,1.48,1.8,2.2,-1.0
+2024-01-31,20:15 (22:15),Liverpool,Chelsea,4,1,2.9,0.6,50,Premier League,Matchweek 22,Wed,Paul Tierney,2024,1,2.6,1.8,2.4,2.21,1.5,1.7,0.9,1.9,0.0
+2024-02-01,19:30 (21:30),West Ham United,Bournemouth,1,1,1.4,1.2,48,Premier League,Matchweek 22,Thu,Tim Robinson,2024,0,1.8,1.4,1.5,1.3599999999999999,2.0,1.8299999999999996,1.1,1.3,1.0
+2024-02-01,20:15 (22:15),Wolverhampton Wanderers,Manchester Utd,3,4,2.1,3.3,53,Premier League,Matchweek 22,Thu,Jarred Gillett,2024,-1,2.0,1.5,1.7,1.3599999999999999,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,-1.0
+2024-02-03,12:30 (14:30),Everton,Tottenham,2,2,2.6,1.0,43,Premier League,Matchweek 23,Sat,Michael Oliver,2024,0,0.6,1.5,1.2,1.54,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2024-02-03,15:00 (17:00),Newcastle United,Luton Town,4,4,2.3,2.4,55,Premier League,Matchweek 23,Sat,Thomas Bramall,2024,0,0.8,1.6,1.7,1.97,2.2,1.26,2.3,2.0,0.0
+2024-02-03,15:00 (17:00),Brighton and Hove Albion,Crystal Palace,4,1,1.4,0.3,68,Premier League,Matchweek 23,Sat,Simon Hooper,2024,1,1.6,1.2,1.4,1.59,1.3,1.05,1.5,2.2,1.0
+2024-02-03,15:00 (17:00),Burnley,Fulham,2,2,1.8,1.5,44,Premier League,Matchweek 23,Sat,Darren Bond,2024,0,0.4,1.0,1.4,1.0699999999999998,1.7,1.3,1.5,1.6,1.0
+2024-02-03,17:30 (19:30),Sheffield United,Aston Villa,0,5,1.4,2.2,37,Premier League,Matchweek 23,Sat,Paul Tierney,2024,-1,0.2,1.4,0.8,1.06,1.8,1.56,2.5,1.2,0.0
+2024-02-04,14:00 (16:00),Chelsea,Wolves,2,4,1.7,2.0,64,Premier League,Matchweek 23,Sun,Tim Robinson,2024,-1,1.8,1.5,1.6,1.8199999999999998,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,1.0
+2024-02-04,14:00 (16:00),Manchester United,West Ham,3,0,0.7,1.4,51,Premier League,Matchweek 23,Sun,Andy Madley,2024,1,2.0,1.5,1.5,1.42,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,1.0
+2024-02-04,14:00 (16:00),Bournemouth,Nott'ham Forest,1,1,1.3,0.5,45,Premier League,Matchweek 23,Sun,Rebecca Welch,2024,0,1.0,1.5,1.9,1.72,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2024-02-04,16:30 (18:30),Arsenal,Liverpool,3,1,3.5,0.4,43,Premier League,Matchweek 23,Sun,Anthony Taylor,2024,1,1.8,2.4,2.0,2.1700000000000004,2.4,2.19,1.2,1.1,0.3333333333333333
+2024-02-05,20:00 (22:00),Brentford,Manchester City,1,3,1.0,2.1,28,Premier League,Matchweek 23,Mon,Jarred Gillett,2024,-1,0.6,3.0,1.3,1.4200000000000002,2.2,1.9100000000000001,2.2,1.3,1.0
+2024-02-10,12:30 (14:30),Manchester City,Everton,2,0,1.6,0.3,72,Premier League,Matchweek 24,Sat,John Brooks,2024,1,3.0,0.6,2.3,1.94,1.1,1.4999999999999998,1.2,1.2,0.6666666666666666
+2024-02-10,15:00 (17:00),Liverpool,Burnley,3,1,2.8,1.3,70,Premier League,Matchweek 24,Sat,Tim Robinson,2024,1,2.4,0.4,2.3,2.2600000000000002,1.0,1.02,0.9,1.8,1.0
+2024-02-10,15:00 (17:00),Tottenham Hotspur,Brighton,2,1,1.6,1.2,52,Premier League,Matchweek 24,Sat,Samuel Barrott,2024,1,2.2,1.5,2.3,1.9899999999999998,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,1.0
+2024-02-10,15:00 (17:00),Fulham,Bournemouth,3,1,1.6,1.8,49,Premier League,Matchweek 24,Sat,Darren England,2024,1,1.6,0.4,1.7,1.34,1.7,1.61,1.3,1.6,-0.6666666666666666
+2024-02-10,15:00 (17:00),Wolverhampton Wanderers,Brentford,0,2,1.0,1.9,71,Premier League,Matchweek 24,Sat,Simon Hooper,2024,-1,1.4,1.2,1.8,1.45,1.5,1.5000000000000002,1.4,2.1,1.0
+2024-02-10,15:00 (17:00),Luton Town,Sheffield Utd,1,3,1.8,1.7,74,Premier League,Matchweek 24,Sat,Chris Kavanagh,2024,-1,1.0,1.5,2.1,1.35,1.5328947368421053,1.4846052631578948,2.2,1.5328947368421053,0.0
+2024-02-10,17:30 (19:30),Nottingham Forest,Newcastle Utd,2,3,1.5,0.5,39,Premier League,Matchweek 24,Sat,Anthony Taylor,2024,-1,0.8,1.5,1.4,1.18,1.5328947368421053,1.4846052631578948,2.2,1.5328947368421053,-1.0
+2024-02-11,14:00 (16:00),West Ham United,Arsenal,0,6,0.2,3.6,30,Premier League,Matchweek 24,Sun,Craig Pawson,2024,-1,0.6,2.4,1.2,1.3199999999999998,2.4,2.25,1.8,1.1,0.0
+2024-02-11,16:30 (18:30),Aston Villa,Manchester Utd,1,2,2.4,1.8,56,Premier League,Matchweek 24,Sun,Robert Jones,2024,-1,1.4,1.5,1.7,1.73,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,1.0
+2024-02-12,20:00 (22:00),Crystal Palace,Chelsea,1,3,0.6,1.4,23,Premier League,Matchweek 24,Mon,Michael Oliver,2024,-1,1.2,1.8,1.3,1.02,1.6,1.75,2.4,1.8,-1.0
+2024-02-17,12:30 (14:30),Brentford,Liverpool,1,4,1.6,2.8,38,Premier League,Matchweek 25,Sat,Michael Oliver,2024,-1,1.2,2.4,1.3,1.35,2.5,2.37,2.4,1.0,-0.3333333333333333
+2024-02-17,15:00 (17:00),Tottenham Hotspur,Wolves,1,2,1.6,1.8,71,Premier League,Matchweek 25,Sat,Anthony Taylor,2024,-1,1.6,1.5,2.3,1.97,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,1.0
+2024-02-17,15:00 (17:00),Newcastle United,Bournemouth,2,2,2.2,2.2,62,Premier League,Matchweek 25,Sat,Michael Salisbury,2024,0,1.6,0.6,2.1,1.85,1.7,1.6300000000000001,2.4,1.6,0.0
+2024-02-17,15:00 (17:00),Fulham,Aston Villa,1,2,1.5,1.5,52,Premier League,Matchweek 25,Sat,Lewis Smith,2024,-1,1.0,1.4,1.3,1.24,1.8,1.65,1.5,1.3,-0.3333333333333333
+2024-02-17,15:00 (17:00),Nottingham Forest,West Ham,2,0,2.8,0.5,49,Premier League,Matchweek 25,Sat,Thomas Bramall,2024,1,0.8,1.5,1.6,1.4300000000000002,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,1.0
+2024-02-17,15:00 (17:00),Burnley,Arsenal,0,5,0.3,2.3,36,Premier League,Matchweek 25,Sat,Jarred Gillett,2024,-1,0.4,3.0,1.0,0.96,2.5,2.2600000000000002,2.2,0.8,-1.0
+2024-02-17,17:30 (19:30),Manchester City,Chelsea,1,1,2.6,1.4,70,Premier League,Matchweek 25,Sat,Andy Madley,2024,0,2.6,1.4,2.1,1.94,1.6,1.7399999999999998,1.0,1.7,0.6666666666666666
+2024-02-18,14:00 (16:00),Sheffield United,Brighton,0,5,0.6,2.9,21,Premier League,Matchweek 25,Sun,Stuart Attwell,2024,-1,0.8,1.5,1.1,1.15,1.5328947368421053,1.4846052631578948,2.4,1.5328947368421053,0.0
+2024-02-18,16:30 (18:30),Luton Town,Manchester Utd,1,2,1.8,2.9,58,Premier League,Matchweek 25,Sun,David Coote,2024,-1,1.0,1.5,2.1,1.51,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2024-02-19,20:00 (22:00),Everton,Crystal Palace,1,1,1.7,0.7,61,Premier League,Matchweek 25,Mon,Paul Tierney,2024,0,0.8,0.8,0.9,1.34,1.4,0.9899999999999999,1.3,2.3,0.6666666666666666
+2024-02-20,19:30 (21:30),Manchester City,Brentford,1,0,2.3,0.4,70,Premier League,Matchweek 18,Tue,Darren England,2024,1,2.6,0.6,2.2,2.1100000000000003,1.2,1.24,0.9,2.3,-0.3333333333333333
+2024-02-21,19:30 (21:30),Liverpool,Luton Town,4,1,3.3,0.9,60,Premier League,Matchweek 26,Wed,Andy Madley,2024,1,2.4,0.8,2.7,2.5799999999999996,1.9,1.55,1.0,2.1,0.0
+2024-02-24,15:00 (17:00),Aston Villa,Nott'ham Forest,4,2,3.6,2.6,58,Premier League,Matchweek 26,Sat,Samuel Barrott,2024,1,1.8,1.5,2.1,1.95,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,1.0
+2024-02-24,15:00 (17:00),Manchester United,Fulham,1,2,1.7,1.2,57,Premier League,Matchweek 26,Sat,Michael Oliver,2024,-1,2.4,1.6,1.8,1.49,1.0,1.1300000000000001,1.5,1.6,1.0
+2024-02-24,15:00 (17:00),Crystal Palace,Burnley,3,0,2.4,0.1,56,Premier League,Matchweek 26,Sat,Lewis Smith,2024,1,1.4,0.2,1.6,1.06,0.9,0.9099999999999999,2.1,2.4,1.0
+2024-02-24,15:00 (17:00),Brighton and Hove Albion,Everton,1,1,1.4,0.3,64,Premier League,Matchweek 26,Sat,Tony Harrington,2024,0,1.4,0.8,1.6,1.6199999999999999,0.8,1.25,1.3,1.4,-1.0
+2024-02-24,17:30 (19:30),Bournemouth,Manchester City,0,1,0.9,1.6,38,Premier League,Matchweek 26,Sat,Jarred Gillett,2024,-1,0.6,2.6,1.5,1.54,2.1,2.11,1.7,0.8,-1.0
+2024-02-24,20:00 (22:00),Arsenal,Newcastle Utd,4,1,2.8,0.2,55,Premier League,Matchweek 26,Sat,Paul Tierney,2024,1,3.0,1.5,2.9,2.4,1.5328947368421053,1.4846052631578948,0.8,1.5328947368421053,0.0
+2024-02-25,13:30 (15:30),Wolverhampton Wanderers,Sheffield Utd,1,0,1.3,0.6,63,Premier League,Matchweek 26,Sun,Darren Bond,2024,1,1.8,1.5,1.9,1.56,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,0.0
+2024-02-26,20:00 (22:00),West Ham United,Brentford,4,2,1.7,0.9,41,Premier League,Matchweek 26,Mon,Simon Hooper,2024,1,0.8,0.6,1.4,1.19,1.4,1.27,1.6,2.6,-1.0
+2024-03-02,15:00 (17:00),Tottenham Hotspur,Crystal Palace,3,1,1.9,0.3,78,Premier League,Matchweek 27,Sat,John Brooks,2024,1,2.0,0.8,2.2,1.78,1.5,0.9099999999999999,1.6,2.2,1.0
+2024-03-02,15:00 (17:00),Newcastle United,Wolves,3,0,2.1,0.8,44,Premier League,Matchweek 27,Sat,Tim Robinson,2024,1,1.6,1.5,2.1,1.56,1.5328947368421053,1.4846052631578948,2.4,1.5328947368421053,1.0
+2024-03-02,15:00 (17:00),Fulham,Brighton,3,0,1.3,1.3,30,Premier League,Matchweek 27,Sat,Simon Hooper,2024,1,2.0,1.5,1.3,1.23,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2024-03-02,15:00 (17:00),Everton,West Ham,1,3,2.7,1.9,55,Premier League,Matchweek 27,Sat,Craig Pawson,2024,-1,0.6,1.5,0.7,1.3800000000000001,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,1.0
+2024-03-02,15:00 (17:00),Brentford,Chelsea,2,2,1.8,1.8,33,Premier League,Matchweek 27,Sat,Jarred Gillett,2024,0,0.8,1.0,1.5,1.4,1.8,1.83,2.6,1.7,0.6666666666666666
+2024-03-02,15:00 (17:00),Nottingham Forest,Liverpool,0,1,1.0,2.0,31,Premier League,Matchweek 27,Sat,Paul Tierney,2024,-1,0.8,2.4,1.7,1.53,2.8,2.55,1.9,1.0,1.0
+2024-03-02,17:30 (19:30),Luton Town,Aston Villa,2,3,1.8,1.9,46,Premier League,Matchweek 27,Sat,Michael Oliver,2024,-1,0.2,2.4,2.0,1.7,2.2,2.0,2.2,1.6,-1.0
+2024-03-03,13:00 (15:00),Burnley,Bournemouth,0,2,1.5,1.1,74,Premier League,Matchweek 27,Sun,David Coote,2024,-1,0.2,1.0,0.9,0.9899999999999999,1.4,1.5,2.4,1.7,-1.0
+2024-03-03,15:30 (17:30),Manchester City,Manchester Utd,3,1,3.3,0.2,73,Premier League,Matchweek 27,Sun,Andy Madley,2024,1,2.6,1.5,2.2,2.2800000000000002,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,1.0
+2024-03-04,20:00 (22:00),Sheffield United,Arsenal,0,6,0.2,2.3,20,Premier League,Matchweek 27,Mon,Samuel Barrott,2024,-1,0.6,3.0,1.0,1.1099999999999999,3.3,2.4,2.9,0.8,0.0
+2024-03-09,12:30 (14:30),Manchester United,Everton,2,0,2.7,1.6,51,Premier League,Matchweek 28,Sat,Simon Hooper,2024,1,1.8,0.4,2.1,1.6,0.6,1.3599999999999999,1.6,1.7,1.0
+2024-03-09,15:00 (17:00),Crystal Palace,Luton Town,1,1,2.7,0.8,49,Premier League,Matchweek 28,Sat,Sunny Singh,2024,0,1.0,0.2,1.5,1.05,2.0,1.6400000000000001,2.2,2.3,-1.0
+2024-03-09,15:00 (17:00),Bournemouth,Sheffield Utd,2,2,3.3,1.2,69,Premier League,Matchweek 28,Sat,Anthony Taylor,2024,0,1.0,1.5,1.3,1.67,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2024-03-09,15:00 (17:00),Wolverhampton Wanderers,Fulham,2,1,0.8,2.6,48,Premier League,Matchweek 28,Sat,Tony Harrington,2024,1,1.8,1.8,1.9,1.52,1.4,1.3599999999999999,1.4,1.3,0.0
+2024-03-09,17:30 (19:30),Arsenal,Brentford,2,1,1.3,1.0,71,Premier League,Matchweek 28,Sat,Robert Jones,2024,1,3.0,0.2,3.4,2.46,1.5,1.28,0.8,2.4,0.6666666666666666
+2024-03-10,13:00 (15:00),Aston Villa,Tottenham,0,4,0.8,1.5,32,Premier League,Matchweek 28,Sun,Chris Kavanagh,2024,-1,1.8,1.5,2.1,1.9899999999999998,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,1.0
+2024-03-10,14:00 (16:00),West Ham United,Burnley,2,2,2.1,0.7,52,Premier League,Matchweek 28,Sun,Darren England,2024,0,1.4,0.2,1.4,1.3599999999999999,0.9,1.02,1.9,2.6,0.0
+2024-03-10,14:00 (16:00),Brighton and Hove Albion,Nott'ham Forest,1,0,0.4,0.7,63,Premier League,Matchweek 28,Sun,Michael Salisbury,2024,1,1.4,1.5,1.6,1.6,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2024-03-10,15:45 (17:45),Liverpool,Manchester City,1,1,2.7,1.6,53,Premier League,Matchweek 28,Sun,Michael Oliver,2024,0,2.6,2.2,2.8,2.72,2.0,2.2,1.0,0.7,0.0
+2024-03-11,20:00 (22:00),Chelsea,Newcastle Utd,3,2,1.6,0.7,44,Premier League,Matchweek 28,Mon,John Brooks,2024,1,1.6,1.5,1.9,1.6800000000000002,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2024-03-13,19:30 (21:30),Bournemouth,Luton Town,4,3,2.3,2.0,59,Premier League,Matchweek 17,Wed,Samuel Allison,2024,1,1.6,0.2,1.4,1.72,2.0,1.78,2.0,2.5,0.0
+2024-03-16,15:00 (17:00),Luton Town,Nott'ham Forest,1,1,0.6,2.0,60,Premier League,Matchweek 29,Sat,Darren England,2024,0,0.4,1.5,1.9,1.61,1.5328947368421053,1.4846052631578948,2.3,1.5328947368421053,0.0
+2024-03-16,15:00 (17:00),Burnley,Brentford,2,1,2.8,1.1,60,Premier League,Matchweek 29,Sat,Darren Bond,2024,1,0.8,0.2,1.1,1.22,1.5,1.25,2.5,2.3,-1.0
+2024-03-16,17:30 (19:30),Fulham,Tottenham,3,0,2.6,2.4,43,Premier League,Matchweek 29,Sat,Robert Jones,2024,1,1.8,1.5,1.7,1.59,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,-1.0
+2024-03-17,14:00 (16:00),West Ham United,Aston Villa,1,1,2.0,0.7,31,Premier League,Matchweek 29,Sun,Jarred Gillett,2024,0,1.6,2.0,1.3,1.42,2.0,1.8900000000000001,2.0,1.7,0.0
+2024-03-30,12:30 (14:30),Newcastle United,West Ham,4,3,4.1,1.4,60,Premier League,Matchweek 30,Sat,Robert Jones,2024,1,1.4,1.5,2.6,1.6600000000000001,1.5328947368421053,1.4846052631578948,2.6,1.5328947368421053,0.0
+2024-03-30,15:00 (17:00),Tottenham Hotspur,Luton Town,2,1,2.9,0.5,70,Premier League,Matchweek 30,Sat,Jarred Gillett,2024,1,1.8,0.4,2.2,1.9299999999999997,1.9,1.57,1.5,2.4,0.0
+2024-03-30,15:00 (17:00),Chelsea,Burnley,2,2,4.2,1.6,69,Premier League,Matchweek 30,Sat,Darren England,2024,0,1.8,1.0,2.0,1.9,1.1,1.26,1.9,2.4,1.0
+2024-03-30,15:00 (17:00),Bournemouth,Everton,2,1,1.3,1.0,48,Premier League,Matchweek 30,Sat,Samuel Barrott,2024,1,2.0,0.4,1.5,1.6800000000000002,0.6,1.3599999999999999,1.8,1.6,-0.3333333333333333
+2024-03-30,15:00 (17:00),Nottingham Forest,Crystal Palace,1,1,0.9,1.2,59,Premier League,Matchweek 30,Sat,Chris Kavanagh,2024,0,0.4,1.2,1.2,1.3699999999999999,1.5,1.06,1.7,2.1,1.0
+2024-03-30,15:00 (17:00),Sheffield United,Fulham,3,3,1.9,1.3,27,Premier League,Matchweek 30,Sat,Tim Robinson,2024,0,0.4,2.0,1.2,1.1199999999999999,1.8,1.6,3.0,1.2,0.0
+2024-03-30,17:30 (19:30),Aston Villa,Wolves,2,0,1.0,1.5,48,Premier League,Matchweek 30,Sat,Paul Tierney,2024,1,2.0,1.5,1.9,1.67,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,0.0
+2024-03-30,20:00 (22:00),Brentford,Manchester Utd,1,1,3.2,0.6,47,Premier League,Matchweek 30,Sat,Simon Hooper,2024,0,0.4,1.5,1.3,1.45,1.5328947368421053,1.4846052631578948,2.2,1.5328947368421053,1.0
+2024-03-31,14:00 (15:00),Liverpool,Brighton,2,1,2.8,0.5,55,Premier League,Matchweek 30,Sun,David Coote,2024,1,2.6,1.5,2.8,2.82,1.5328947368421053,1.4846052631578948,1.1,1.5328947368421053,0.0
+2024-03-31,16:30 (17:30),Manchester City,Arsenal,0,0,1.0,0.7,72,Premier League,Matchweek 30,Sun,Anthony Taylor,2024,0,2.2,2.6,1.8,2.08,3.4,2.26,0.7,0.6,0.3333333333333333
+2024-04-02,19:30 (20:30),Newcastle United,Everton,1,1,2.4,1.4,57,Premier League,Matchweek 31,Tue,Tony Harrington,2024,0,1.4,0.4,2.5,1.8399999999999999,0.7,1.46,2.3,1.4,1.0
+2024-04-02,19:30 (20:30),Nottingham Forest,Fulham,3,1,1.5,1.5,34,Premier League,Matchweek 31,Tue,Michael Oliver,2024,1,1.0,1.4,1.3,1.4,1.9,1.67,1.5,1.4,-1.0
+2024-04-02,19:45 (20:45),Bournemouth,Crystal Palace,1,0,1.1,0.2,50,Premier League,Matchweek 31,Tue,Graham Scott,2024,1,2.6,1.0,1.6,1.65,1.2,0.9800000000000001,1.4,2.1,-0.3333333333333333
+2024-04-02,19:45 (20:45),Burnley,Wolves,1,1,1.3,0.9,51,Premier League,Matchweek 31,Tue,Thomas Bramall,2024,0,1.2,1.5,1.1,1.28,1.5328947368421053,1.4846052631578948,2.4,1.5328947368421053,0.0
+2024-04-02,20:15 (21:15),West Ham United,Tottenham,1,1,1.5,1.0,33,Premier League,Matchweek 31,Tue,John Brooks,2024,0,1.2,1.5,1.5,1.4099999999999997,1.5328947368421053,1.4846052631578948,2.3,1.5328947368421053,0.0
+2024-04-03,19:30 (20:30),Arsenal,Luton Town,2,0,0.7,0.3,58,Premier League,Matchweek 31,Wed,Craig Pawson,2024,1,2.6,0.4,3.5,2.17,1.5,1.29,0.4,2.6,1.0
+2024-04-03,19:30 (20:30),Brentford,Brighton,0,0,0.6,1.1,34,Premier League,Matchweek 31,Wed,Andy Madley,2024,0,0.6,1.5,1.1,1.35,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,1.0
+2024-04-03,20:15 (21:15),Manchester City,Aston Villa,4,1,3.4,0.8,67,Premier League,Matchweek 31,Wed,Darren England,2024,1,2.2,1.4,1.9,2.12,2.0,1.6300000000000001,0.6,1.9,0.0
+2024-04-04,19:30 (20:30),Liverpool,Sheffield Utd,3,1,1.8,0.6,82,Premier League,Matchweek 31,Thu,Stuart Attwell,2024,1,2.6,1.5,2.7,2.3,1.5328947368421053,1.4846052631578948,1.0,1.5328947368421053,0.0
+2024-04-04,20:15 (21:15),Chelsea,Manchester Utd,4,3,3.0,1.5,57,Premier League,Matchweek 31,Thu,Jarred Gillett,2024,1,1.8,1.5,2.2,1.9400000000000002,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2024-04-06,12:30 (13:30),Crystal Palace,Manchester City,2,4,1.1,1.9,25,Premier League,Matchweek 32,Sat,Paul Tierney,2024,-1,0.4,2.2,1.4,1.06,2.0,2.1399999999999997,2.0,0.7,-0.6666666666666666
+2024-04-06,15:00 (16:00),Aston Villa,Brentford,3,3,1.5,1.5,69,Premier League,Matchweek 32,Sat,Michael Salisbury,2024,0,1.0,0.6,2.2,1.64,1.3,1.4,1.9,1.9,0.6666666666666666
+2024-04-06,15:00 (16:00),Fulham,Newcastle Utd,0,1,1.2,1.0,66,Premier League,Matchweek 32,Sat,Samuel Allison,2024,-1,0.8,1.5,1.9,1.6300000000000001,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,-1.0
+2024-04-06,15:00 (16:00),Wolverhampton Wanderers,West Ham,1,2,1.5,1.2,58,Premier League,Matchweek 32,Sat,Tony Harrington,2024,-1,0.8,1.5,1.4,1.3699999999999999,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,1.0
+2024-04-06,15:00 (16:00),Everton,Burnley,1,0,0.9,0.5,38,Premier League,Matchweek 32,Sat,Michael Oliver,2024,1,0.8,1.2,0.8,1.44,1.0,1.19,1.4,2.2,1.0
+2024-04-06,15:00 (16:00),Luton Town,Bournemouth,2,1,1.5,0.4,55,Premier League,Matchweek 32,Sat,Andy Madley,2024,1,0.8,2.0,1.3,1.2,1.6,1.5699999999999998,2.3,1.5,-1.0
+2024-04-06,17:30 (18:30),Brighton and Hove Albion,Arsenal,0,3,0.5,3.4,54,Premier League,Matchweek 32,Sat,John Brooks,2024,-1,0.8,2.6,1.3,1.1600000000000001,3.3,2.18,1.6,0.4,-1.0
+2024-04-07,15:30 (16:30),Manchester United,Liverpool,2,2,0.7,3.6,38,Premier League,Matchweek 32,Sun,Anthony Taylor,2024,0,1.0,2.2,2.1,1.61,2.5,2.5100000000000002,1.7,1.2,1.0
+2024-04-07,17:30 (18:30),Sheffield United,Chelsea,2,2,1.4,0.3,32,Premier League,Matchweek 32,Sun,Robert Jones,2024,0,0.6,1.8,1.3,1.04,2.1,1.8200000000000003,3.1,2.1,0.0
+2024-04-07,18:00 (19:00),Tottenham Hotspur,Nott'ham Forest,3,1,1.5,1.5,63,Premier League,Matchweek 32,Sun,Simon Hooper,2024,1,2.0,1.5,2.1,1.8299999999999996,1.5328947368421053,1.4846052631578948,1.4,1.5328947368421053,1.0
+2024-04-13,12:30 (13:30),Newcastle United,Tottenham,4,0,2.8,0.8,28,Premier League,Matchweek 33,Sat,Tim Robinson,2024,1,2.0,1.5,2.5,1.83,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,1.0
+2024-04-13,15:00 (16:00),Manchester City,Luton Town,5,1,4.2,0.5,73,Premier League,Matchweek 33,Sat,John Brooks,2024,1,2.2,0.8,2.2,2.35,1.3,1.0699999999999998,0.7,2.5,1.0
+2024-04-13,15:00 (16:00),Brentford,Sheffield Utd,2,0,1.0,0.8,53,Premier League,Matchweek 33,Sat,Samuel Barrott,2024,1,1.2,1.5,1.3,1.31,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2024-04-13,15:00 (16:00),Nottingham Forest,Wolves,2,2,1.9,1.0,46,Premier League,Matchweek 33,Sat,Craig Pawson,2024,0,1.2,1.5,1.4,1.64,1.5328947368421053,1.4846052631578948,1.7,1.5328947368421053,0.0
+2024-04-13,15:00 (16:00),Burnley,Brighton,1,1,1.7,0.9,44,Premier League,Matchweek 33,Sat,Simon Hooper,2024,0,1.2,1.5,0.9,1.18,1.5328947368421053,1.4846052631578948,2.1,1.5328947368421053,0.0
+2024-04-13,17:30 (18:30),Bournemouth,Manchester Utd,2,2,1.6,1.2,43,Premier League,Matchweek 33,Sat,Tony Harrington,2024,0,2.0,1.5,1.7,1.6,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,-1.0
+2024-04-14,14:00 (15:00),Liverpool,Crystal Palace,0,1,2.7,2.0,69,Premier League,Matchweek 33,Sun,Chris Kavanagh,2024,-1,1.6,1.0,2.1,2.4899999999999998,1.2,1.15,1.2,1.8,0.3333333333333333
+2024-04-14,14:00 (15:00),West Ham United,Fulham,0,2,0.9,3.2,58,Premier League,Matchweek 33,Sun,Stuart Attwell,2024,-1,1.0,1.4,1.6,1.34,1.9,1.8,2.2,1.3,1.0
+2024-04-14,16:30 (17:30),Arsenal,Aston Villa,0,2,1.6,0.9,52,Premier League,Matchweek 33,Sun,David Coote,2024,-1,2.0,1.6,3.1,2.2199999999999998,1.9,1.5100000000000002,0.5,1.9,0.3333333333333333
+2024-04-15,20:00 (21:00),Chelsea,Everton,6,0,3.1,1.5,58,Premier League,Matchweek 33,Mon,Paul Tierney,2024,1,2.2,0.8,2.6,1.9099999999999997,0.8,1.4,2.1,2.0,0.0
+2024-04-20,15:00 (16:00),Luton Town,Brentford,1,5,0.6,3.1,53,Premier League,Matchweek 34,Sat,Jarred Gillett,2024,-1,0.6,1.8,1.3,0.95,1.7,1.4600000000000002,2.8,1.6,-1.0
+2024-04-20,15:00 (16:00),Sheffield United,Burnley,1,4,2.4,2.2,49,Premier League,Matchweek 34,Sat,Andy Madley,2024,-1,0.4,1.2,1.2,1.14,1.2,1.27,2.9,1.9,0.0
+2024-04-20,19:30 (20:30),Wolverhampton Wanderers,Arsenal,0,2,0.2,1.2,46,Premier League,Matchweek 34,Sat,Paul Tierney,2024,-1,0.4,2.0,0.9,1.0799999999999998,3.0,1.9900000000000002,1.6,0.4,-1.0
+2024-04-21,13:30 (14:30),Everton,Nott'ham Forest,2,0,0.3,0.9,41,Premier League,Matchweek 34,Sun,Anthony Taylor,2024,1,1.4,1.5,0.8,1.17,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2024-04-21,15:00 (16:00),Aston Villa,Bournemouth,3,1,2.4,1.8,56,Premier League,Matchweek 34,Sun,Tim Robinson,2024,1,2.0,1.4,2.1,1.5100000000000002,1.7,1.6,1.8,1.6,0.0
+2024-04-21,15:00 (16:00),Crystal Palace,West Ham,5,2,2.4,1.3,60,Premier League,Matchweek 34,Sun,Graham Scott,2024,1,1.4,1.5,1.6,1.3599999999999999,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,1.0
+2024-04-21,16:30 (17:30),Fulham,Liverpool,1,3,0.8,1.0,40,Premier League,Matchweek 34,Sun,Craig Pawson,2024,-1,0.8,2.0,1.7,1.7200000000000002,2.3,2.55,1.5,1.0,-0.6666666666666666
+2024-04-23,20:00 (21:00),Arsenal,Chelsea,5,0,3.3,1.6,45,Premier League,Matchweek 29,Tue,Simon Hooper,2024,1,2.4,1.6,2.9,1.9600000000000002,2.5,2.0100000000000002,0.4,2.2,0.6666666666666666
+2024-04-24,19:45 (20:45),Wolverhampton Wanderers,Bournemouth,0,1,0.5,1.9,63,Premier League,Matchweek 29,Wed,Stuart Attwell,2024,-1,0.4,1.4,0.9,1.0299999999999998,1.6,1.5699999999999998,1.5,1.4,-1.0
+2024-04-24,20:00 (21:00),Manchester United,Sheffield Utd,4,2,2.9,0.8,71,Premier League,Matchweek 29,Wed,Michael Salisbury,2024,1,1.2,1.5,2.0,1.6199999999999999,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,0.0
+2024-04-24,20:00 (21:00),Crystal Palace,Newcastle Utd,2,0,0.9,0.4,47,Premier League,Matchweek 29,Wed,Thomas Bramall,2024,1,1.8,1.5,1.7,1.3900000000000001,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2024-04-24,20:00 (21:00),Everton,Liverpool,2,0,1.2,2.1,25,Premier League,Matchweek 29,Wed,Andy Madley,2024,1,2.0,1.4,1.0,1.2600000000000002,2.0,2.48,1.6,1.1,-0.6666666666666666
+2024-04-25,20:00 (21:00),Brighton and Hove Albion,Manchester City,0,4,0.6,1.4,36,Premier League,Matchweek 29,Thu,Jarred Gillett,2024,-1,0.4,2.6,1.0,1.08,2.4,2.33,1.6,0.7,0.0
+2024-04-27,12:30 (14:30),West Ham United,Liverpool,2,2,0.7,1.7,29,Premier League,Matchweek 35,Sat,Anthony Taylor,2024,0,1.0,1.0,2.0,1.4700000000000002,1.8,2.37,2.1,1.2,-1.0
+2024-04-27,15:00 (17:00),Newcastle United,Sheffield Utd,5,1,3.1,1.5,60,Premier League,Matchweek 35,Sat,Tony Harrington,2024,1,2.0,1.5,2.3,1.9,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2024-04-27,15:00 (17:00),Manchester United,Burnley,1,1,2.7,2.1,48,Premier League,Matchweek 35,Sat,John Brooks,2024,0,1.2,1.2,1.9,1.7100000000000002,1.3,1.45,1.8,1.5,0.0
+2024-04-27,15:00 (17:00),Fulham,Crystal Palace,1,1,1.1,1.0,53,Premier League,Matchweek 35,Sat,Stuart Attwell,2024,0,0.8,2.0,1.7,1.6800000000000002,1.7,1.42,1.4,1.3,0.3333333333333333
+2024-04-27,15:00 (17:00),Wolverhampton Wanderers,Luton Town,2,1,1.2,0.6,58,Premier League,Matchweek 35,Sat,David Coote,2024,1,0.8,0.6,0.9,0.9700000000000001,1.3,0.9199999999999999,1.5,2.6,0.0
+2024-04-27,17:30 (19:30),Everton,Brentford,1,0,0.8,0.9,48,Premier League,Matchweek 35,Sat,Darren England,2024,1,2.4,1.6,1.0,1.17,1.7,1.51,1.5,1.6,0.6666666666666666
+2024-04-27,20:00 (22:00),Aston Villa,Chelsea,2,2,1.1,1.6,29,Premier League,Matchweek 35,Sat,Craig Pawson,2024,0,1.6,1.6,2.1,1.4700000000000002,2.5,2.0,1.9,2.0,0.3333333333333333
+2024-04-28,14:00 (16:00),Tottenham Hotspur,Arsenal,2,3,2.3,1.0,62,Premier League,Matchweek 35,Sun,Michael Oliver,2024,-1,1.4,2.4,1.8,1.75,2.7,1.8299999999999996,1.7,0.6,-1.0
+2024-04-28,14:00 (16:00),Bournemouth,Brighton,3,0,1.9,0.9,31,Premier League,Matchweek 35,Sun,Paul Tierney,2024,1,1.4,1.5,1.9,1.67,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,-1.0
+2024-04-28,16:30 (18:30),Nottingham Forest,Manchester City,0,2,1.9,0.9,34,Premier League,Matchweek 35,Sun,Simon Hooper,2024,-1,0.8,3.0,1.0,1.4899999999999998,2.5,2.16,1.8,0.6,0.0
+2024-05-02,19:30 (21:30),Chelsea,Tottenham,2,0,2.2,1.6,37,Premier League,Matchweek 26,Thu,Robert Jones,2024,1,1.6,1.5,2.4,2.08,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2024-05-03,20:00 (22:00),Luton Town,Everton,1,1,0.8,1.4,51,Premier League,Matchweek 36,Fri,Tim Robinson,2024,0,0.8,2.0,1.2,0.82,1.0,1.28,2.4,1.5,1.0
+2024-05-04,12:30 (14:30),Arsenal,Bournemouth,3,0,3.3,0.5,55,Premier League,Matchweek 36,Sat,David Coote,2024,1,2.4,1.4,2.6,1.8800000000000001,1.7,1.6099999999999999,0.5,1.6,1.0
+2024-05-04,15:00 (17:00),Brentford,Fulham,0,0,0.6,1.3,54,Premier League,Matchweek 36,Sat,Graham Scott,2024,0,1.6,1.0,1.5,1.48,1.5,1.6900000000000002,1.2,1.3,0.3333333333333333
+2024-05-04,15:00 (17:00),Burnley,Newcastle Utd,1,4,1.0,3.4,47,Premier League,Matchweek 36,Sat,Anthony Taylor,2024,-1,1.0,1.5,1.4,1.54,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2024-05-04,15:00 (17:00),Sheffield United,Nott'ham Forest,1,3,2.2,1.5,54,Premier League,Matchweek 36,Sat,Chris Kavanagh,2024,-1,0.0,1.5,1.3,1.3,1.5328947368421053,1.4846052631578948,3.4,1.5328947368421053,0.0
+2024-05-04,17:30 (19:30),Manchester City,Wolves,5,1,3.7,0.3,58,Premier League,Matchweek 36,Sat,Craig Pawson,2024,1,3.0,1.5,2.9,2.3,1.5328947368421053,1.4846052631578948,0.7,1.5328947368421053,1.0
+2024-05-05,14:00 (16:00),Chelsea,West Ham,5,0,4.1,0.9,69,Premier League,Matchweek 36,Sun,Andy Madley,2024,1,2.0,1.5,2.8,2.35,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,1.0
+2024-05-05,14:00 (16:00),Brighton and Hove Albion,Aston Villa,1,0,2.5,0.1,52,Premier League,Matchweek 36,Sun,Robert Jones,2024,1,0.8,1.6,0.5,1.01,1.7,1.12,1.7,1.8,-1.0
+2024-05-05,16:30 (18:30),Liverpool,Tottenham,4,2,3.3,1.2,44,Premier League,Matchweek 36,Sun,Paul Tierney,2024,1,1.4,1.5,1.8,2.37,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,1.0
+2024-05-06,20:00 (22:00),Crystal Palace,Manchester Utd,4,0,1.7,0.4,43,Premier League,Matchweek 36,Mon,Jarred Gillett,2024,1,2.6,1.5,1.8,1.35,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,0.0
+2024-05-11,12:30 (14:30),Fulham,Manchester City,0,4,0.1,3.2,36,Premier League,Matchweek 37,Sat,Anthony Taylor,2024,-1,1.0,3.0,1.2,1.5699999999999998,3.2,2.46,1.7,0.7,-1.0
+2024-05-11,15:00 (17:00),Tottenham Hotspur,Burnley,2,1,2.7,0.7,63,Premier League,Matchweek 37,Sat,Jarred Gillett,2024,1,0.6,1.0,1.6,1.7899999999999998,1.5,1.46,2.0,1.6,0.0
+2024-05-11,15:00 (17:00),Newcastle United,Brighton,1,1,2.2,1.4,57,Premier League,Matchweek 37,Sat,Darren England,2024,0,2.0,1.5,2.5,2.2199999999999998,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,1.0
+2024-05-11,15:00 (17:00),West Ham United,Luton Town,3,1,3.2,0.3,58,Premier League,Matchweek 37,Sat,Michael Oliver,2024,1,0.8,0.2,1.6,1.52,1.2,0.7699999999999999,2.4,2.6,0.0
+2024-05-11,15:00 (17:00),Bournemouth,Brentford,1,2,0.7,1.1,48,Premier League,Matchweek 37,Sat,Matt Donohue,2024,-1,1.2,2.0,1.6,1.35,1.5,1.4100000000000001,1.6,1.1,-0.3333333333333333
+2024-05-11,15:00 (17:00),Wolverhampton Wanderers,Crystal Palace,1,3,1.6,2.6,62,Premier League,Matchweek 37,Sat,Thomas Bramall,2024,-1,0.6,2.6,1.0,0.95,2.0,1.58,2.0,1.1,1.0
+2024-05-11,15:00 (17:00),Everton,Sheffield Utd,1,0,2.3,0.6,58,Premier League,Matchweek 37,Sat,Stuart Attwell,2024,1,2.6,1.5,1.0,1.2399999999999998,1.5328947368421053,1.4846052631578948,1.2,1.5328947368421053,0.0
+2024-05-11,17:30 (19:30),Nottingham Forest,Chelsea,2,3,1.5,1.6,33,Premier League,Matchweek 37,Sat,Tony Harrington,2024,-1,0.8,2.0,1.3,1.4300000000000002,2.9,2.33,1.7,1.8,0.0
+2024-05-12,16:30 (18:30),Manchester United,Arsenal,0,1,0.5,1.5,54,Premier League,Matchweek 37,Sun,Paul Tierney,2024,-1,1.0,3.0,1.6,1.34,2.1,1.8,2.0,0.5,1.0
+2024-05-13,20:00 (22:00),Aston Villa,Liverpool,3,3,3.1,1.7,41,Premier League,Matchweek 37,Mon,Simon Hooper,2024,0,1.6,1.6,1.7,1.24,2.0,2.3400000000000003,1.9,1.6,-0.6666666666666666
+2024-05-14,20:00 (22:00),Tottenham Hotspur,Manchester City,0,2,1.7,2.4,53,Premier League,Matchweek 34,Tue,Chris Kavanagh,2024,-1,0.6,3.0,1.2,1.81,3.1,2.37,2.2,0.6,1.0
+2024-05-15,19:45 (21:45),Brighton and Hove Albion,Chelsea,1,2,1.3,1.5,55,Premier League,Matchweek 34,Wed,Michael Salisbury,2024,-1,0.8,2.6,0.6,1.0100000000000002,2.8,2.32,1.6,1.7,1.0
+2024-05-15,20:00 (22:00),Manchester United,Newcastle Utd,3,2,1.5,2.2,45,Premier League,Matchweek 34,Wed,Robert Jones,2024,1,1.4,1.5,1.8,1.47,1.5328947368421053,1.4846052631578948,1.9,1.5328947368421053,0.0
+2024-05-19,16:00 (18:00),Manchester City,West Ham,3,1,1.9,0.4,71,Premier League,Matchweek 38,Sun,John Brooks,2024,1,3.0,1.5,3.3,2.4,1.5328947368421053,1.4846052631578948,0.6,1.5328947368421053,1.0
+2024-05-19,16:00 (18:00),Arsenal,Everton,2,1,2.9,0.6,68,Premier League,Matchweek 38,Sun,Michael Oliver,2024,1,3.0,2.0,2.1,1.9599999999999997,1.1,1.1400000000000001,0.5,1.2,0.3333333333333333
+2024-05-19,16:00 (18:00),Liverpool,Wolves,2,0,4.5,0.5,67,Premier League,Matchweek 38,Sun,Chris Kavanagh,2024,1,1.6,1.5,2.1,2.5200000000000005,1.5328947368421053,1.4846052631578948,1.5,1.5328947368421053,1.0
+2024-05-19,16:00 (18:00),Chelsea,Bournemouth,2,1,1.1,2.2,61,Premier League,Matchweek 38,Sun,Anthony Taylor,2024,1,3.0,1.2,2.8,2.01,1.3,1.34,1.6,1.5,0.6666666666666666
+2024-05-19,16:00 (18:00),Crystal Palace,Aston Villa,5,0,2.5,0.9,54,Premier League,Matchweek 38,Sun,Darren Bond,2024,1,2.6,1.0,2.4,1.56,1.7,1.25,1.0,2.0,-0.3333333333333333
+2024-05-19,16:00 (18:00),Brighton and Hove Albion,Manchester Utd,0,2,1.7,1.3,55,Premier League,Matchweek 38,Sun,Craig Pawson,2024,-1,0.8,1.5,0.5,1.1400000000000001,1.5328947368421053,1.4846052631578948,1.8,1.5328947368421053,1.0
+2024-05-19,16:00 (18:00),Brentford,Newcastle Utd,2,4,1.1,3.4,54,Premier League,Matchweek 38,Sun,Simon Hooper,2024,-1,1.4,1.5,1.6,1.4200000000000002,1.5328947368421053,1.4846052631578948,1.3,1.5328947368421053,-1.0
+2024-05-19,16:00 (18:00),Luton Town,Fulham,2,4,2.0,1.1,41,Premier League,Matchweek 38,Sun,Matt Donohue,2024,-1,0.2,1.0,1.1,0.7699999999999999,1.5,1.4200000000000002,2.6,1.7,-1.0
+2024-05-19,16:00 (18:00),Burnley,Nott'ham Forest,1,2,1.2,1.7,72,Premier League,Matchweek 38,Sun,Graham Scott,2024,-1,0.8,1.5,1.4,1.51,1.5328947368421053,1.4846052631578948,1.6,1.5328947368421053,0.0
+2024-05-19,16:00 (18:00),Sheffield United,Tottenham,0,3,1.0,3.1,25,Premier League,Matchweek 38,Sun,Andy Madley,2024,-1,0.0,1.5,1.1,1.32,1.5328947368421053,1.4846052631578948,3.0,1.5328947368421053,0.0

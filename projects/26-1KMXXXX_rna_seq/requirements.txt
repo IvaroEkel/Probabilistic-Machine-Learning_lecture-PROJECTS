@@ -1,0 +1,18 @@
+# R version
+R>=4.3.0
+
+# R dependencies
+tidyverse
+MASS
+ggplot2
+ggrepel
+pheatmap
+RColorBrewer
+pbapply
+matrixStats
+here
+readr
+dplyr
+tibble
+grDevices
+stats
