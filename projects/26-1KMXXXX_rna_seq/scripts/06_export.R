@@ -46,12 +46,14 @@ export_deg_results <- function(results_df, norm_counts, log2fc_cutoff = 1, padj_
     ggplot2::scale_color_manual(values = c("up" = "red", "down" = "blue", "ns" = "grey")) +
     ggplot2::geom_vline(xintercept = c(-log2fc_cutoff, log2fc_cutoff), linetype = "dashed") +
     ggplot2::geom_hline(yintercept = -log10(padj_cutoff), linetype = "dashed") +
-    ggplot2::coord_cartesian(xlim = c(-7, 7)) +
+    ggplot2::coord_cartesian(xlim = c(-6, 6), ylim = c(0, 30)) +
     ggplot2::theme_minimal() +
-    ggplot2::labs(title = "Volcano Plot: NASH vs Healthy",
-                  x = "log2 Fold Change (NB-GLM coefficient)",
-                  y = "-log10 adjusted p-value",
-                  color = "Regulation")
+    ggplot2::labs(
+      title = "Volcano Plot: NASH vs Healthy",
+      x = "log2 Fold Change (NB-GLM coefficient)",
+      y = "-log10 adjusted p-value",
+      color = "Regulation"
+    )
   
   dir.create(dirname(volcano_path), showWarnings = FALSE, recursive = TRUE)
   ggplot2::ggsave(volcano_path, p, width = 8, height = 6)

@@ -110,30 +110,6 @@ def apply_label_mappings_int(dataframe, mapping_dict_path):
 
     return dataframe
 
-# encoding categorical features for model compatibility
-
-from sklearn.preprocessing import LabelEncoder
-
-def encode_categorical_features(dataframe):
-    encoders = {}
-    df_encoded = dataframe.astype("int64").copy()
-    
-    for column in df_encoded.columns:
-        le = LabelEncoder()
-        df_encoded[column] = le.fit_transform(df_encoded[column])
-        encoders[column] = le
-    
-    encoder_mapping = {
-        col: [str(val) for val in le.classes_]
-        for col, le in encoders.items()
-    }
-    encoder_mapping_dict = {
-        col: {i: str(val) for i, val in enumerate(le.classes_)}
-        for col, le in encoders.items()
-    }
-
-    return df_encoded, encoder_mapping_dict
-
 
 # save dictionary
 
@@ -142,3 +118,34 @@ def save_dictionary(dictionary, path):
     with open(base_path/path, "w") as f:
         json.dump(dictionary, f, indent=2)
     print("Dictionary Saved!")
+
+
+# Evaluation
+import numpy as np
+from sklearn.metrics import accuracy_score, f1_score, classification_report, log_loss
+
+def evaluate_model(y_pred, y_test, model_name, y_proba=None):
+    acc = accuracy_score(y_test, y_pred)
+    f1_macro = f1_score(y_test, y_pred, average="macro", zero_division=0)
+    f1_weighted = f1_score(y_test, y_pred, average="weighted", zero_division=0)
+
+    if y_proba is not None:
+        ll = log_loss(y_test, y_proba, labels=np.unique(y_test))
+    else:
+        ll = None
+
+    print(f"{model_name}:")
+    print("Accuracy:", acc)
+    print("Macro-F1:", f1_macro)
+    print("Weighted-F1:", f1_weighted)
+    if ll is not None:
+        print("Log-Loss:", ll)
+    print(classification_report(y_test, y_pred, zero_division=0))
+
+    return pd.DataFrame([{
+        "Model": model_name,
+        "Accuracy": acc,
+        "Macro-F1": f1_macro,
+        "Weighted-F1": f1_weighted,
+        "Log-Loss": ll
+    }])

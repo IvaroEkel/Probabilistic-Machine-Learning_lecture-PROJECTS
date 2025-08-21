@@ -51,7 +51,7 @@ qc_save_plots(norm$logcounts, colData, cfg$out_figs)
 log_info("Dispersion plot (Var~Mean)...")
 disp_save_plots(norm$norm_counts, cfg$out_figs)
 
-log_info("Fit NB-GLM with offset...")
+log_info("Fit NB-GLM...")
 res <- nb_glm_with_offset(filt$counts, colData, norm$size_factors)
 
 # safety: ensure 'gene' column present

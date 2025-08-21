@@ -1,3 +1,13 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:68ddb285b1fc73f48422a6fda314dbd9f35b7d43960b61ef78a9b5872625bed5
 size 66
+matplotlib
+tqdm
+seaborn
+numpy
+pandas
+pyarrow
+chess
+datasets
+scikit-learn
+pymc
